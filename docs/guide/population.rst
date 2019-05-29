@@ -1,20 +1,16 @@
-|image45|\ POPULATION GROWTH 
-=============================
+|imgPopIcon| POPULATION GROWTH 
+===============================
 
 **Assume higher or lower population growth.** Population is a key driver of increased greenhouse gases; however, this is also tied heavily to consumption habits. Women’s education and access to family planning could accelerate shifts to smaller families worldwide.
-
-.. _examples-12:
 
 Examples
 --------
 
--  Different assumptions for future fertility rates and demographics.
+* Different assumptions for future fertility rates and demographics.
 
--  Greater empowerment of women and girls, resulting in lower fertility rates.
+* Greater empowerment of women and girls, resulting in lower fertility rates.
 
--  Increased education on and access to reproductive health services.
-
-.. _slider-settings-12:
+* Increased education on and access to reproductive health services.
 
 Slider Settings
 ---------------
@@ -28,28 +24,26 @@ Scenario           1.6 to 2    **2 to 2.3**     2.3 to 2.4
 Population by 2100 9.6 billion **11.1 billion** 13.3 billion
 ================== =========== ================ ============
 
-.. _section-14:
-
-.. _key-dynamics-12:
-
 Key Dynamics
 ------------
 
--  Watch all the sources of energy change as you change population growth.
-
-.. _big-message-10:
+* Watch all the sources of energy change as you change population growth.
 
 Big Message
 -----------
 
--  Contrary to some people’s beliefs, population growth is not a silver bullet for addressing climate change.
+* Contrary to some people’s beliefs, population growth is not a silver bullet for addressing climate change.
 
--  Decisions around population and family choice are very personal decisions and efforts to shift these decisions have ethical implications in many cultures.
-
-.. _model-structure-10:
+* Decisions around population and family choice are very personal decisions and efforts to shift these decisions have ethical implications in many cultures.
 
 Model Structure
 ---------------
 
 Population gets multiplied with economic growth (GDP per capita) to equal total global GDP, or Gross World Product.
 
+
+.. SUBSTITUTIONS SECTION
+
+.. |brokenImage| image:: ../images/media/image26.png
+   :width: 0.61475in
+   :height: 0.47903in

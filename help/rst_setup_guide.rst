@@ -81,7 +81,11 @@ Below is a guide to help write reStructuredText documents
 
 **Helper pages:**
 
-I find this summary page the most helpful, but there are other pages on the web, of course:
+
+I find this summary page the most helpful as they have written it for a general audience. They include a lot of nice examples for lists, images, tables, linking, etc.:
+https://draft-edx-style-guide.readthedocs.io/en/latest/ExampleRSTFile.html
+
+reST Basics guide from Sphinx:
 http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 
 reST Cheatsheet:
@@ -126,6 +130,35 @@ ReStructuredText allows you to use different symbols to denote headings and sect
 Formatting Text
 ====================
 
+
+
+
+Ordered and Unordered Lists
+===================================
+
+Use hash symbols (`#`) for ordered lists. When you use hash marks, the list will auto-number which makes ordering easy. You can use numbers also (e.g., `1.`), but then the numbering is manual.
+
+::
+
+	#. Here is the first item in the ordered list
+	#. This item will automatically get the number 2
+	#. One more for good luck
+
+.. note:: Ordered lists usually use numerals. Nested ordered lists (ordered lists inside other ordered lists) use letters.
+
+Use asterisks for unordered (bulleted) lists.
+
+::
+
+	* Who is teaching the course?
+	* What university or college is the course affiliated with?
+	* What topics and concepts are covered in your course?
+	* Why should a learner enroll in your course?
+
+
+For more good examples of lists and how to nest them, check out:
+
+`Example RST File:Lists <https://draft-edx-style-guide.readthedocs.io/en/latest/ExampleRSTFile.html#ordered-and-unordered-lists>`_
 
 
 

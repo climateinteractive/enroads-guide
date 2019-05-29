@@ -1,5 +1,5 @@
-|imgGasIcon| NATURAL GAS
-=======================
+|imgGasIcon| Natural Gas
+========================
 
 **Discourage or encourage drilling and burning natural gas for energy.** Natural Gas is a fossil fuel that is used for electricity, heating, and industry. When burned, it releases carbon dioxide (although less than coal and oil) and, if leaked into the air, it contains high amounts of methane. Natural gas drilling uses large amounts of water and can cause contamination.
 
