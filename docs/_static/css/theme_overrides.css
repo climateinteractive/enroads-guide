@@ -1,0 +1,47 @@
+/* Custom CSS to modify the ReadTheDocs theme */
+
+/* Hide "On GitHub" section from versions menu */
+div.rst-versions > div.rst-other-versions > div.injected > dl:nth-child(4) {
+    display: none;
+}
+
+/* Hide "On ReadTheDocs" section from versions menu */
+div.rst-versions > div.rst-other-versions > div.injected > dl:nth-child(3) {
+    display: none;
+}
+
+/* The ReadTheDocs theme defaults to 768px width; delete this to revert. */
+/* 1200px is a good size but still fixed.  100% uses everything.  */
+.wy-nav-content {
+/* 	max-width: 1200px !important; */
+	max-width: 100% !important;
+}
+
+/* The ReadTheDocs theme defaults 'no wrap' for text in tables, but we'd like wrapping. */
+/* override table width restrictions */
+@media screen and (min-width: 767px) {
+
+   .wy-table-responsive table td {
+      /* !important prevents the common CSS stylesheets from overriding
+         this as on RTD they are loaded after this stylesheet */
+      white-space: normal !important;
+   }
+
+   .wy-table-responsive {
+      overflow: visible !important;
+   }
+}
+
+/*   Another solution if the above doesn't work
+	.wy-table-responsive table td, .wy-table-responsive table th {
+    white-space: normal;
+}
+
+.wy-table-responsive {
+    margin-bottom: 24px;
+    max-width: 100%;
+    overflow: visible;
+}
+
+*/
+
