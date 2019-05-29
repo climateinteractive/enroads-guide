@@ -129,7 +129,7 @@ Emissions must fall significantly just to change the growth in temperature and C
 
 
 
-
+.. SUBSTITUTIONS SECTION
 
 .. |image0| image:: ../images/media/image2.png
    :width: 0.60671in
