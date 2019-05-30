@@ -1,5 +1,5 @@
-|imgTransEEIcon| TRANSPORT – ENERGY EFFICIENCY 
-==============================================
+|imgTransEEIcon| Transport – Energy Efficiency
+================================================
 
 **Increase or decrease the energy efficiency of vehicles, shipping, air travel, and transportation systems.** Energy efficiency includes things like hybrid cars, expanded public transport, and ways that people can get around using less energy. Adopting more energy efficient practices, such as cycling and walking, can improve public health and save money.
 
@@ -36,6 +36,6 @@ Increasing the rate of improvement in energy use for new vehicles and other infr
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image18.png
+.. |imgTransEEIcon| image:: ../images/transportee_icon.png
    :width: 0.55694in
    :height: 0.49064in
