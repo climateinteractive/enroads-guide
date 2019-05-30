@@ -1,4 +1,4 @@
-|imgCarbonPriceIcon| CARBON PRICE
+|imgCarbonPriceIcon| Carbon Price
 =================================
 
 **Set a global carbon price that makes coal, oil, and gas more expensive depending on how much carbon dioxide they release.** Energy producers frequently pass additional costs to their customers, so policy must be designed to minimize the impacts on the poorest.
@@ -24,9 +24,7 @@ Key Dynamics
 
 * When the carbon price is increased, notice that coal (brown line) reduces the most in the “Sources of Primary Energy” graph. It is the most carbon intensive source of energy, which makes it the most sensitive to a carbon price. Natural gas (blue line) moves down as well, although more modestly. Oil (red line) decreases only slightly, even though it is more carbon intensive than gas, because it is not easily substituted for other energy sources (e.g. can’t power a diesel truck with wind power). Renewable energy (green line) increases as the relative cost of wind and solar make them more attractive.
 
-* View “Final Energy Consumption” graph
-
-   * Just like taxing coal, a carbon price increases energy costs, which reduces energy demand. View this in the “Energy Consumption” graph and notice that the current scenario with a carbon price (blue line) is lower than business as usual (black line).
+* View “Final Energy Consumption” graph. Just like taxing coal, a carbon price increases energy costs, which reduces energy demand. View this in the “Energy Consumption” graph and notice that the current scenario with a carbon price (blue line) is lower than business as usual (black line).
 
 
 Big Message
@@ -37,6 +35,6 @@ Big Message
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image16.png
+.. |imgCarbonPriceIcon| image:: ../images/cprice_icon.png
    :width: 0.49604in
    :height: 0.49604in
