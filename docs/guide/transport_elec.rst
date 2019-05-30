@@ -1,4 +1,4 @@
-|imgTranElecIcon| TRANSPORT – ELECTRIFICATION
+|imgTranElecIcon| Transport – Electrification
 ==============================================
 
 **Increase or decrease purchases of new electric cars, trucks, buses, trains, and ships.** Using electric motors for transport helps reduce greenhouse gas emissions and air pollution if the electricity is from low carbon sources like solar and wind.
@@ -49,6 +49,6 @@ Unlike the inputs for energy sources, which change the financial attractiveness 
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image20.png
+.. |imgTranElecIcon| image:: ../images/TranElec_icon.png
    :width: 0.55569in
    :height: 0.45763in
