@@ -41,13 +41,44 @@ You need to install two different packages via a command line. (A command line!?
 
 In your ``/Application/Utilities`` folder, open the application Terminal.  An easy way to open Terminal is to use Spotlight (Cmd-space) and type "terminal".
 
+Let's check to see how your compute is currently set up:
+
+In Terminal, at the prompt, type in:
+
+``which python``
+
+this will likely return a line that ``/usr/bin/python``.  If so, then type:
+
+``python --version``
+
+As of May 2019, this should return ``Python 2.7.10``.  Next, check to see if a command called ``pip`` is installed, by typing:
+
+``which pip``
+
+If it doesn't return anything (kinda looks like nothing happened), then ``pip`` isn't installed.  If it returns something like ``/usr/local/bin/pip``, then you're all set and can skip the next two commands, and to the command to install ``Sphinx``.
+
+If ``pip`` isn't installed, please do the following commands.  **Note:** you'll be asked to enter in a password after the second command that starts with ``sudo``. Enter the password that you use to unlock and log into your computer.
+
+::
+
+  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+  sudo python get-pip.py
+
+
+Now ``pip`` is installed. With this tool installed, we can install the tool that we really need call ``sphinx``.
 At the prompt copy and paste in the following:
 
-``pip install --user sphinx``
+``sudo pip install --user sphinx``
 
 and then
 
-``pip install --user sphinx_rtd_theme``
+``sudo pip install --user sphinx_rtd_theme``
+
+
+.. Finally, we may
+   export PATH=$PATH:.:/Users/travler/Library/Python/2.7/bin
+
 
 You're done.  Nice work.
 
@@ -72,6 +103,15 @@ In Visual Studio Code, go to the View menu and choose "Extensions".  In the sear
 Now go to :menuselection:`File-->Open` and choose the folder for the documentation -- the directory of the GitHub repository. This will create a `workspace` in Visual Studio Code that allows you to see all of the files in the repository. 
 
 You should now be able to render (preview) the RST file by pressing :kbd:`cmd-shift-R`.
+
+
+Publishing with ReadTheDocs.org
+===============================
+
+
+
+
+
 
 
 reStructuredText Guide
@@ -130,6 +170,9 @@ ReStructuredText allows you to use different symbols to denote headings and sect
 Formatting Text
 ====================
 
+Writing a paragraph is as simple as writing text.  You just need to leave a blank line after each paragraph.
+
+Bold text is marked by two asteriks.  You make something bold like this: ``**Bold Text**``, which renders like this **Bold Text**.
 
 
 
