@@ -1,5 +1,5 @@
-|imgNewTechIcon| NEW TECHNOLOGY
-===============================
+|imgNewTechIcon| New Technology
+==================================
 
 **Discover a brand-new cheap source of electricity that does not emit greenhouse gases.** Some speculate that such a breakthrough could be nuclear fusion or thorium-based nuclear fission. Decide when the breakthrough occurs, its initial cost relative to coal, and how long the delays in commercialization and scale up would be.
 
@@ -42,6 +42,6 @@ The path to deployment will take some time after the success of the technology i
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image14.png
+.. |imgNewTechIcon| image:: ../images/newtech_icon.png
    :width: 0.35931in
    :height: 0.49106in
