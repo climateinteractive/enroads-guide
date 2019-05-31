@@ -35,6 +35,6 @@ Big Message
 
 .. SUBSTITUTIONS SECTION
 
-.. |imgCarbonPriceIcon| image:: ../images/cprice_icon.png
+.. |imgCarbonPriceIcon| image:: ../images/icons/cprice_icon.png
    :width: 0.49604in
    :height: 0.49604in

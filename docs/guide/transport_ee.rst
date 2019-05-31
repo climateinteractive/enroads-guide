@@ -36,6 +36,6 @@ Increasing the rate of improvement in energy use for new vehicles and other infr
 
 .. SUBSTITUTIONS SECTION
 
-.. |imgTransEEIcon| image:: ../images/transportee_icon.png
+.. |imgTransEEIcon| image:: ../images/icons/transportee_icon.png
    :width: 0.55694in
    :height: 0.49064in

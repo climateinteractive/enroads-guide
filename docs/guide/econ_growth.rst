@@ -1,4 +1,4 @@
-|imgEconGrowthIcon| ECONOMIC GROWTH 
+|imgEconGrowthIcon| Economic Growth
 ===================================
 
 **Assume higher or lower growth in goods produced and services provided.** Economic Growth is measured in Gross Domestic Product (GDP) per person and is a key driver in energy consumption. Alternatives exist to meeting people’s needs through economic frameworks not based on constant GDP growth.
@@ -39,6 +39,6 @@ Whereas, in the real world, there would be feedbacks to economic growth from ene
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image28.png
+.. |imgEconGrowthIcon| image:: ../images/icons/econ_icon.png
    :width: 0.56702in
    :height: 0.49385in

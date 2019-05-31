@@ -55,6 +55,6 @@ This sector tracks several stages of nuclear power plants, or “energy supply c
 
 .. SUBSTITUTIONS SECTION
 
-.. |imgNuclearIcon| image:: ../images/nuclear_icon.png
+.. |imgNuclearIcon| image:: ../images/icons/nuclear_icon.png
    :width: 0.46111in
    :height: 0.49339in

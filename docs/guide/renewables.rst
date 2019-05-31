@@ -73,6 +73,6 @@ The most important feedback loops in the renewables sector include:
 
 .. SUBSTITUTIONS SECTION
 
-.. |imgRenewablesIcon| image:: ../images/renewables_icon.png
+.. |imgRenewablesIcon| image:: ../images/icons/renewables_icon.png
    :width: 0.52569in
    :height: 0.52152in

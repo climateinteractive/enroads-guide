@@ -49,6 +49,6 @@ Unlike the inputs for energy sources, which change the financial attractiveness 
 
 .. SUBSTITUTIONS SECTION
 
-.. |imgTranElecIcon| image:: ../images/TranElec_icon.png
+.. |imgTranElecIcon| image:: ../images/icons/transportelec_icon.png
    :width: 0.55569in
    :height: 0.45763in

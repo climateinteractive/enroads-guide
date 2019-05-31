@@ -1,4 +1,4 @@
-|imgBuildingsElecIcon| BUILDINGS AND INDUSTRY – ELECTRIFICATION 
+|imgBuildingsElecIcon| Buildings and Industry - Electrification 
 ===============================================================
 
 **Increase or decrease the use of electricity, instead of fuels like oil or gas, in buildings, appliances, heating systems, and other machines.** Using electric motors only helps reduce emissions if the electricity is from low carbon sources like solar and wind.
@@ -45,6 +45,6 @@ This input affects climate outcomes through two pathways:
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image24.png
+.. |imgBuildingsElecIcon| image:: ../images/icons/buildingelectric_icon.png
    :width: 0.43756in
    :height: 0.48429in

@@ -1,4 +1,4 @@
-|imgTechRemovalIcon| TECHNOLOGICAL CARBON DIOXIDE REMOVAL 
+|imgTechRemovalIcon| Technological Carbon Dioxide Removal
 ==========================================================
 
 **Pull carbon dioxide out of the air with new technologies that enhance natural removals or manually sequester and store carbon.** Carbon Dioxide Removal (CDR) technologies include: direct air capture, bioenergy with carbon capture and storage (BECCS), biochar, and others. These are not yet used at large scales, and most face significant barriers to deployment.
@@ -37,6 +37,6 @@ The five methods of CO\ :sub:`2` removal included are modeled independently. The
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image36.png
+.. |imgTechRemovalIcon| image:: ../images/icons/cdr_icon.png
    :width: 0.71758in
    :height: 0.49177in

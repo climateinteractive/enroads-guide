@@ -1,4 +1,4 @@
-|imgAfforestationIcon| AFFORESTATION
+|imgAfforestationIcon| Afforestation
 ====================================
 
 **Plant new forests and restore old forests.** As trees grow, they draw carbon out of the air, which reduces the concentration of carbon dioxide. However, without care, large-scale afforestation can compromise biodiversity and historical land rights.
@@ -39,6 +39,6 @@ The input changes total or gross carbon removal from trees and plants through ph
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image34.png
+.. |imgAfforestationIcon| image:: ../images/icons/afforestation_icon.png
    :width: 0.63286in
    :height: 0.50101in

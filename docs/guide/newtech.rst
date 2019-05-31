@@ -42,6 +42,6 @@ The path to deployment will take some time after the success of the technology i
 
 .. SUBSTITUTIONS SECTION
 
-.. |imgNewTechIcon| image:: ../images/newtech_icon.png
+.. |imgNewTechIcon| image:: ../images/icons/newtech_icon.png
    :width: 0.35931in
    :height: 0.49106in

@@ -1,4 +1,4 @@
-|imgDeforestationIcon| DEFORESTATION
+|imgDeforestationIcon| Deforestation
 ====================================
 
 **Decrease or increase the loss of forests for agricultural and wood product uses.** Deforestation often entails burning and removing forests to clear land for crops like soybeans, corn, or palm oil. Forest protection efforts increase biodiversity and can support community resilience.
@@ -42,6 +42,6 @@ Emissions from deforestation stay level in the business as usual scenario.
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image30.png
+.. |imgDeforestationIcon| image:: ../images/icons/deforestation_icon.png
    :width: 0.92623in
    :height: 0.43265in

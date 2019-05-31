@@ -53,6 +53,6 @@ The cost of natural gas affects three significant decisions regarding energy inf
 
 .. SUBSTITUTIONS SECTION
 
-.. |imgGasIcon| image:: ../images/gas_icon.png
+.. |imgGasIcon| image:: ../images/icons/gas_icon.png
    :width: 0.59639in
    :height: 0.49444in

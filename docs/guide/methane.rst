@@ -1,4 +1,4 @@
-|imgMethaneIcon| METHANE & OTHER GASES
+|imgMethaneIcon| Methane & Other Gases
 =======================================
 
 **Decrease or increase greenhouse gas emissions from methane, nitrous oxide, and the f-gases.** Methane is released from sources like cows, agriculture, natural gas drilling, and waste. Nitrous oxide comes from fertilizers. The f-gases, includes HFCs, PFCs, and others that are used in industry and consumer goods like air conditioners.
@@ -49,6 +49,6 @@ Co-Benefits
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image32.png
+.. |imgMethaneIcon| image:: ../images/icons/methane_icon.png
    :width: 0.78131in
    :height: 0.49772in

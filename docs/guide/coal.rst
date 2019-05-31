@@ -52,6 +52,6 @@ The cost of coal affects three significant decisions regarding energy infrastruc
 
 .. SUBSTITUTIONS SECTION
 
-.. |imgCoalIcon| image:: ../images/coal_icon.png
+.. |imgCoalIcon| image:: ../images/icons/coal_icon.png
    :width: 0.60671in
    :height: 0.45277in

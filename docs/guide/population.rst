@@ -1,4 +1,4 @@
-|imgPopIcon| POPULATION GROWTH 
+|imgPopIcon| Population Growth 
 ===============================
 
 **Assume higher or lower population growth.** Population is a key driver of increased greenhouse gases; however, this is also tied heavily to consumption habits. Women’s education and access to family planning could accelerate shifts to smaller families worldwide.
@@ -44,6 +44,6 @@ Population gets multiplied with economic growth (GDP per capita) to equal total 
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image26.png
+.. |imgPopIcon| image:: ../images/icons/population_icon.png
    :width: 0.61475in
    :height: 0.47903in

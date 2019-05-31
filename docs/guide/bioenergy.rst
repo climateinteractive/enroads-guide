@@ -44,6 +44,6 @@ This sector tracks several stages of bioenergy installations, or “energy suppl
 
 .. SUBSTITUTIONS SECTION
 
-.. |imgBioenergyIcon| image:: ../images/bioenergy_icon.png
+.. |imgBioenergyIcon| image:: ../images/icons/bioenergy_icon.png
    :width: 0.49819in
    :height: 0.48945in

@@ -1,4 +1,4 @@
-|imgBuildingsEEIcon| BUILDINGS AND INDUSTRY – ENERGY EFFICIENCY 
+|imgBuildingsEEIcon| Buildings and Industry - Energy Efficiency 
 ===============================================================
 
 **Increase or decrease the energy efficiency of buildings, appliances, and other machines.** Energy efficiency includes things like building well-insulated homes and reducing the amount of energy factories use. Energy efficient practices can save money through reduced energy needs as well as improve the health of people in those buildings.
@@ -43,6 +43,6 @@ Increasing the rate of improvement in energy use for new technology and infrastr
 
 .. SUBSTITUTIONS SECTION
 
-.. |brokenImage| image:: ../images/media/image22.png
+.. |imgBuildingsEEIcon| image:: ../images/icons/buildingee_icon.png
    :width: 0.54511in
    :height: 0.50115in

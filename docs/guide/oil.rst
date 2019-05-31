@@ -54,6 +54,6 @@ The cost of oil affects three significant decisions regarding energy infrastruct
 
 .. SUBSTITUTIONS SECTION
 
-.. |imgOilIcon| image:: ../images/oil_icon.png
+.. |imgOilIcon| image:: ../images/icons/oil_icon.png
    :width: 0.52622in
    :height: 0.48612in
