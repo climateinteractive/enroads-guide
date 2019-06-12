@@ -1,7 +1,7 @@
 |imgCoalIcon| Coal
 ====================
 
-**Discourage or encourage mining coal and burning it in power plants.** Coal is the most harmful fossil fuel in terms of carbon emissions, as well as in air pollutants that cause severe health impacts. It is a dominant source of energy globally, however, because it is relatively cheap to mine and transport.
+**Discourage or encourage mining coal and burning it in power plants.** Coal is the most harmful fossil fuel in terms of carbon emissions, as well as in air pollutants that cause severe health impacts. It is a dominant source of energy globally, however, because it is relatively inexpensive to mine and transport.
 
 Examples
 --------
