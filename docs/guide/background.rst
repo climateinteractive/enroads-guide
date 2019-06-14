@@ -1,6 +1,18 @@
 Background on En-ROADS Dynamics
 ===============================
 
+A  simple way to think about the structure of En-ROADS is by considering the drivers of climate impacts. In the simulator, the concentration of greenhouse gases drives up global temperature, which leads to various impacts (e.g., sea level rise and ocean acidification). 
+
+The concentration of greenhouse gases is driven by four main factors:
+
+#.	**Energy CO2 emissions**, from burning coal, oil, gas, and biomass. This comprises  about 65% of greenhouse gas emissions.
+#.	**Land use CO2 emissions**, from burning forests to create agricultural land.
+#.	**CO2 removal**, which are approaches that pull carbon dioxide out of the atmosphere and store it in plants, soils, or underground leading to a decrease in CO2 concentrations.
+#.	**Other greenhouse gas emissions** -- methane, N20, and f-gases. 
+
+Going further, the Energy CO2 emissions are driven by four factors, which is known as the “Kaya Identity”. Population, consumption (GDP/capita),  energy intensity (energy use per dollar of GDP), and carbon intensity (CO2 emissions per unit of energy) are all multiplied together and the result is  overall energy CO2 emissions. In this way, at a high level, reducing CO2 emissions is about four things: fewer people, less consumption, more efficiency, and less high-carbon energy supplies.
+
+
 Most of the dynamics in En-ROADS can be answered by these explanations:
 
 Delays and capital stock turnover
