@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CI Documnetation Help's documentation!
+Welcome to CI Internal Documentation!
 =================================================
 
 .. toctree::
@@ -11,7 +11,7 @@ Welcome to CI Documnetation Help's documentation!
    :caption: Contents:
 
    rst_setup_guide
-
+   domains_urls
 
 
 Indices and tables

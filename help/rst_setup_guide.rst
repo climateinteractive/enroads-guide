@@ -69,15 +69,15 @@ If ``pip`` isn't installed, please do the following commands.  **Note:** you'll 
 Now ``pip`` is installed. With this tool installed, we can install the tool that we really need call ``sphinx``.
 At the prompt copy and paste in the following:
 
-``sudo pip install --user sphinx``
+``pip install --user sphinx``
 
 and then
 
-``sudo pip install --user sphinx_rtd_theme``
+``pip install --user sphinx_rtd_theme``
 
+Finally, make sure we can find the apps by issuing this command:
 
-.. Finally, we may
-   export PATH=$PATH:.:/Users/travler/Library/Python/2.7/bin
+``echo "export PATH=$PATH:.:/Users/$USER/Library/Python/2.7/bin" >> .bash_profile``
 
 
 You're done.  Nice work.
@@ -100,9 +100,35 @@ Open Visual Studio Code.
 
 In Visual Studio Code, go to the View menu and choose "Extensions".  In the search field type in `restructuredtext`.  Click the install button near the extension developed by "LeXtudio" (likely the first one, but double check).
 
+Next, search for ``Code Spell Checker`` from Street Side Software.  Also click the ``Install`` button.
+
+I found that turning off the preference to track scrolling to be a good idea. You can do this by going to gear icon of the reStructuredText extension, and then selecting ``Configure Extension Settings``. Turn off both ``Scroll Editor with Preview`` and ``Scroll Preview with Editor``, as shown in the screenshot.
+
+.. image:: images/vsc_uncheck_linked_scrolling.png
+
 Now go to :menuselection:`File-->Open` and choose the folder for the documentation -- the directory of the GitHub repository. This will create a `workspace` in Visual Studio Code that allows you to see all of the files in the repository. 
 
-You should now be able to render (preview) the RST file by pressing :kbd:`cmd-shift-R`.
+You should now be able to render (preview) the RST file by clicking the side-by-side preview button or the keyboard shortcut :kbd:`cmd-shift-R`.
+
+.. figure:: images/vsc_preview_button.png
+   :align: center
+
+   The side-by-side preview button is in the upper right corner for each tab.
+
+
+Typical Workflow
+====================
+
+1. Open SourceTree and Pull
+2. Open Visual Studio Code
+3. Open the folder of the repository
+4. Make edits
+5. Save edits (which is required to update the VSC preview)
+6. Review Preview in VSC to to make sure edits are correct
+7. If corrections are needed, and go back to Step 4.
+8. When done, go back to SourceTree.
+9. Click Commit to save the changes as a single set of edits.  You'll need to include a useful commit message to explain what task was accomplished.
+10. In SourceTree, click Push to upload the change to GitHub for the rest of the team to see.  This will also signal to ReadTheDocs to publish a new updated website, making them avaiable on the web.
 
 
 Publishing with ReadTheDocs.org
@@ -110,6 +136,9 @@ Publishing with ReadTheDocs.org
 
 
 
+
+Publishing to GitHub
+=======================
 
 
 
