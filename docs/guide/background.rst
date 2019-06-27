@@ -3,6 +3,8 @@ Background on En-ROADS Dynamics
 
 A  simple way to think about the structure of En-ROADS is by considering the drivers of climate impacts. In the simulator, the concentration of greenhouse gases drives up global temperature, which leads to various impacts (e.g., sea level rise and ocean acidification). 
 
+.. image:: ../images/background_images/causalstructure1.png
+
 The concentration of greenhouse gases is driven by four main factors:
 
 #.	**Energy CO2 emissions**, from burning coal, oil, gas, and biomass. This comprises  about 65% of greenhouse gas emissions.
@@ -10,8 +12,11 @@ The concentration of greenhouse gases is driven by four main factors:
 #.	**CO2 removal**, which are approaches that pull carbon dioxide out of the atmosphere and store it in plants, soils, or underground leading to a decrease in CO2 concentrations.
 #.	**Other greenhouse gas emissions** -- methane, N20, and f-gases. 
 
+.. image:: ../images/background_images/causalstructure2.png
+
 Going further, the Energy CO2 emissions are driven by four factors, which is known as the “Kaya Identity”. Population, consumption (GDP/capita),  energy intensity (energy use per dollar of GDP), and carbon intensity (CO2 emissions per unit of energy) are all multiplied together and the result is  overall energy CO2 emissions. In this way, at a high level, reducing CO2 emissions is about four things: fewer people, less consumption, more efficiency, and less high-carbon energy supplies.
 
+.. image:: ../images/background_images/causalstructure3.png
 
 Most of the dynamics in En-ROADS can be answered by these explanations:
 
@@ -20,9 +25,13 @@ Delays and capital stock turnover
 
 New energy technologies (e.g., renewables and new technology) take decades (not years) to scale up to sufficiently compete with coal, oil, and gas. There are two main sources of these delays:
 
--  New supply capacity doesn’t show up until old, long-lived capacity is retired (e.g., coal-fired power plants and oil refineries, which can survive for ~30 years). As the diagram to the right shows, only 6% of the total stock gets added every year. New zero-C energy may secure 20-50% of that market share, but even then, it adds only 1-3% to the total stock. The climate is only helped when coal, oil, and gas is retired away, and that amount is relatively small – approximately 3% per year.
+New supply capacity doesn’t show up until old, long-lived capacity is retired (e.g., coal-fired power plants and oil refineries, which can survive for ~30 years). As the diagram to the right shows, only 6% of the total stock gets added every year. New zero-C energy may secure 20-50% of that market share, but even then, it adds only 1-3% to the total stock. The climate is only helped when coal, oil, and gas is retired away, and that amount is relatively small – approximately 3% per year.
 
--  |image18|\ |image19|\ Commercialization, permitting, financing, and construction all take time. Similarly, non-electrified end uses (e.g., cars and industry) can be electrified, but not instantaneously. Because of the time associated with building new energy infrastructure and retiring the old, the scale-up of energy technologies is much slower than the spread of many other technologies that we are familiar with, like smart phone apps or information technologies.
+.. image:: ../images/background_images/transitiondelay.png
+
+.. image:: ../images/background_images/slowcapitalstockturnover.png
+
+Commercialization, permitting, financing, and construction all take time. Similarly, non-electrified end uses (e.g., cars and industry) can be electrified, but not instantaneously. Because of the time associated with building new energy infrastructure and retiring the old, the scale-up of energy technologies is much slower than the spread of many other technologies that we are familiar with, like smart phone apps or information technologies.
 
 **Addresses questions such as:**
 
@@ -41,18 +50,26 @@ Price, demand, and supply are linked
 
 Energy demand falls if energy prices rise, and demand increases if prices fall. The first is evident when carbon prices increase. The second, when zero-carbon energy such as renewables or New Tech are either subsidized or experience a breakthrough cost improvement. Often called the ‘rebound effect’ or the Jevons paradox.
 
-   |image21|
+.. image:: ../images/background_images/reboundeffect.png
 
 **To illustrate this point:** See the ‘Final Energy Consumption’ graph in two scenarios:
 
-|image22|\ One, while subsidizing low carbon energy supplies such as Renewables, watch Final Energy Consumption increase. Inexpensive wind and solar spreading around the world decreases overall energy prices and boosts energy demand, pushing emissions up.
+|image22|
 
-|image23|\ And two, while increasing carbon price ($50 per ton, below), watch Final Energy Consumption decrease. If you want to see an intermediate variable, look at the ‘Cost of Energy’ graph – costs increase so demand decrease.
+One, while subsidizing low carbon energy supplies such as Renewables, watch Final Energy Consumption increase. Inexpensive wind and solar spreading around the world decreases overall energy prices and boosts energy demand, pushing emissions up.
+
+|image23|
+
+And two, while increasing carbon price ($50 per ton, below), watch Final Energy Consumption decrease. If you want to see an intermediate variable, look at the ‘Cost of Energy’ graph – costs increase so demand decrease.
 
 Success builds success
 ----------------------
 
-|image24|\ Costs of energy supplies such as renewables fall as cumulative experience is gained through the “learning loop” and economies of scale. Every doubling of cumulative installed capacity of renewables reduces costs by around 20%, creating a reinforcing loop.
+Costs of energy supplies such as renewables fall as cumulative experience is gained through the “learning loop” and economies of scale. Every doubling of cumulative installed capacity of renewables reduces costs by around 20%, creating a reinforcing loop.
+
+.. image:: ../images/background_images/learningloop.png
+   :scale: 50
+   :align: center
 
 **Addresses questions such as:**
 
@@ -81,7 +98,9 @@ Rising costs due to scarcity of oil and gas materials put limits on the pace of 
 
 -  “Why do the curves for gas and oil level out?”
 
-|image26|\ **To illustrate this point:** See the ‘Sources of Primary Energy’ graph post 2060 for oil and gas. Supplies of oil and gas are becoming scarce, pushing up their prices and curtailing investment in new capacity. Note – it isn’t accurate to say that the world is exactly “running out” of oil and gas. You may also notice that the effect, while present, is much weaker with coal. That’s because there are more abundant supplies of coal reserves in the world.
+**To illustrate this point:** See the ‘Sources of Primary Energy’ graph post 2060 for oil and gas. Supplies of oil and gas are becoming scarce, pushing up their prices and curtailing investment in new capacity. Note – it isn’t accurate to say that the world is exactly “running out” of oil and gas. You may also notice that the effect, while present, is much weaker with coal. That’s because there are more abundant supplies of coal reserves in the world.
+
+|image26|
 
 Assumptions for available reserves of coal, oil, and gas are viewable and changeable in the “Assumptions and Sensitivities” area in the simulator.
 
@@ -133,13 +152,17 @@ Emissions must fall significantly just to change the growth in temperature and C
 
 -  “Emissions are stabilized, so why is temperature or CO\ :sub:`2` concentration still going up?”
 
-|image30|\ **To illustrate this point:** See the ‘CO\ :sub:`2` Emissions and Removals’ graph in and explore the Bathtub dynamics, below. Even though CO2 emissions (in red below) have flattened, CO2 concentrations (in blue on the right below) continue to increase.
+ **To illustrate this point:** See the ‘CO\ :sub:`2` Emissions and Removals’ graph in and explore the Bathtub dynamics, below. Even though CO2 emissions (in red below) have flattened, CO2 concentrations (in blue on the right below) continue to increase.
 
-|image31|\ And similarly, below, in a different (and much more stringent) scenario, even though CO2 concentration levels, temperature change increases.
+|image30|
 
-|image32|
+And similarly, below, in a different (and much more stringent) scenario, even though CO2 concentration levels, temperature change increases.
 
+|image31|
 
+.. image:: ../images/background_images/bathtub.png
+   :scale: 75
+   :align: center
 
 .. SUBSTITUTIONS SECTION
 
@@ -198,17 +221,14 @@ Emissions must fall significantly just to change the growth in temperature and C
    :width: 0.71758in
    :height: 0.49177in
 .. |image18| image:: ../images/media/image38.jpg
-   :width: 3.38889in
-   :height: 2.54167in
+   :scale: 40
 .. |image19| image:: ../images/media/image39.jpg
-   :width: 3.3125in
-   :height: 1.55in
+   :scale: 40
 .. |image20| image:: ../images/media/image40.png
    :width: 6.5in
    :height: 2.31389in
 .. |image21| image:: ../images/media/image42.jpg
-   :width: 4.31667in
-   :height: 1.42222in
+   :scale: 75
 .. |image22| image:: ../images/media/image43.png
    :width: 6.5in
    :height: 2.32083in
@@ -225,8 +245,6 @@ Emissions must fall significantly just to change the growth in temperature and C
    :width: 4.01181in
    :height: 2.75139in
 .. |image27| image:: ../images/media/image52.png
-   :width: 7.03542in
-   :height: 1.97639in
 .. |image28| image:: ../images/media/image58.png
    :width: 7.32153in
    :height: 2.28681in
