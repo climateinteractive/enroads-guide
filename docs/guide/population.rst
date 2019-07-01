@@ -20,7 +20,7 @@ This input is indexed, where 1 is the UN’s low growth scenario, 2 is medium, a
 ================== =========== ================ ============
 \                  low growth  **status quo**   high growth
 ================== =========== ================ ============
-Scenario           1.6 to 2    **2 to 2.3**     2.3 to 2.4
+UN Scenario        1.6 to 2    **2 to 2.3**     2.3 to 2.4
 Population by 2100 9.6 billion **11.1 billion** 13.3 billion
 ================== =========== ================ ============
 

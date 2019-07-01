@@ -25,7 +25,7 @@ Slider Settings
 ======================================= ================ ================ =========== ========== =================
 \                                       highly taxed     taxed            status quo  subsidized highly subsidized
 ======================================= ================ ================ =========== ========== =================
-Change in price per kilowatt hour (kWh) +$0.15 to +$0.05 +$0.05 to +$0.01 **+$0.01 to -$0.01 to  -$0.05 to
+Change in price per kilowatt hour (kWh) +$0.10 to +$0.05 +$0.05 to +$0.01 **+$0.01 to -$0.01 to  -$0.05 to
                                                                           -$0.01**    -$0.05     -$0.10
 Cost increase or decrease               +60% to +30%     +30% to +10%     **+10% to   -10% to    -30% to
                                                                           -10%**      -30%       -60%
