@@ -40,6 +40,19 @@ Model Structure
 
 Increasing the rate of improvement in energy use for new technology and infrastructure lowers emissions gradually, because energy use is driven by the overall average of all infrastructure in this area, which is delayed from this intervention due to its relatively long lifetime.
 
+Potential Co-Benefits of Encouraging
+-------------------------------------
+•	Increased industrial efficiency and reduced energy demand can improve air quality, which increases healthcare savings and worker productivity.
+•	Lowering electricity bills for households, businesses, and governments increases energy security.
+•	Insulated homes remain cooler in the summer and warmer in the winter, when weather events and grid-overload cause outages. 
+•	Retrofitting buildings and homes to be more efficient can create many jobs.
+
+Equity Considerations
+----------------------
+•	The up-front capital costs of efficiency improvements may not accessible to lower income individuals and small businesses. 
+•	Cross-sectoral collaboration can ensure jobs and benefits are distributed equitably within the local community. 
+•	In some places, policies are directed at property owners, inhibiting renters, who are often lower income, from accessing the benefits. 
+
 
 .. SUBSTITUTIONS SECTION
 

@@ -52,6 +52,17 @@ Model Structure
 
 This sector tracks several stages of nuclear power plants, or “energy supply capacity”: capacity under development, under construction, and actually producing energy, including delays between each stage.
 
+Potential Co-Benefits of Discouraging
+--------------------------------------
+- Risk of exposure to radiation from a nuclear meltdown or hazardous waste is reduced.
+- Nuclear energy can use more water than coal for electricity production, so discouraging nuclear power can increase water access and help protect wildlife habitats, biodiversity, and ecosystem services.  
+- Nuclear energy is fueled by uranium which can be harmful to mine, so discouraging nuclear energy can reduce risks to miners.
+
+Equity Considerations 
+----------------------
+- Nuclear power plants, uranium mines (which provide the fuel for nuclear power), and waste sites are often located in low-income, marginalized communities that often lack resources to advocate for stricter environmental regulations and oversight.    
+- Mining uranium poses significant health risks to miners as well as surrounding communities due to water contamination and toxic waste. 
+
 
 .. SUBSTITUTIONS SECTION
 

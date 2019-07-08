@@ -41,10 +41,18 @@ Model Structure
 
 The model limits how much these emissions can be reduced, since some are considered unavoidable, particularly those from agriculture, landfills, and wastewater.
 
-Co-Benefits 
-------------
+Potential Co-Benefits of Decreasing
+--------------------------------------------
+•	Plant-based diets have been shown to be healthier for individuals and have less impact on ecosystems.  
+•	Sustainable and plant-based agriculture produces more food with fewer resources, which increases food security. 
+•	Reduced leakage from natural gas systems can save money. 
+•	Less nitrogen-rich fertilizer run off can reduce water pollution, decrease eutrophication, and increase marine health.
 
-* Plant-based diets can reduce emissions by reducing dependence on livestock and have been shown to be healthier for individuals.
+Equity Considerations 
+----------------------
+•	Many cultural values are attached to certain foods, meaning change to more plant-based diets could require a large societal shift.
+•	Policies implemented without care may threaten food security for certain individuals and communities. For example, rice paddies, a large methane contributor, are a main dietary staple for many countries.
+•	Local economies and employment can be threatened in communities which currently rely on industrial, large-scale farming practices as their main livelihood. 
 
 
 .. SUBSTITUTIONS SECTION

@@ -41,6 +41,18 @@ This sector tracks several stages of bioenergy installations, or “energy suppl
 
 * capacity under development, under construction, and actually producing energy, including delays between each stage.
 
+Potential Co-Benefits of Discouraging
+--------------------------------------
+- Crops and arable land are freed for other uses, such as food production. 
+- Producing biofuels can be water intensive and lead to contaminated runoff; reducing biofuel production can improve water quality and protect biodiversity.  
+- A reduction in biomass burning can improve indoor and outdoor air quality from reduced soot and particulates.
+
+Equity Considerations
+-------------------------
+- Bioenergy can accelerate deforestation through dependence on wood for fuels or through the expansion of bioenergy crops, particularly in the tropics.
+- Land used for bioenergy crops can reduce land availability for food production and compromise food security.
+- Farmer livelihoods can be severely impacted by shifting agriculture markets, so steps  should be taken to help workers and farmers transition to shifting crop demands. 
+
 
 .. SUBSTITUTIONS SECTION
 

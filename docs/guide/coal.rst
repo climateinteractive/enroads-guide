@@ -49,6 +49,16 @@ The cost of coal affects three significant decisions regarding energy infrastruc
 
 #. retirement of capacity (whether to keep plants longer or shorter than the average of ~30 years).
 
+Potential Co-Benefits of Discouraging
+---------------------------------------
+- Reduced air pollutants from coal burning improves air quality and health outcomes for surrounding communities.
+- Less coal mining reduces heavy metal drainage and waste from mine sites which improves water quality and helps protect wildlife habitats, biodiversity, and ecosystem services.
+
+Equity Considerations
+-----------------------
+- Taxing coal can raise energy costs for households and businesses that must rely on coal for energy needs.
+- Low-income communities often suffer the worst health outcomes yet make up the majority of individuals who produce coal. Providing pathways for these people to find new jobs will be essential.
+
 
 .. SUBSTITUTIONS SECTION
 

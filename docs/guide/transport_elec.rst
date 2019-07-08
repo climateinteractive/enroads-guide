@@ -46,6 +46,17 @@ Model Structure
 
 Unlike the inputs for energy sources, which change the financial attractiveness to drive future behavior, this input directly forces growth of electrification up toward a maximum percentage.
 
+Potential Co-Benefits of Encouraging 
+-------------------------------------
+- Improved air quality at the source increases healthcare savings and worker productivity.
+- Jobs are created in the manufacturing and sales of electric batteries and engines.
+
+Equity Considerations
+---------------------
+•	Although costs are coming down, electric vehicles may not be affordable or available to everyone.
+•	Mining of lithium and copper, two necessary ingredients for the batteries used in electric vehicles, can wreak havoc on precious ecosystems and threaten the well-being of communities at the mining sites.  
+•	Electric charging station locations may not be accessible or the electric battery range may be insufficient for some situations. 
+
 
 .. SUBSTITUTIONS SECTION
 

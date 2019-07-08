@@ -39,6 +39,14 @@ Model Structure
 
 The path to deployment will take some time after the success of the technology in the laboratory: commercialization (set at 10 years, roughly the same amount of time that Uranium-based fission took), planning (2 years) and construction (5 years). Then the new energy source must compete with other energy sources.
 
+Potential Co-Benefits of a Breakthrough
+-----------------------------------------
+- A breakthrough in a new energy sources would create jobs along the supply chain from research and development to construction to operations. 
+- Research advancements in new technologies may be useful for other applications.
+
+Equity Considerations 
+----------------------
+- There are unknown consequences and risks associated with new energy sources.
 
 .. SUBSTITUTIONS SECTION
 

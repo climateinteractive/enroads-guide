@@ -29,10 +29,20 @@ Big Message
 
 * While Technological Carbon Removal has potential, it does not currently exist at scale.
 
-Model structure
+Model Structure
 ---------------
 
 The five methods of CO\ :sub:`2` removal included are modeled independently. They each vary in their maximum sequestration potential, the year they might start to scale up, how long it takes them to be phased in, and the carbon leakage rate over time (stored carbon is not always permanent).
+
+Potential Co-Benefits of CDR Growth
+-------------------------------------
+•	Nature-based carbon removal approaches like agricultural soil sequestration can help improve land holder and farmer profits in some cases.
+•	The scale up of many carbon removal approaches would result in vast new industries and businesses which would create jobs. 
+
+Equity Considerations 
+-----------------------
+•	Approaches like BECCS require large areas of land that in some cases could be used for food production.
+•	Many of the technological carbon removal approaches have not been developed at scale yet and pose unknown risks and consequences to the communities they are situated within. 
 
 
 .. SUBSTITUTIONS SECTION

@@ -57,7 +57,7 @@ Big Message
 * Subsidizing renewable energy is a helpful way to keep coal and gas in the ground and reduce future temperature. However, it isn’t a silver bullet.
 
 
-Model structure
+Model Structure
 ---------------
 
 This sector tracks the time it takes wind and solar installations to move through several stages – capacity under development, under construction, and actually producing energy.
@@ -69,6 +69,18 @@ The most important feedback loops in the renewables sector include:
 2. Site availability – efficiency goes down and costs go up when renewables are sited in less optimal locations (e.g., solar power in rainy climates).
 
 3. Learning effect – every doubling of cumulative production will bring costs down 20% (aka, the progress ratio). Costs come down as supply chains, business models, and production industries grow.
+
+Potential Co-Benefits of Encouraging
+-------------------------------------
+- Decreased air and water pollution from switching away from fossil fuel sources can improve public health, worker productivity, and savings for governments and households.
+- Renewables can help expand energy access during power outages.
+- Renewable energy offers opportunities for high- and low-skilled employment.
+
+Equity Considerations
+-------------------------------------
+- Although the price of renewable energy infrastructure continues to fall, many low-income communities remain unable to access the technology in both developed and developing countries. Working to ensure an equitable energy transition can help everyone to reap the benefits. 
+- Policies in many developed countries limit solar and wind subsidy programs to homeowners, who often occupy higher income brackets.
+
 
 
 .. SUBSTITUTIONS SECTION

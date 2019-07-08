@@ -32,6 +32,18 @@ Big Message
 
 * Pricing carbon is a high leverage strategy. It both reduces the carbon intensity of the energy supply and reduces the overall energy demand. That said, it is no silver bullet.
 
+Potential Co-Benefits of a Carbon Tax
+---------------------------------------
+- Renewable energy becomes relatively cheaper, which can incentivize job creation in that market.  
+- Reducing the use of fossil fuels improves air quality, increasing healthcare savings and worker productivity.
+- Funds raised can be earmarked for social programs that can be shared with everyone.
+
+Equity Considerations
+----------------------
+- As carbon taxes reach effective levels, companies may try to pass costs to customers, where the poor are most at risk of being impacted. Policies can be developed that limit this impact.
+- Workers employed in fossil fuel industries risk losing their jobs if companies shrink workforces in response to higher costs of production, so job transition plans should be in place and protections for workers ensured. 
+- Due to the political nature of fossil fuel production, government corruption and rent-seeking could create the possibility of certain industries avoiding the carbon price due to loop holes or exemptions. 
+
 
 .. SUBSTITUTIONS SECTION
 

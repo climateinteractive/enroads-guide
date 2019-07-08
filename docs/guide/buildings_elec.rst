@@ -42,6 +42,19 @@ This input affects climate outcomes through two pathways:
 
 #. Changing fuel mix. Increased electrification decreases use of oil and increases use of coal, natural gas, and renewables in electricity generation.
 
+Potential Co-Benefits of Encouraging 
+-------------------------------------
+•	Improved air quality at the source increases healthcare savings and worker productivity.
+•	Eliminating demand for natural gas lines to buildings also eliminates the risks from fire and explosion. 
+•	Noise pollution from motor engines, generators, and furnaces is reduced.
+•	Electricity bills for households, businesses, and governments are lower.
+•	Air quality for individuals working/living in and around the structures is improved, which increases healthcare savings and worker productivity.
+
+Equity Considerations
+----------------------
+•	The up-front capital costs of retrofitting buildings and heating systems to be entirely electric may not accessible to lower income individuals and small businesses. 
+•	Exposure to household air pollution is unevenly distributed within and across countries, to which negative health effects and poverty are strongly correlated.
+
 
 .. SUBSTITUTIONS SECTION
 

@@ -41,6 +41,17 @@ Model Structure
 
 Population gets multiplied with economic growth (GDP per capita) to equal total global GDP, or Gross World Product.
 
+Potential Co-Benefits of Lower Growth
+--------------------------------------
+•	Lower population growth reduces global consumption of resources. 
+•	Ensuring safe access to family planning, reproductive health services, and women’s education enhances quality of life and income for women.
+
+Equity Considerations 
+----------------------
+•	Policies around population should be voluntary and empower women to make the choices that are best for them. 
+•	A higher percentage of women of color live in countries with severe gender inequities in access to education, full economic and political participation, and adequate family planning. Reducing population growth necessitates a large investment in that particular group. 
+•	There is a history of women of color in both high- and low-income countries being forcibly sterilized to prevent giving birth, this should not be encouraged.
+
 
 .. SUBSTITUTIONS SECTION
 

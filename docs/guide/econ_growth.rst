@@ -36,6 +36,16 @@ Model Structure
 
 Whereas, in the real world, there would be feedbacks to economic growth from energy prices, various taxes, and the impacts of climate change, the model does not include these effects. The user could explore such feedbacks by changing this input manually.
 
+Potential Co-Benefits of Lower Growth
+--------------------------------------
+•	Focus may be shifted to alternative measures of prosperity that enhance people’s wellbeing, such as gross national happiness. 
+•	Greater focus on resource conservation and less on material consumption can lead to less waste.
+
+Equity Considerations 
+----------------------
+•	Economic growth is tied to pulling people out of poverty worldwide although in recent decades, many gains in economic growth have gone to the world’s wealthiest. Regardless, policies must be tailored to specific local and regional circumstances. 
+•	When GDP growth slows or contracts, governments can incur higher budget deficits, often implementing austerity measures—cutting spending and raising taxes—to offset the difference. These reforms can severely impact the poor and working class causing job losses and all the inequities that come with loss of livelihood.
+
 
 .. SUBSTITUTIONS SECTION
 

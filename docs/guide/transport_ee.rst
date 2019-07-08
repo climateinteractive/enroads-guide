@@ -33,6 +33,18 @@ Model Structure
 
 Increasing the rate of improvement in energy use for new vehicles and other infrastructure helps drive reductions in greenhouse gas emissions across the transport sector. There is some delay in how fast this accelerates because energy use is driven by the overall average of all capital (not just the new things). The model structure tracks overall efficiency, which includes retrofitting of existing capital.
 
+Potential Co-Benefits of Encouraging
+-------------------------------------
+- Improved air quality increases healthcare savings and worker productivity.
+- Better fuel efficiency means energy costs are lower.
+- Mass transit, like buses and trains, can reduce traffic congestion and noise.
+- Improved biking and walking infrastructure increases physical activity and safety, which results in sizeable health savings. 
+
+Equity Considerations 
+----------------------
+- In some developed countries, such as the United States, pedestrian and cycle-friendly infrastructure has often been concentrated in wealthy communities, leaving out low-income families and people of color. 
+- When mass transit options improve or operating costs decrease with fuel efficient vehicle use, social equality may improve, as low-income individuals have more transportation options to meet their needs.
+
 
 .. SUBSTITUTIONS SECTION
 

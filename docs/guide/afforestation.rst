@@ -36,6 +36,17 @@ Model Structure
 
 The input changes total or gross carbon removal from trees and plants through photosynthesis. The carbon sequestration of forests changes over time as the forest matures. Notice that net carbon removals are different than total removals due to carbon loss in older or unhealthy forests.
 
+Potential Co-Benefits of Increasing
+------------------------------------
+•	New forests can create new ecosystems and protect existing wildlife habitats, biodiversity, and ecosystem services.
+•	Larger and healthier tree canopies in cities reduce urban heat island effects  and energy needed for heating and cooling.
+•	Jobs are created in tree planting, care, and maintenance. 
+
+Equity Considerations 
+----------------------
+•	Afforestation entails shifting large areas of land into forests. This can sometimes result in monocultures of trees that are all the same ages, which is not as helpful to biodiversity or providing people sustainable livelihoods as natural forests.
+•	Large shifts in land can compromise historic land access, so involving low-income and minority communities, including Indigenous peoples, in the process of funding, design, implementation, and job training is essential.
+
 
 .. SUBSTITUTIONS SECTION
 

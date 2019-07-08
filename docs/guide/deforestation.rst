@@ -15,12 +15,12 @@ Examples
 Slider Settings
 ---------------
 
-=============================================== ============== ================== ============== ==================== ================
-\                                               highly reduced moderately reduced **status quo** moderately increased highly increased
-=============================================== ============== ================== ============== ==================== ================
-Percent reduction or increase of maximum action -100% to       -50% to 0%         **0% to +40%** +40% to +70%         +70% to +100%
-                                                -50%                                                                 
-=============================================== ============== ================== ============== ==================== ================
+================================================ ============== ================== ============== ==================== ================
+\                                                highly reduced moderately reduced **status quo** moderately increased highly increased
+================================================ ============== ================== ============== ==================== ================
+Percent reduction or increase of maximum action  -100% to       -50% to 0%         **0% to +40%** +40% to +70%         +70% to +100%
+                                                 -50%                                                                 
+================================================ ============== ================== ============== ==================== ================
 
 Key Dynamics
 ------------
@@ -39,6 +39,15 @@ Model Structure
 
 Emissions from deforestation stay level in the business as usual scenario.
 
+Potential Co-Benefits of Decreasing
+-------------------------------------
+•	Forests protect biodiversity and provide ecosystem services and food sources.
+•	Forest preservation reduces erosion which leads to water contamination.
+•	Forests provide livelihoods for people (e.g., small-scale resource gathering and sustainable forestry) that can be lost when land shifts to other uses. 
+
+Equity Considerations 
+---------------------
+•	Forest preservation efforts have restricted the access of indigenous people who have lived sustainably on the land for generations. Policies should be created with local stakeholder engagement.
 
 .. SUBSTITUTIONS SECTION
 
