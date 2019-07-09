@@ -51,7 +51,7 @@ The cost of natural gas affects three significant decisions regarding energy inf
 
 Potential Co-Benefits of Discouraging
 --------------------------------------
-- Gas drilling is water intensive, so limiting extraction can improve water security and quality at the source of production and protect wildlife habitats, biodiversity, and ecosystem services.
+- Gas drilling is water intensive, so limiting extraction can improve water security and quality at the source of production and protect wildlife habitats, biodiversity, and ecosystem services. [#gasfn1]_ [#gasfn2]_
 - There are concerns about the health and environmental impacts of the gas drilling approach know as fracking that have led many places to ban it.
 
 Equity Considerations
@@ -60,8 +60,10 @@ Equity Considerations
 - There have been cases where wealthy white communities have successfully resisted natural gas development and it has shifted to low-income communities predominantly inhabited by people of color.
 - Limited data on the placements of fracking and power plant sites in developing countries exists, yet macro-level research shows that low-income communities and communities of color disproportionately experience the negative impacts of natural gas drilling and burning. 
 
+.. rubric:: Footnotes
 
-
+.. [#gasfn1] https://www.ncbi.nlm.nih.gov/pubmed/22446060 
+.. [#gasfn2] https://environmentamerica.org/reports/ame/fracking-numbers   
 
 .. SUBSTITUTIONS SECTION
 
