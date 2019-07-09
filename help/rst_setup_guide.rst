@@ -261,7 +261,7 @@ Another way to make a link is to declare a the link text ("Climate Interactive" 
 which turns into 
 
 There are a lot of great things about `Climate Interactive`_. 
-Any time `Climate Interactive`_ is mentioned we should make sure people can see the website.
+Any time `Climate Interactive`_ is mentioned we should make sure people can see the website.\ [#footnoteTest]_
 
 .. _Climate Interactive: http://climateinteractive.org/
 
@@ -301,11 +301,13 @@ Images
 
 This is the minimum for showing an image, an image ``directive`` with a path to a file:
 
-.. image:: images/IMG_0862.jpg
+::
 
-Another way to show and image is to specify more layout information, like width and justification details:
+  .. image:: images/smilely.png
 
-.. image:: images/IMG_0862.jpg
+Another way to show and image is to specify more layout information, like width and justification details. This would allow you to have the image positioned on left, center, or right side of the page with text wrapping around it, like:
+
+.. image:: images/smilely.png
    :scale: 25
    :alt: the coolest dandelion blower ever
    :align: right
@@ -316,10 +318,9 @@ Example code:
 
 ::
 
-  .. image:: images/IMG_0862.jpg
-     :width: 200
-     :scale: 100
-     :alt: the coolest dandelion blower ever
+  .. image:: images/smilely.png
+     :scale: 25
+     :alt: the coolest smilely face ever
      :align: right
 
 
@@ -387,7 +388,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 Definitions Demo
-================
+==================
 
 The formatting for Definitions is the word/phrase and the an indention on the immediately following line.
 
@@ -401,6 +402,27 @@ how to do it
   body elements, indented relative to the 
   term. Blank lines are not allowed 
   between term and definition.
+
+
+Footnotes
+===============
+
+To do a footnote, you need to have a footnote marker like this ``[#someTag]_``. That is a square bracket, a hash, a descriptive tag, and then a closing square bracket and a underscore.\ [#fnDescription]_
+
+Then you need to have the actual footnote later in the document after a ``rubric``, like this:[#anotherUsefulTag]_
+
+::
+  
+  .. rubric:: Footnotes
+
+  .. [#fnDescription] Text of the first footnote.
+  .. [#anotherUsefulTag] A second footnote that is super handy to have.
+
+.. rubric:: Footnotes
+
+.. [#footnoteTest] This is a test from earlier in the document.
+.. [#fnDescription] Text of the first footnote.
+.. [#anotherUsefulTag] A second footnote that is super handy to have.
 
 
 Other reST Tools
