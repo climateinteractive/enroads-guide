@@ -425,6 +425,42 @@ Then you need to have the actual footnote later in the document after a ``rubric
 .. [#anotherUsefulTag] A second footnote that is super handy to have.
 
 
+Embedding Content (YouTube, Vimeo, etc)
+===========================================
+
+There are several different solutions for embedding video content from YouTube. To make it easier for the CI Team to understand and maintain documentation, we've chosen to use a general solution for including all types of HTML code (instead of some specific solution for just YouTube. This general solution, using the ``.. raw:: html`` directive, can be used for embedding content from many difference websites.
+
+Overall, the code is this:
+
+::
+
+  .. raw:: html
+
+      <div style="position: relative; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DqEsDT86Fls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
+which would result in an embedded video, inline, like this:
+
+.. raw:: html
+
+    <div style="position: relative; overflow: hidden; max-width: 100%; height: auto;">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/DqEsDT86Fls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+
+To embed a YouTube video:
+
+#. Go to the YouTube page of the video
+#. Click the Share button below the video
+#. Click the ``Embed`` option (which is currently next to Facebook, Twitter, etc.  Note this isn't simply copying the direct URL.)
+#. Replace the ``<iframe>`` line in the above example with the new iframe text.
+
+To embed content from other websites, it should be a similar process to the above -- replace the iframe code with the appropriate code from other sites.
+
+For reference, another example of embedding content using the ``.. raw:: html`` directive `can be found here <https://docs.anaconda.com/restructuredtext/detailed/#youtube-videos-and-other-raw-html-in-rst-files>`_\ . This doesn't use the ``<div>`` wrapper, and also seems to work.
+
+
 Other reST Tools
 ======================
 
