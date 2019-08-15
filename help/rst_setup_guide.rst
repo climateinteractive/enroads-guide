@@ -168,6 +168,24 @@ If you're interested in history and purpose of `reStructuredText <http://docutil
 
 
 
+Table of Contents setup
+=======================================
+
+The Table of Contents (TOC) is generated automatically based on the settings in the main `index.rst` file. By default, it shows the first two heading levels (the equivalent of H1 and H2 headings). Of course, the easiest way to discern if you have the correct settings to try something and adjust accordingly.
+
+For example: 
+
+::
+
+  .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   rst_setup_guide
+
+... is the directive to insert a TOC (where the `.. toctree` is located) with a `maxdepth` of 2.  If you want more headings showing, change that to 3.  If you want fewer subheadings displayed in the TOC, change that 1.
+
+
 .. This is a 'heading' because it  has symbols below it; Not a "title" because it isn't above it.
 
 Headings and Sections
