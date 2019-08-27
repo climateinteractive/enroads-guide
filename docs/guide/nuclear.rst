@@ -52,8 +52,10 @@ Model Structure
 
 This sector tracks several stages of nuclear power plants, or “energy supply capacity”: capacity under development, under construction, and actually producing energy, including delays between each stage.
 
-Potential Co-Benefits of Discouraging
---------------------------------------
+A setting of “subsidized” roughly corresponds to the “High” growth scenario produced by the IAEA.
+
+Potential Co-Benefits of Discouraging Nuclear 
+----------------------------------------------
 - Risk of exposure to radiation from a nuclear meltdown or hazardous waste is reduced.
 - Nuclear energy can use more water than coal for electricity production, so discouraging nuclear power can increase water access and help protect wildlife habitats, biodiversity, and ecosystem services.  
 - Nuclear energy is fueled by uranium which can be harmful to mine, so discouraging nuclear energy can reduce risks to miners.

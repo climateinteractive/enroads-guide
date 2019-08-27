@@ -26,15 +26,17 @@ Annual rate -1% to 0%   **0% to +2%**  +2% to +5% +5% to +7%
 Key Dynamics
 ------------
 
-* Watch oil (red line) bend down in the “Sources of Primary Energy” graph as the world increases the efficiency of its transport. Less oil is burned, so emissions are lower and temperature is lower.
+* Watch oil (red line) bend down in the “Global Sources of Primary Energy” graph as the world increases the efficiency of its transport. Less oil is burned, so emissions are lower and temperature is lower. Coal and gas fall as well, as electrified transport becomes more efficient. 
+* View also the “Final Energy Consumption” graph to see less energy demand. 
+* To see another benefit, look at the “Cost of Energy” graph. Less demand for energy means prices are lower. 
 
 Model Structure 
 ----------------
 
 Increasing the rate of improvement in energy use for new vehicles and other infrastructure helps drive reductions in greenhouse gas emissions across the transport sector. There is some delay in how fast this accelerates because energy use is driven by the overall average of all capital (not just the new things). The model structure tracks overall efficiency, which includes retrofitting of existing capital.
 
-Potential Co-Benefits of Encouraging
--------------------------------------
+Potential Co-Benefits of Encouraging Energy Efficiency
+--------------------------------------------------------
 - Improved air quality increases healthcare savings and worker productivity.
 - Better fuel efficiency means energy costs are lower.
 - Mass transit, like buses and trains, can reduce traffic congestion and noise.

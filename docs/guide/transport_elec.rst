@@ -28,26 +28,25 @@ Annual rate -3% to -1%  **-1% to +1%** +1% to +3%   +3% to +5%
 Key Dynamics
 ------------
 
-* As you increase Transport Electrification, coal and gas lines go up slightly. There is more coal and more gas because that is currently where we get most of our electricity. There are two main forces that effect the impact of transport electrification on future temperature:
+* As you increase Transport Electrification, there are two main forces that affect future temperature:
 
-  * Overall “well-to-wheel” efficiency is greater for electrified transport than for internal combustion engines – in general, less energy is used to power transport with electricity than oil. This reduces emissions and temperature.
+  * Overall “well-to-wheel” efficiency is greater for electrified transport than for internal combustion engines – in general, less fuel is used to power transport with electricity than oil. This reduces emissions and temperature.
 
-  * Oil (red line) goes down as we electrify transport in the “Sources of Primary Energy” graph. It is compensated for by the increased electrical demand powered by coal and natural gas (in the absence of a carbon price or other taxes).
+  * Oil, in the “Global Sources of Primary Energy” graph, goes down as we electrify transport. At the same time, increased electrical demand is powered by coal and, to a more limited extent, renewables (in the absence of a carbon price or other taxes).
 
 Big Message
 -----------
 
+* If the world is dependent on coal and natural gas for electric power, the net effect of electrification is essentially no change in emissions and temperature.
 * Switching to electric modes of transport makes the biggest impact for the climate when electrical energy sources are low carbon.
-
-* Climate impacts are better because of the efficiency of electric cars, but might be worse because of where we get our energy. If the world is dependent on coal and natural gas to for electric power, the net effect of electrification is essentially no change in emissions and temperature.
 
 Model Structure
 ---------------
 
 Unlike the inputs for energy sources, which change the financial attractiveness to drive future behavior, this input directly forces growth of electrification up toward a maximum percentage.
 
-Potential Co-Benefits of Encouraging 
--------------------------------------
+Potential Co-Benefits of Encouraging Electrification
+-------------------------------------------------------
 - Improved air quality at the source increases healthcare savings and worker productivity.
 - Jobs are created in the manufacturing and sales of electric batteries and engines.
 

@@ -25,11 +25,11 @@ Cost increase or decrease                     +100% to +60%     +60% to +30%    
 Key Dynamics
 ------------
 
-* If gas is subsidized, coal) goes down in the “Sources of Primary Energy” graph.
+* To assess the contribution of subsidizing or taxing natural gas, view the “Sources of Primary Energy” graph.  
 
-* The transition from a fuel of a higher carbon density to a lower carbon density avoids some emissions, but there is also slightly less renewable and nuclear energy use as well.
+* If gas is subsidized, very high-carbon coal goes down, but high-carbon natural gas goes up. Overall, there is no net benefit to emissions.
 
-* Natural gas still releases carbon emissions, so if natural gas infrastructure is built it will lock-in emissions until that infrastructure is shut down.
+* If gas is taxed, the opposite of the above is true, high-carbon natural gas goes down, but very high-carbon goes up, with no net benefit. We call this the “squeeze the balloon” problem – depressing fossil fuel emissions in one area causes them to pop up in another. Adding a carbon price is a good solution to the “squeeze the balloon” problem. 
 
 
 Big Message
@@ -49,8 +49,8 @@ The cost of natural gas affects three significant decisions regarding energy inf
 
 #. retirement of capacity (whether to keep plants longer or shorter than the average of ~30 years).
 
-Potential Co-Benefits of Discouraging
---------------------------------------
+Potential Co-Benefits of Discouraging Natural Gas
+---------------------------------------------------
 - Gas drilling is water intensive, so limiting extraction can improve water security and quality at the source of production and protect wildlife habitats, biodiversity, and ecosystem services. [#gasfn1]_ [#gasfn2]_
 - There are concerns about the health and environmental impacts of the gas drilling approach know as fracking that have led many places to ban it. [#gasfn3]_ [#gasfn4]_ [#gasfn5]_
 
@@ -59,6 +59,10 @@ Equity Considerations
 - Generally speaking, natural gas production in developed countries is disproportionately located near low-income and minority communities. [#gasfn6]_ [#gasfn7]_ [#gasfn8]_
 - There have been cases where wealthy white communities have successfully resisted natural gas development and it has shifted to low-income communities predominantly inhabited by people of color. [#gasfn9]_ [#gasfn10]_
 - Limited data on the placements of fracking and power plant sites in developing countries exists, yet macro-level research shows that low-income communities and communities of color disproportionately experience the negative impacts of natural gas drilling and burning. [#gasf11]_ 
+
+FAQs
+------
+**How can I directly force deeper reductions in natural gas use?** Consider selecting the “Stop building new natural gas infrastructure” switch in the advanced view, and changing the “% reduction in natural gas utilization”.
 
 .. rubric:: Footnotes
 

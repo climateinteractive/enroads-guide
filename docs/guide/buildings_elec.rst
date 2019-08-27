@@ -6,7 +6,7 @@
 Examples
 --------
 
-* Increase in public interest for replacing oil and gas heating furnaces in buildings with electric heating systems.
+* Increase in public interest for replacing oil and gas heating furnaces in buildings with electric heating systems. In as a business as usual scenario, electricity primarily comes from coal and gas. 
 
 * Research and development into various electric motors and systems than could enable wind and solar to replace oil and gas fired industrial facilities.
 
@@ -42,8 +42,8 @@ This input affects climate outcomes through two pathways:
 
 #. Changing fuel mix. Increased electrification decreases use of oil and increases use of coal, natural gas, and renewables in electricity generation.
 
-Potential Co-Benefits of Encouraging 
--------------------------------------
+Potential Co-Benefits of Encouraging Electrification
+------------------------------------------------------
 •	Improved air quality at the source increases healthcare savings and worker productivity.
 •	Eliminating demand for natural gas lines to buildings also eliminates the risks from fire and explosion. 
 •	Noise pollution from motor engines, generators, and furnaces is reduced.

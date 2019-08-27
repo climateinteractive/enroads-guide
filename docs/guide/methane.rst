@@ -41,8 +41,8 @@ Model Structure
 
 The model limits how much these emissions can be reduced, since some are considered unavoidable, particularly those from agriculture, landfills, and wastewater.
 
-Potential Co-Benefits of Decreasing
---------------------------------------------
+Potential Co-Benefits of Decreasing Methane & Other Gases
+------------------------------------------------------------
 •	Plant-based diets have been shown to be healthier for individuals and have less impact on ecosystems.  
 •	Sustainable and plant-based agriculture produces more food with fewer resources, which increases food security. 
 •	Reduced leakage from natural gas systems can save money. 

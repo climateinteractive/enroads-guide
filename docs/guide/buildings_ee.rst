@@ -26,8 +26,7 @@ Annual rate -1% to 0%   **0% to +2%**  +2% to +5% +5% to +7%
 Key Dynamics
 ------------
 
-* As less energy is used for buildings and industry notice how all the energy sources come down in the “Sources of Primary Energy” graph. Less coal, oil, and gas are burned so CO\ :sub:`2` emissions go down and global temperature change is lowered dramatically.
-
+* As less energy is used for buildings and industry, notice how all the energy sources decline in the “Global Sources of Primary Energy” graph - particularly coal and gas because they are the main sources of electricity. Less fossil fuels are burned so CO2 emissions go down and global temperature change is lowered dramatically.
 * Improvements in energy intensity of new capital also reduce energy demand. Explore this in the “Final Energy Consumption” graph, where the current scenario (blue line) is lower than business as usual (black line).
 
 Big Message
@@ -38,10 +37,10 @@ Big Message
 Model Structure
 ---------------
 
-Increasing the rate of improvement in energy use for new technology and infrastructure lowers emissions gradually, because energy use is driven by the overall average of all infrastructure in this area, which is delayed from this intervention due to its relatively long lifetime.
+Increasing the rate of improvement in energy use for new technology and infrastructure lowers emissions gradually, because energy use is driven by the overall average of all infrastructure in this area, which is delayed from this intervention due to its relatively long lifetime.  
 
-Potential Co-Benefits of Encouraging
--------------------------------------
+Potential Co-Benefits of Encouraging Energy Efficiency
+---------------------------------------------------------
 •	Increased industrial efficiency and reduced energy demand can improve air quality, which increases healthcare savings and worker productivity.
 •	Lowering electricity bills for households, businesses, and governments increases energy security.
 •	Insulated homes remain cooler in the summer and warmer in the winter, when weather events and grid-overload cause outages. 

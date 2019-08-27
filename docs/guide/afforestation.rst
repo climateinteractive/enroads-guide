@@ -29,15 +29,19 @@ Key Dynamics
 Big Message
 -----------
 
-* This could be part of the silver buckshot, but land availability and other effects should be considered.
+* Afforestation has the potential to pull significant amounts of carbon dioxide out of the atmosphere, but land availability and other effects should be considered.
 
 Model Structure
 ---------------
 
 The input changes total or gross carbon removal from trees and plants through photosynthesis. The carbon sequestration of forests changes over time as the forest matures. Notice that net carbon removals are different than total removals due to carbon loss in older or unhealthy forests.
 
-Potential Co-Benefits of Increasing
-------------------------------------
+The default settings for the maximum potential of afforestation (“% of max potential”) are sourced from the low range of the 2018 ‘Greenhouse gas removal’ report by the Royal Society (Table 2, chapter 2). For example, moving the simulator’s afforestation slider to “100% of max potential” increases removals up to 4 Gton/yr. This value was taken from the report’s range of 3-20 Gton/yr, accounting for afforestation and reforestation, in combination with the added value 1-2 Gton/yr due to forest management. 
+
+For higher removal, one can adjust the “CDR Maximum Settings” within “Assumptions and Sensitivities”, up to the highest end of the range sourced from the same report. For example, the afforestation maximum can be increased to 22 Gton/yr. 
+
+Potential Co-Benefits of Increasing Afforestation
+-----------------------------------------------------
 •	New forests can create new ecosystems and protect existing wildlife habitats, biodiversity, and ecosystem services.
 •	Larger and healthier tree canopies in cities reduce urban heat island effects  and energy needed for heating and cooling.
 •	Jobs are created in tree planting, care, and maintenance. 

@@ -35,21 +35,6 @@ Key Dynamics
 
 * **Delays.** It takes time for the subsidies and encouragement of renewables to show up in installed capacity. Subsidies are phased in over 10 years so note in the “Renewable Final Energy Consumption” graph that the Current Scenario does not immediately differ from Business as Usual.
 
-FAQs
-----
-
-Why doesn’t encouraging renewables with a big subsidy avoid much future warming alone?
-
-* Renewables only reduce CO2 emissions when they displace fossil fuels. In some cases renewable energy just meets new energy demand and doesn't replace the demand met by coal and gas.
-
-* There is a rebound effect – in order to grow, renewables are made less expensive. The drop in energy price boosts demand, undoing some of the positive effect.
-
-How can I get renewables to grow faster?
-
-* Discourage coal and oil by taxing them individually or setting a carbon price.
-
-* Adjust the R&D breakthrough cost reduction for renewables to simulate a sudden breakthrough that would dramatically lower the cost of renewable energy.
-
 
 Big Message
 -----------
@@ -70,8 +55,8 @@ The most important feedback loops in the renewables sector include:
 
 3. Learning effect – every doubling of cumulative production will bring costs down 20% (aka, the progress ratio). Costs come down as supply chains, business models, and production industries grow.
 
-Potential Co-Benefits of Encouraging
--------------------------------------
+Potential Co-Benefits of Encouraging Renewables
+-------------------------------------------------
 - Decreased air and water pollution from switching away from fossil fuel sources can improve public health, worker productivity, and savings for governments and households.
 - Renewables can help expand energy access during power outages.
 - Renewable energy offers opportunities for high- and low-skilled employment.
@@ -81,7 +66,22 @@ Equity Considerations
 - Although the price of renewable energy infrastructure continues to fall, many low-income communities remain unable to access the technology in both developed and developing countries. Working to ensure an equitable energy transition can help everyone to reap the benefits. 
 - Policies in many developed countries limit solar and wind subsidy programs to homeowners, who often occupy higher income brackets.
 
+FAQs
+----
 
+**Why doesn’t encouraging renewables with a big subsidy avoid much future warming alone?** 
+
+* Renewables only reduce CO2 emissions when they displace fossil fuels. In some cases renewable energy just meets new energy demand and doesn't replace the demand met by coal and gas. 
+* Second, there is a rebound effect – in order to grow, renewables are made less expensive. The drop in energy price boosts demand, undoing some of the positive effect.
+
+**How can I get renewables to grow faster?** 
+
+* Discourage coal and oil by taxing them individually or setting a carbon price.
+* Adjust the R&D breakthrough cost reduction for renewables to simulate a sudden breakthrough that would dramatically lower the cost of renewable energy.
+
+**How do you handle the availability and cost of storage of electricity from renewables?** 
+
+* The cost of storage of wind and solar energy is explicitly modeled in En-ROADS, depressing growth in the long term.
 
 .. SUBSTITUTIONS SECTION
 

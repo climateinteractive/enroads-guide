@@ -39,8 +39,8 @@ Model Structure
 
 Emissions from deforestation stay level in the business as usual scenario.
 
-Potential Co-Benefits of Decreasing
--------------------------------------
+Potential Co-Benefits of Decreasing Deforestation
+----------------------------------------------------
 •	Forests protect biodiversity and provide ecosystem services and food sources.
 •	Forest preservation reduces erosion which leads to water contamination.
 •	Forests provide livelihoods for people (e.g., small-scale resource gathering and sustainable forestry) that can be lost when land shifts to other uses. 

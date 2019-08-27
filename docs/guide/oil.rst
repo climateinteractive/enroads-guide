@@ -27,13 +27,13 @@ Cost increase or decrease                          +100% to +60%     +60% to +30
 Key Dynamics
 ------------
 
-* When oil is discouraged, by taxing it, watch the red line go down in the “Sources of Primary Energy Graph.”
+* When oil is discouraged, by taxing it, watch the red line go down in the “Global Sources of Primary Energy” graph. 
 
-* Modest oil taxes (the “Taxed” setting) bend the oil curve only slightly, because oil demand is more resistant to changes in price because it is hard to switch to alternative energy sources (a truck can’t just run on solar if the price of oil gets high). Oil can shift some to biofuels and with time electrification can enable other energy sources to compete.
+* When oil is taxed, notice what happens to coal and gas in response. Unless there are restrictions on coal and gas, their demand will go up in response to expensive oil. We call this the “squeeze the balloon” problem – depressing fossil fuel emissions in one area causes them to pop up in another. Renewables are also boosted slightly, but the impact is negligible. Adding a carbon price is a good solution to the “squeeze the balloon” problem.
 
-* Taxing oil also reduces energy demand (see graphs “Final Energy Consumption” and “Cost of Energy”). When energy prices are higher people tend to use energy more efficiently and conserve energy. However, tax policies must be implemented with considerations for poor and working-class communities who can be harmfully impacted by high energy prices.
+* The net result is no change in overall GHG emissions and no reduction in future temperature. 
 
-* When oil is taxed, notice what happens to coal and gas in response. Unless there are existing taxes, coal and gas demand will go up in response to expensive oil.
+* Notice one of the ways that less oil leads to more coal: view the  “Electric Share of Final Energy – Transport” graph. Expensive oil has led to more electrification of the vehicle fleet. 
 
 Big Message
 -----------
@@ -51,8 +51,8 @@ The cost of oil affects three significant decisions regarding energy infrastruct
 
 #. retirement of capacity (whether to keep infrastructure longer or shorter than the average of ~30 years).
 
-Potential Co-Benefits of Discouraging
---------------------------------------
+Potential Co-Benefits of Discouraging Oil 
+------------------------------------------
 - Fewer oil spills help protect wildlife habitats, biodiversity, and ecosystem services at production sites and along transportation routes.
 - Reduced economic dependence on oil can improve national security and lower government military costs.
 
@@ -61,6 +61,10 @@ Equity Considerations
 - The oil industry provides many high-paying jobs for people with technical trade backgrounds. Providing pathways for these people to find new jobs will be essential. 
 - Oil companies wield enormous economic and political power locally and globally. In order to discourage oil, certain industry protections must be eliminated. 
 - There is a history of refineries being located in marginalized communities and attempting to avoid environmental regulations.  
+
+FAQs
+-------
+**How can I directly force deeper reductions in oil use?** Consider selecting the “Stop building new oil infrastructure” switch in the advanced view, and changing the “% reduction in oil utilization”.
 
 .. SUBSTITUTIONS SECTION
 

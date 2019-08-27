@@ -41,8 +41,8 @@ This sector tracks several stages of bioenergy installations, or “energy suppl
 
 * capacity under development, under construction, and actually producing energy, including delays between each stage.
 
-Potential Co-Benefits of Discouraging
---------------------------------------
+Potential Co-Benefits of Discouraging Bioenergy
+-------------------------------------------------
 - Crops and arable land are freed for other uses, such as food production. 
 - Producing biofuels can be water intensive and lead to contaminated runoff; reducing biofuel production can improve water quality and protect biodiversity.  
 - A reduction in biomass burning can improve indoor and outdoor air quality from reduced soot and particulates.
