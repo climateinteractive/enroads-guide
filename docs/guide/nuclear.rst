@@ -57,14 +57,18 @@ A setting of “subsidized” roughly corresponds to the “High” growth scena
 Potential Co-Benefits of Discouraging Nuclear 
 ----------------------------------------------
 - Risk of exposure to radiation from a nuclear meltdown or hazardous waste is reduced.
-- Nuclear energy can use more water than coal for electricity production, so discouraging nuclear power can increase water access and help protect wildlife habitats, biodiversity, and ecosystem services.  
+- Nuclear energy can use more water than coal for electricity production, so discouraging nuclear power can increase water access and help protect wildlife habitats, biodiversity, and ecosystem services. [#nuclearfn1]_  
 - Nuclear energy is fueled by uranium which can be harmful to mine, so discouraging nuclear energy can reduce risks to miners.
 
 Equity Considerations 
 ----------------------
-- Nuclear power plants, uranium mines (which provide the fuel for nuclear power), and waste sites are often located in low-income, marginalized communities that often lack resources to advocate for stricter environmental regulations and oversight.    
+- Nuclear power plants, uranium mines (which provide the fuel for nuclear power), and waste sites are often located in low-income, marginalized communities that often lack resources to advocate for stricter environmental regulations and oversight. [#nuclearfn2]_     
 - Mining uranium poses significant health risks to miners as well as surrounding communities due to water contamination and toxic waste. 
 
+.. rubric:: Footnotes
+
+.. [#nuclearfn1] https://www.ucsusa.org/clean-energy/energy-water-use/water-energy-electricity-nuclear 
+.. [#nuclearfn2] https://doi.org/10.3390/ijerph13070700 
 
 .. SUBSTITUTIONS SECTION
 

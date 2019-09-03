@@ -63,7 +63,7 @@ Potential Co-Benefits of Encouraging Renewables
 
 Equity Considerations
 -------------------------------------
-- Although the price of renewable energy infrastructure continues to fall, many low-income communities remain unable to access the technology in both developed and developing countries. Working to ensure an equitable energy transition can help everyone to reap the benefits. 
+- Although the price of renewable energy infrastructure continues to fall, many low-income communities remain unable to access the technology in both developed and developing countries. Working to ensure an equitable energy transition can help everyone to reap the benefits. [#renewablesfn1]_ 
 - Policies in many developed countries limit solar and wind subsidy programs to homeowners, who often occupy higher income brackets.
 
 FAQs
@@ -82,6 +82,11 @@ FAQs
 **How do you handle the availability and cost of storage of electricity from renewables?** 
 
 * The cost of storage of wind and solar energy is explicitly modeled in En-ROADS, depressing growth in the long term.
+
+.. rubric:: Footnotes
+
+.. [#renewablesfn1] https://southerncalifornialawreview.com/2019/01/04/just-transitions-article-by-ann-m-eisenberg/  
+
 
 .. SUBSTITUTIONS SECTION
 

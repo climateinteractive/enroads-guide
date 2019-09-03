@@ -53,8 +53,11 @@ Potential Co-Benefits of Encouraging Electrification
 Equity Considerations
 ----------------------
 •	The up-front capital costs of retrofitting buildings and heating systems to be entirely electric may not accessible to lower income individuals and small businesses. 
-•	Exposure to household air pollution is unevenly distributed within and across countries, to which negative health effects and poverty are strongly correlated.
+•	Exposure to household air pollution is unevenly distributed within and across countries, to which negative health effects and poverty are strongly correlated. [#buildingselecfn1]_
 
+.. rubric:: Footnotes
+
+.. [#buildingselecfn1] https://www.who.int/airpollution/household/health-impacts/en/ 
 
 .. SUBSTITUTIONS SECTION
 

@@ -44,8 +44,11 @@ Potential Co-Benefits of Lower Growth
 Equity Considerations 
 ----------------------
 •	Economic growth is tied to pulling people out of poverty worldwide although in recent decades, many gains in economic growth have gone to the world’s wealthiest. Regardless, policies must be tailored to specific local and regional circumstances. 
-•	When GDP growth slows or contracts, governments can incur higher budget deficits, often implementing austerity measures—cutting spending and raising taxes—to offset the difference. These reforms can severely impact the poor and working class causing job losses and all the inequities that come with loss of livelihood.
+•	When GDP growth slows or contracts, governments can incur higher budget deficits, often implementing austerity measures—cutting spending and raising taxes—to offset the difference. These reforms can severely impact the poor and working class causing job losses and all the inequities that come with loss of livelihood. [#econgrowthfn1]_
 
+.. rubric:: Footnotes
+
+.. [#econgrowthfn1] https://doi.org/10.1016/j.socscimed.2017.03.029
 
 .. SUBSTITUTIONS SECTION
 

@@ -50,7 +50,14 @@ Equity Considerations
 ----------------------
 •	Policies around population should be voluntary and empower women to make the choices that are best for them. 
 •	A higher percentage of women of color live in countries with severe gender inequities in access to education, full economic and political participation, and adequate family planning. Reducing population growth necessitates a large investment in that particular group. 
-•	There is a history of women of color in both high- and low-income countries being forcibly sterilized to prevent giving birth, this should not be encouraged.
+•	There is a history of women of color in both high- and low-income countries being forcibly sterilized to prevent giving birth, this should not be encouraged. [#popgrowthfn1]_ [#popgrowthfn2]_ [#popgrowthfn3]_ [#popgrowthfn4]_
+
+.. rubric:: Footnotes
+
+.. [#popgrowthfn1] https://journalofethics.ama-assn.org/article/forced-sterilizations-hiv-positive-women-global-ethics-and-policy-failure/2015-10 
+.. [#popgrowthfn2] https://www.lifesitenews.com/news/african-women-fight-back-against-forced-coerced-sterilizations
+.. [#popgrowthfn3] https://www.thoughtco.com/u-s-governments-role-sterilizing-women-of-color-2834600
+.. [#popgrowthfn4] https://daily.jstor.org/the-little-known-history-of-the-forced-sterilization-of-native-american-women/
 
 
 .. SUBSTITUTIONS SECTION

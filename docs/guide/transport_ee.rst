@@ -44,9 +44,12 @@ Potential Co-Benefits of Encouraging Energy Efficiency
 
 Equity Considerations 
 ----------------------
-- In some developed countries, such as the United States, pedestrian and cycle-friendly infrastructure has often been concentrated in wealthy communities, leaving out low-income families and people of color. 
+- In some developed countries, such as the United States, pedestrian and cycle-friendly infrastructure has often been concentrated in wealthy communities, leaving out low-income families and people of color. [#transeefn1]_ 
 - When mass transit options improve or operating costs decrease with fuel efficient vehicle use, social equality may improve, as low-income individuals have more transportation options to meet their needs.
 
+.. rubric:: Footnotes
+
+.. [#transeefn1] https://www.citylab.com/transportation/2019/02/bike-friendly-cities-should-be-designed-everyone/582409/ 
 
 .. SUBSTITUTIONS SECTION
 

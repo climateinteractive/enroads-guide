@@ -53,9 +53,12 @@ Potential Co-Benefits of Encouraging Electrification
 Equity Considerations
 ---------------------
 •	Although costs are coming down, electric vehicles may not be affordable or available to everyone.
-•	Mining of lithium and copper, two necessary ingredients for the batteries used in electric vehicles, can wreak havoc on precious ecosystems and threaten the well-being of communities at the mining sites.  
+•	Mining of lithium and copper, two necessary ingredients for the batteries used in electric vehicles, can wreak havoc on precious ecosystems and threaten the well-being of communities at the mining sites. [#transelecfn1]_  
 •	Electric charging station locations may not be accessible or the electric battery range may be insufficient for some situations. 
 
+.. rubric:: Footnotes
+
+.. [#transelecfn1] https://www.bloomberg.com/news/features/2019-06-11/saving-the-planet-with-electric-cars-means-strangling-this-desert 
 
 .. SUBSTITUTIONS SECTION
 

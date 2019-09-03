@@ -47,7 +47,12 @@ Potential Co-Benefits of Decreasing Deforestation
 
 Equity Considerations 
 ---------------------
-•	Forest preservation efforts have restricted the access of indigenous people who have lived sustainably on the land for generations. Policies should be created with local stakeholder engagement.
+•	Forest preservation efforts have restricted the access of indigenous people who have lived sustainably on the land for generations. Policies should be created with local stakeholder engagement. [#deforestationfn1]_ [#deforestationfn2]_
+
+.. rubric:: Footnotes
+
+.. [#deforestationfn1] https://www.nationalgeographic.com/culture/2019/05/millions-india-indigenous-people-face-eviction-from-forests/ 
+.. [#deforestationfn2] https://unpo.org/article/20563 
 
 .. SUBSTITUTIONS SECTION
 
