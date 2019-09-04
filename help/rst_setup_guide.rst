@@ -119,7 +119,7 @@ You should now be able to render (preview) the RST file by clicking the side-by-
 Typical Workflow
 ====================
 
-1. Open SourceTree and Pull
+1. Open SourceTree and Pull; the `draft` branch should be active
 2. Open Visual Studio Code
 3. Open the folder of the repository
 4. Make edits
@@ -128,19 +128,23 @@ Typical Workflow
 7. If corrections are needed, and go back to Step 4.
 8. When done, go back to SourceTree.
 9. Click Commit to save the changes as a single set of edits.  You'll need to include a useful commit message to explain what task was accomplished.
-10. In SourceTree, click Push to upload the change to GitHub for the rest of the team to see.  This will also signal to ReadTheDocs to publish a new updated website, making them avaiable on the web.
+10. In SourceTree, click Push to upload the change to GitHub for the rest of the team to see.  This will also signal to ReadTheDocs to publish a new updated website, making them available on the web.
 
 
 Publishing with ReadTheDocs.org
 ===============================
 
+ReadTheDocs (RTD) handles publishing the documentation website automatically once you check in the latest version to the ``master`` branch in GitHub. This is really convenient, and once reason we chose to use RTD for our documentation. Once you "merge" your ``draft`` version into the ``master`` version, RTDs creates the HTML for the website, creates the PDF of the documentation, and puts it all on the web. The URL is the same for the documentation homepage.
 
+In the Typical Workflow section above, the ``draft`` branch should have been your active branch. When you're making edits and changes, you should avoid working in the ``master`` branch, as that is the public version of the documentation. Only after you have made your edits, verified they are correct, and tested the private website on RTD, should yo proceed to the publishing steps below.
 
-
-Publishing to GitHub
-=======================
-
-
+1. Finish all steps in Typical Workflow (above), including the final step of Pushing your changes to GitHub.
+2. In SourceTree, "check out"  to the ``master`` branch. You can do this by right-clicking ``master`` and choosing "Check out" or simply by double-clicking ``master`` in the sidebar. ``master`` will now be bold in the sidebar indicating you've switched branches and it is active.
+3. With ``master`` still bold (active), right-click ``draft`` and choose "Merge into master". This will merge your edits in the ``draft`` branch into the active ``master`` branch. (Note: In Git, you're always working in the active branch. So if you want to update the ``master`` branch with new changes, it has to be active and then you merge changes from another branch into it.)
+4. Then you "push" those changes to GitHub (clicking on the Push button in the toolbar).
+5. Wait about 2-3 minutes for RTDs to automatically get the changes from GitHub. 
+6. Visit the documentation website to verify that the site updated and the changes are correct.  It is now the public site, so this is an important quality control step.
+7. Make ``draft`` active again.  This is just so, when you start your next round of edits, you don't start working on ``master`` accidentally. Double-click ``draft`` in the sidebar and make sure it becomes active (bold) again.
 
 
 reStructuredText Guide
