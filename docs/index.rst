@@ -44,6 +44,7 @@ Table of Contents
    guide/deforestation
    guide/afforestation
    guide/tech_removal
+   guide/general_faqs
 
 
 Indices and tables
