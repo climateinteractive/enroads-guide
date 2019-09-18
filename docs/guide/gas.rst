@@ -8,7 +8,7 @@ Examples
 
 * Governments implementing laws against fracking and taxes on natural gas.
 
-* Financial services industry (e.g., banks) or global development institutions (e.g., World Bank) limiting access to **capital**.
+* Financial services industry (e.g., banks) or global development institutions (e.g., World Bank) limiting access to capital.
 
 Big Message
 -----------

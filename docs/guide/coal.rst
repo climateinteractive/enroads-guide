@@ -6,9 +6,9 @@
 Examples
 --------
 
-* Government policies that **phase out** power plants or make them more expensive in any way, such as taxes on coal.
+* Government policies that phase out power plants or make them more expensive in any way, such as taxes on coal.
 
-* Financial services industry (e.g. banks) or global development institutions (e.g. World Bank) limiting access to **capital** for new coal mining, refining, and power plant infrastructure.
+* Financial services industry (e.g. banks) or global development institutions (e.g. World Bank) limiting access to capital for new coal mining, refining, and power plant infrastructure.
 
 Big Messages
 ------------

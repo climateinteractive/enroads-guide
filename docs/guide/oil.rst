@@ -6,11 +6,11 @@
 Examples
 --------
 
-* Governments imposing **limits** on oil drilling and exploration, removing subsidies, and taxing oil.
+* Governments imposing limits on oil drilling and exploration, removing subsidies, and taxing oil.
 
-* Universities, corporations, and individuals **divesting** from oil companies.
+* Universities, corporations, and individuals divesting from oil companies.
 
-* Financial services industry (e.g., banks) or global development institutions (e.g., World Bank) limiting access to **capital** for exploration, drilling, refining, and delivery.
+* Financial services industry (e.g., banks) or global development institutions (e.g., World Bank) limiting access to capital for exploration, drilling, refining, and delivery.
 
 Big Message
 -----------
