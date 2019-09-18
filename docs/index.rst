@@ -26,6 +26,7 @@ Table of Contents
    :caption: Contents:
 
    guide/background
+   guide/general_faqs
    guide/coal
    guide/oil
    guide/gas
@@ -44,7 +45,7 @@ Table of Contents
    guide/deforestation
    guide/afforestation
    guide/tech_removal
-   guide/general_faqs
+   
 
 
 Indices and tables

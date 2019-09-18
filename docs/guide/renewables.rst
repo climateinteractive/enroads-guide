@@ -14,17 +14,10 @@ Examples
 
 * Businesses committing to powering themselves with 100% renewable energy.
 
-Slider Settings
----------------
+Big Message
+-----------
 
-======================================= ================ ================ ============ =================
-\                                       taxed            status quo       subsidized   highly subsidized
-======================================= ================ ================ ============ =================
-Change in price per kilowatt hour (kWh) +$0.05 to +$0.01 **+$0.01 to      -$0.01 to    +$0.05 to
-                                                         -$0.01**         -$0.05       -$0.10
-Cost increase or decrease               +30% to +10%     **+10% to -10%** -10% to -30% -30% to -60%
-======================================= ================ ================ ============ =================
-
+* Subsidizing renewable energy is a helpful way to keep coal and gas in the ground and reduce future temperature. However, it isn’t a silver bullet.
 
 Key Dynamics 
 -------------
@@ -35,12 +28,27 @@ Key Dynamics
 
 * **Delays.** It takes time for the subsidies and encouragement of renewables to show up in installed capacity. Subsidies are phased in over 10 years so note in the “Renewable Final Energy Consumption” graph that the Current Scenario does not immediately differ from Business as Usual.
 
+Potential Co-Benefits of Encouraging Renewables
+-------------------------------------------------
+- Decreased air and water pollution from switching away from fossil fuel sources can improve public health, worker productivity, and savings for governments and households.
+- Renewables can help expand energy access during power outages.
+- Renewable energy offers opportunities for high- and low-skilled employment.
 
-Big Message
------------
+Equity Considerations
+-------------------------------------
+- Although the price of renewable energy infrastructure continues to fall, many low-income communities remain unable to access the technology in both developed and developing countries. Working to ensure an equitable energy transition can help everyone to reap the benefits. [#renewablesfn1]_ 
+- Policies in many developed countries limit solar and wind subsidy programs to homeowners, who often occupy higher income brackets.
 
-* Subsidizing renewable energy is a helpful way to keep coal and gas in the ground and reduce future temperature. However, it isn’t a silver bullet.
+Slider Settings
+---------------
 
+======================================= ================ ================ ============ =================
+\                                       taxed            status quo       subsidized   highly subsidized
+======================================= ================ ================ ============ =================
+Change in price per kilowatt hour (kWh) +$0.05 to +$0.01 **+$0.01 to      -$0.01 to    +$0.05 to
+                                                         -$0.01**         -$0.05       -$0.10
+Cost increase or decrease               +30% to +10%     **+10% to -10%** -10% to -30% -30% to -60%
+======================================= ================ ================ ============ =================
 
 Model Structure
 ---------------
@@ -54,17 +62,6 @@ The most important feedback loops in the renewables sector include:
 2. Site availability – efficiency goes down and costs go up when renewables are sited in less optimal locations (e.g., solar power in rainy climates).
 
 3. Learning effect – every doubling of cumulative production will bring costs down 20% (aka, the progress ratio). Costs come down as supply chains, business models, and production industries grow.
-
-Potential Co-Benefits of Encouraging Renewables
--------------------------------------------------
-- Decreased air and water pollution from switching away from fossil fuel sources can improve public health, worker productivity, and savings for governments and households.
-- Renewables can help expand energy access during power outages.
-- Renewable energy offers opportunities for high- and low-skilled employment.
-
-Equity Considerations
--------------------------------------
-- Although the price of renewable energy infrastructure continues to fall, many low-income communities remain unable to access the technology in both developed and developing countries. Working to ensure an equitable energy transition can help everyone to reap the benefits. [#renewablesfn1]_ 
-- Policies in many developed countries limit solar and wind subsidy programs to homeowners, who often occupy higher income brackets.
 
 FAQs
 ----

@@ -10,32 +10,16 @@ Examples
 
 * Support from businesses, land owners, and general public to implement such technologies.
 
-Slider Settings
----------------
-
-============================ ============== ============ ============= =============
-\                            **status quo** low growth   medium growth high growth
-============================ ============== ============ ============= =============
-Percent of maximum potential **0% to +10%** +10% to +40% +40% to +70%  +70% to +100%
-============================ ============== ============ ============= =============
-
-Key Dynamics
-------------
-
-* View the graph “Land for Carbon Dioxide Removal” and note the total amount of land area that all the approaches might require.
-
 Big Message
 -----------
 
 •	Technological Carbon Removal has the potential to pull significant amounts of carbon dioxide out of the atmosphere. 
 •	These technologies do not currently exist outside of pilot scale. 
 
-Model Structure
----------------
+Key Dynamics
+------------
 
-The five methods of CO\ :sub:`2` removal included are modeled independently. They each vary in their maximum sequestration potential, the year they might start to scale up, how long it takes them to be phased in, and the carbon leakage rate over time (stored carbon is not always permanent).
-
-The default settings for the maximum potential of technological carbon removal (“% of max potential”) are sourced from the low range of the 2018 ‘Greenhouse gas removal’ report by the Royal Society (Table 2, chapter 2). For example, moving the simulator’s biochar slider to “100% of max potential” increases removals up to 2 Gton/yr, which was taken from the report’s range of 2-5 Gton/yr. For higher removal, one can adjust the “CDR Maximum Settings” within “Assumptions and Sensitivities”, up to the highest end of the range sourced from the same report. For example, the biochar maximum can be increased to 5 Gton/yr. 
+* View the graph “Land for Carbon Dioxide Removal” and note the total amount of land area that all the approaches might require.
 
 Potential Co-Benefits of CDR Growth
 -------------------------------------
@@ -46,6 +30,22 @@ Equity Considerations
 -----------------------
 •	Approaches like BECCS require large areas of land that in some cases could be used for food production.
 •	Many of the technological carbon removal approaches have not been developed at scale yet and pose unknown risks and consequences to the communities they are situated within. 
+
+Slider Settings
+---------------
+
+============================ ============== ============ ============= =============
+\                            **status quo** low growth   medium growth high growth
+============================ ============== ============ ============= =============
+Percent of maximum potential **0% to +10%** +10% to +40% +40% to +70%  +70% to +100%
+============================ ============== ============ ============= =============
+
+Model Structure
+---------------
+
+The five methods of CO\ :sub:`2` removal included are modeled independently. They each vary in their maximum sequestration potential, the year they might start to scale up, how long it takes them to be phased in, and the carbon leakage rate over time (stored carbon is not always permanent).
+
+The default settings for the maximum potential of technological carbon removal (“% of max potential”) are sourced from the low range of the 2018 ‘Greenhouse gas removal’ report by the Royal Society (Table 2, chapter 2). For example, moving the simulator’s biochar slider to “100% of max potential” increases removals up to 2 Gton/yr, which was taken from the report’s range of 2-5 Gton/yr. For higher removal, one can adjust the “CDR Maximum Settings” within “Assumptions and Sensitivities”, up to the highest end of the range sourced from the same report. For example, the biochar maximum can be increased to 5 Gton/yr. 
 
 FAQs
 -------

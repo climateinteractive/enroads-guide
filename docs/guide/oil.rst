@@ -12,17 +12,10 @@ Examples
 
 * Financial services industry (e.g., banks) or global development institutions (e.g., World Bank) limiting access to **capital** for exploration, drilling, refining, and delivery.
 
-Slider Settings
----------------
+Big Message
+-----------
 
-================================================== ================= ============ ============= ========== ==========
-\                                                  very highly taxed highly taxed taxed         status quo subsidized
-================================================== ================= ============ ============= ========== ==========
-Change in price per barrel of oil equivalent (boi) +$100 to +$60     +$60 to +$30 +$30 to +$10  **+$10 to  -$10 to
-                                                                                                -$10**     -$30
-Cost increase or decrease                          +100% to +60%     +60% to +30% +30% to +10%  **+10% to  -10% to
-                                                                                                -10%**     -30%
-================================================== ================= ============ ============= ========== ==========
+* Taxing oil modestly has a minor impact on temperature, but taxing it highly delivers a significant impact. It’s not a silver bullet, but can be an important part of a suite of actions
 
 Key Dynamics
 ------------
@@ -35,10 +28,28 @@ Key Dynamics
 
 * Notice one of the ways that less oil leads to more coal: view the  “Electric Share of Final Energy – Transport” graph. Expensive oil has led to more electrification of the vehicle fleet. 
 
-Big Message
------------
+Potential Co-Benefits of Discouraging Oil 
+------------------------------------------
+- Fewer oil spills help protect wildlife habitats, biodiversity, and ecosystem services at production sites and along transportation routes.
+- Reduced economic dependence on oil can improve national security and lower government military costs.
 
-* Taxing oil modestly has a minor impact on temperature, but taxing it highly delivers a significant impact. It’s not a silver bullet, but can be an important part of a suite of actions
+Equity Considerations
+---------------------------
+- The oil industry provides many high-paying jobs for people with technical trade backgrounds. Providing pathways for these people to find new jobs will be essential. 
+- Oil companies wield enormous economic and political power locally and globally. In order to discourage oil, certain industry protections must be eliminated. 
+- There is a history of refineries being located in marginalized communities and attempting to avoid environmental regulations.  
+
+Slider Settings
+---------------
+
+================================================== ================= ============ ============= ========== ==========
+\                                                  very highly taxed highly taxed taxed         status quo subsidized
+================================================== ================= ============ ============= ========== ==========
+Change in price per barrel of oil equivalent (boi) +$100 to +$60     +$60 to +$30 +$30 to +$10  **+$10 to  -$10 to
+                                                                                                -$10**     -$30
+Cost increase or decrease                          +100% to +60%     +60% to +30% +30% to +10%  **+10% to  -10% to
+                                                                                                -10%**     -30%
+================================================== ================= ============ ============= ========== ==========
 
 Model Structure
 ---------------
@@ -50,17 +61,6 @@ The cost of oil affects three significant decisions regarding energy infrastruct
 #. use of capacity (whether to run existing operations);
 
 #. retirement of capacity (whether to keep infrastructure longer or shorter than the average of ~30 years).
-
-Potential Co-Benefits of Discouraging Oil 
-------------------------------------------
-- Fewer oil spills help protect wildlife habitats, biodiversity, and ecosystem services at production sites and along transportation routes.
-- Reduced economic dependence on oil can improve national security and lower government military costs.
-
-Equity Considerations
----------------------------
-- The oil industry provides many high-paying jobs for people with technical trade backgrounds. Providing pathways for these people to find new jobs will be essential. 
-- Oil companies wield enormous economic and political power locally and globally. In order to discourage oil, certain industry protections must be eliminated. 
-- There is a history of refineries being located in marginalized communities and attempting to avoid environmental regulations.  
 
 FAQs
 -------

@@ -12,21 +12,6 @@ Examples
 
 * Public support and campaigns to support land preservation.
 
-Slider Settings
----------------
-
-================================================ ============== ================== ============== ==================== ================
-\                                                highly reduced moderately reduced **status quo** moderately increased highly increased
-================================================ ============== ================== ============== ==================== ================
-Percent reduction or increase of maximum action  -100% to       -50% to 0%         **0% to +40%** +40% to +70%         +70% to +100%
-                                                 -50%                                                                 
-================================================ ============== ================== ============== ==================== ================
-
-Key Dynamics
-------------
-
-* Highly reducing deforestation emissions reduces temperature less than most people would estimate. View the “Greenhouse Gas Net Emissions by Gas – Area” graph to see the role of land use (deforestation) CO\ :sub:`2` relative to all the other sources of emissions.
-
 Big Message
 -----------
 
@@ -34,10 +19,10 @@ Big Message
 
 * Protecting forests is helpful for many reasons other than the environment, including protecting biodiversity and native people’s lands.
 
-Model Structure
------------------
+Key Dynamics
+------------
 
-Emissions from deforestation stay level in the business as usual scenario.
+* Highly reducing deforestation emissions reduces temperature less than most people would estimate. View the “Greenhouse Gas Net Emissions by Gas – Area” graph to see the role of land use (deforestation) CO\ :sub:`2` relative to all the other sources of emissions.
 
 Potential Co-Benefits of Decreasing Deforestation
 ----------------------------------------------------
@@ -48,6 +33,21 @@ Potential Co-Benefits of Decreasing Deforestation
 Equity Considerations 
 ---------------------
 •	Forest preservation efforts have restricted the access of indigenous people who have lived sustainably on the land for generations. Policies should be created with local stakeholder engagement. [#deforestationfn1]_ [#deforestationfn2]_
+
+Slider Settings
+---------------
+
+================================================ ============== ================== ============== ==================== ================
+\                                                highly reduced moderately reduced **status quo** moderately increased highly increased
+================================================ ============== ================== ============== ==================== ================
+Percent reduction or increase of maximum action  -100% to       -50% to 0%         **0% to +40%** +40% to +70%         +70% to +100%
+                                                 -50%                                                                 
+================================================ ============== ================== ============== ==================== ================
+
+Model Structure
+-----------------
+
+Emissions from deforestation stay level in the business as usual scenario.
 
 .. rubric:: Footnotes
 

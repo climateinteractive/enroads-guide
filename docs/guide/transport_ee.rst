@@ -12,28 +12,12 @@ Examples
 
 * Research and development into high efficiency technologies for shipping, vehicles, and air travel.
 
-Slider Settings
----------------
-
-The variable being changed is the annual improvement rate in the energy intensity of new transport capital such as vehicles, trains, and ships.
-
-=========== =========== ============== ========== ================
-\           discouraged **status quo** increased  highly increased
-=========== =========== ============== ========== ================
-Annual rate -1% to 0%   **0% to +2%**  +2% to +5% +5% to +7%
-=========== =========== ============== ========== ================
-
 Key Dynamics
 ------------
 
 * Watch oil (red line) bend down in the “Global Sources of Primary Energy” graph as the world increases the efficiency of its transport. Less oil is burned, so emissions are lower and temperature is lower. Coal and gas fall as well, as electrified transport becomes more efficient. 
 * View also the “Final Energy Consumption” graph to see less energy demand. 
 * To see another benefit, look at the “Cost of Energy” graph. Less demand for energy means prices are lower. 
-
-Model Structure 
-----------------
-
-Increasing the rate of improvement in energy use for new vehicles and other infrastructure helps drive reductions in greenhouse gas emissions across the transport sector. There is some delay in how fast this accelerates because energy use is driven by the overall average of all capital (not just the new things). The model structure tracks overall efficiency, which includes retrofitting of existing capital.
 
 Potential Co-Benefits of Encouraging Energy Efficiency
 --------------------------------------------------------
@@ -46,6 +30,22 @@ Equity Considerations
 ----------------------
 - In some developed countries, such as the United States, pedestrian and cycle-friendly infrastructure has often been concentrated in wealthy communities, leaving out low-income families and people of color. [#transeefn1]_ 
 - When mass transit options improve or operating costs decrease with fuel efficient vehicle use, social equality may improve, as low-income individuals have more transportation options to meet their needs.
+
+Slider Settings
+---------------
+
+The variable being changed is the annual improvement rate in the energy intensity of new transport capital such as vehicles, trains, and ships.
+
+=========== =========== ============== ========== ================
+\           discouraged **status quo** increased  highly increased
+=========== =========== ============== ========== ================
+Annual rate -1% to 0%   **0% to +2%**  +2% to +5% +5% to +7%
+=========== =========== ============== ========== ================
+
+Model Structure 
+----------------
+
+Increasing the rate of improvement in energy use for new vehicles and other infrastructure helps drive reductions in greenhouse gas emissions across the transport sector. There is some delay in how fast this accelerates because energy use is driven by the overall average of all capital (not just the new things). The model structure tracks overall efficiency, which includes retrofitting of existing capital.
 
 .. rubric:: Footnotes
 

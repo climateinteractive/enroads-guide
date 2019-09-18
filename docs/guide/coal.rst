@@ -10,6 +10,32 @@ Examples
 
 * Financial services industry (e.g. banks) or global development institutions (e.g. World Bank) limiting access to **capital** for new coal mining, refining, and power plant infrastructure.
 
+Big Messages
+------------
+
+*  Discouraging coal is a high leverage strategy for reducing future temperature change. It keeps coal in the ground, increases the cost of energy, and reduces energy demand.
+
+*  Discouraging coal also improves public health and saves medical costs through improved air quality.
+
+Key Dynamics
+------------
+
+*  When coal is discouraged, by taxing it, watch the brown line go down in the “Sources of Primary Energy” graph. It is one of the most sensitive energy supplies to any increase in cost. Unlike oil, it is much more substitutable for natural gas and renewables.
+
+*  Slowing the growth of coal near-term reduces overall CO\ :sub:`2` emissions relative to what it would have been otherwise and makes a big gain for the climate.
+
+*  Taxing coal also reduces energy demand (see graphs “Final Energy Consumption” and “Cost of Energy”). When energy prices are higher people tend to use energy more efficiently and conserve energy. However, tax policies must be implemented with considerations for poor and working-class communities who can be harmfully impacted by high energy prices.
+
+Potential Co-Benefits of Discouraging Coal
+--------------------------------------------
+- Reduced air pollutants from coal burning improves air quality and health outcomes for surrounding communities.
+- Less coal mining reduces heavy metal drainage and waste from mine sites which improves water quality and helps protect wildlife habitats, biodiversity, and ecosystem services.
+
+Equity Considerations
+-----------------------
+- Taxing coal can raise energy costs for households and businesses that must rely on coal for energy needs.
+- Low-income communities often suffer the worst health outcomes yet make up the majority of individuals who produce coal. Providing pathways for these people to find new jobs will be essential.
+
 Slider Settings
 ---------------
 
@@ -22,22 +48,6 @@ Cost increase or decrease                        +100% to +60%     +60% to +30% 
                                                                                              -10%**     -30%
 ================================================ ================= ============ ============ ========== ==========
 
-Key Dynamics
-------------
-
-*  When coal is discouraged, by taxing it, watch the brown line go down in the “Sources of Primary Energy” graph. It is one of the most sensitive energy supplies to any increase in cost. Unlike oil, it is much more substitutable for natural gas and renewables.
-
-*  Slowing the growth of coal near-term reduces overall CO\ :sub:`2` emissions relative to what it would have been otherwise and makes a big gain for the climate.
-
-*  Taxing coal also reduces energy demand (see graphs “Final Energy Consumption” and “Cost of Energy”). When energy prices are higher people tend to use energy more efficiently and conserve energy. However, tax policies must be implemented with considerations for poor and working-class communities who can be harmfully impacted by high energy prices.
-
-Big Messages
-------------
-
-*  Discouraging coal is a high leverage strategy for reducing future temperature change. It keeps coal in the ground, increases the cost of energy, and reduces energy demand.
-
-*  Discouraging coal also improves public health and saves medical costs through improved air quality.
-
 Model Structure
 ---------------
 
@@ -48,16 +58,6 @@ The cost of coal affects three significant decisions regarding energy infrastruc
 #. use of capacity (whether to run existing plants);
 
 #. retirement of capacity (whether to keep plants longer or shorter than the average of ~30 years).
-
-Potential Co-Benefits of Discouraging Coal
---------------------------------------------
-- Reduced air pollutants from coal burning improves air quality and health outcomes for surrounding communities.
-- Less coal mining reduces heavy metal drainage and waste from mine sites which improves water quality and helps protect wildlife habitats, biodiversity, and ecosystem services.
-
-Equity Considerations
------------------------
-- Taxing coal can raise energy costs for households and businesses that must rely on coal for energy needs.
-- Low-income communities often suffer the worst health outcomes yet make up the majority of individuals who produce coal. Providing pathways for these people to find new jobs will be essential.
 
 FAQs
 -----------

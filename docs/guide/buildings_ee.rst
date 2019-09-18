@@ -12,32 +12,16 @@ Examples
 
 * Research and development into high efficiency technologies.
 
-Slider Settings
----------------
+Big Message
+-----------
 
-The variable being changed is the annual improvement rate in the energy intensity of new capital.
-
-=========== =========== ============== ========== ================
-\           discouraged **status quo** increased  highly increased
-=========== =========== ============== ========== ================
-Annual rate -1% to 0%   **0% to +2%**  +2% to +5% +5% to +7%
-=========== =========== ============== ========== ================
+* Energy efficiency of buildings and factories is high leverage. It leads to less coal, oil, and gas being used. It also saves families, business, and communities money.
 
 Key Dynamics
 ------------
 
 * As less energy is used for buildings and industry, notice how all the energy sources decline in the “Global Sources of Primary Energy” graph - particularly coal and gas because they are the main sources of electricity. Less fossil fuels are burned so CO2 emissions go down and global temperature change is lowered dramatically.
 * Improvements in energy intensity of new capital also reduce energy demand. Explore this in the “Final Energy Consumption” graph, where the current scenario (blue line) is lower than business as usual (black line).
-
-Big Message
------------
-
-* Energy efficiency of buildings and factories is high leverage. It leads to less coal, oil, and gas being used. It also saves families, business, and communities money.
-
-Model Structure
----------------
-
-Increasing the rate of improvement in energy use for new technology and infrastructure lowers emissions gradually, because energy use is driven by the overall average of all infrastructure in this area, which is delayed from this intervention due to its relatively long lifetime.  
 
 Potential Co-Benefits of Encouraging Energy Efficiency
 ---------------------------------------------------------
@@ -51,6 +35,22 @@ Equity Considerations
 •	The up-front capital costs of efficiency improvements may not accessible to lower income individuals and small businesses. 
 •	Cross-sectoral collaboration can ensure jobs and benefits are distributed equitably within the local community. 
 •	In some places, policies are directed at property owners, inhibiting renters, who are often lower income, from accessing the benefits. 
+
+Slider Settings
+---------------
+
+The variable being changed is the annual improvement rate in the energy intensity of new capital.
+
+=========== =========== ============== ========== ================
+\           discouraged **status quo** increased  highly increased
+=========== =========== ============== ========== ================
+Annual rate -1% to 0%   **0% to +2%**  +2% to +5% +5% to +7%
+=========== =========== ============== ========== ================
+
+Model Structure
+---------------
+
+Increasing the rate of improvement in energy use for new technology and infrastructure lowers emissions gradually, because energy use is driven by the overall average of all infrastructure in this area, which is delayed from this intervention due to its relatively long lifetime.  
 
 
 .. SUBSTITUTIONS SECTION

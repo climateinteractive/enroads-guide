@@ -16,30 +16,15 @@ Examples
 
 * Research and development on substitutions for f-gases (e.g. SF6 and HFC) in industrial processes.
 
-Slider Settings
----------------
-
-=============================================== ============== ================== ==============
-\                                               highly reduced moderately reduced **status quo**
-=============================================== ============== ================== ==============
-Percent reduction or increase of maximum action -100% to       -50% to 0%         **0% to +10%**
-                                                -50%                             
-=============================================== ============== ================== ==============
-
-Key Dynamics
-------------
-
-* Watch temperature increase fall as emissions of methane, N\ :sub:`2`\ O, and F-gases fall. They comprise 30% of current greenhouse gas emissions and are very important in addressing climate change.
-
 Big Message
 -----------
 
 * Reducing methane, nitrous oxide, and the f-gases is high leverage, although many approaches to reducing these emissions need more research and support to scale up.
 
-Model Structure
----------------
+Key Dynamics
+------------
 
-The model limits how much these emissions can be reduced, since some are considered unavoidable, particularly those from agriculture, landfills, and wastewater.
+* Watch temperature increase fall as emissions of methane, N\ :sub:`2`\ O, and F-gases fall. They comprise 30% of current greenhouse gas emissions and are very important in addressing climate change.
 
 Potential Co-Benefits of Decreasing Methane & Other Gases
 ------------------------------------------------------------
@@ -53,6 +38,21 @@ Equity Considerations
 •	Many cultural values are attached to certain foods, meaning change to more plant-based diets could require a large societal shift.
 •	Policies implemented without care may threaten food security for certain individuals and communities. For example, rice paddies, a large methane contributor, are a main dietary staple for many countries.
 •	Local economies and employment can be threatened in communities which currently rely on industrial, large-scale farming practices as their main livelihood. 
+
+Slider Settings
+---------------
+
+=============================================== ============== ================== ==============
+\                                               highly reduced moderately reduced **status quo**
+=============================================== ============== ================== ==============
+Percent reduction or increase of maximum action -100% to       -50% to 0%         **0% to +10%**
+                                                -50%                             
+=============================================== ============== ================== ==============
+
+Model Structure
+---------------
+
+The model limits how much these emissions can be reduced, since some are considered unavoidable, particularly those from agriculture, landfills, and wastewater.
 
 
 .. SUBSTITUTIONS SECTION

@@ -10,37 +10,15 @@ Examples
 
 * Research and development into various electric motors and systems than could enable wind and solar to replace oil and gas fired industrial facilities.
 
-Slider Settings
----------------
-
-The variable being changed is the annual growth rate of electricity used in buildings and industry.
-
-=========== =========== ============== ============ ===================
-\           discouraged **status quo** incentivized highly incentivized
-=========== =========== ============== ============ ===================
-Annual rate -3% to -1%  **-1% to +1%** +1% to +3%   +3% to +5%
-=========== =========== ============== ============ ===================
-
-Key Dynamics
-------------
-
-* When there is more efficient electrical systems power building and industry notice that natural gas (blue line) and coal (brown line) move down in the “Sources of Final Energy Consumption” graph.
-
 Big Message
 -----------
 
 * Electrification of buildings and industry can help, particularly when renewable energy is already encouraged or fossil fuels are discouraged.
 
-Model structure
----------------
+Key Dynamics
+------------
 
-Unlike the inputs for energy sources, which change the financial attractiveness to drive future behavior, this input directly forces growth of electrification up toward a maximum percentage.
-
-This input affects climate outcomes through two pathways:
-
-#. Changing energy demand. The efficiency for electrified energy use is greater than for the direct burning of coal, oil, and gas.
-
-#. Changing fuel mix. Increased electrification decreases use of oil and increases use of coal, natural gas, and renewables in electricity generation.
+* When there is more efficient electrical systems power building and industry notice that natural gas (blue line) and coal (brown line) move down in the “Sources of Final Energy Consumption” graph.
 
 Potential Co-Benefits of Encouraging Electrification
 ------------------------------------------------------
@@ -54,6 +32,29 @@ Equity Considerations
 ----------------------
 •	The up-front capital costs of retrofitting buildings and heating systems to be entirely electric may not accessible to lower income individuals and small businesses. 
 •	Exposure to household air pollution is unevenly distributed within and across countries, to which negative health effects and poverty are strongly correlated. [#buildingselecfn1]_
+
+Slider Settings
+---------------
+
+The variable being changed is the annual growth rate of electricity used in buildings and industry.
+
+=========== =========== ============== ============ ===================
+\           discouraged **status quo** incentivized highly incentivized
+=========== =========== ============== ============ ===================
+Annual rate -3% to -1%  **-1% to +1%** +1% to +3%   +3% to +5%
+=========== =========== ============== ============ ===================
+
+Model Structure
+---------------
+
+Unlike the inputs for energy sources, which change the financial attractiveness to drive future behavior, this input directly forces growth of electrification up toward a maximum percentage.
+
+This input affects climate outcomes through two pathways:
+
+#. Changing energy demand. The efficiency for electrified energy use is greater than for the direct burning of coal, oil, and gas.
+
+#. Changing fuel mix. Increased electrification decreases use of oil and increases use of coal, natural gas, and renewables in electricity generation.
+
 
 .. rubric:: Footnotes
 

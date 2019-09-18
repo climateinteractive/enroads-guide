@@ -10,15 +10,10 @@ Examples
 
 * Note, this does not include new technologies in CO2 removal, transportation, electrification, nor energy efficiency.
 
-Slider Settings
----------------
+Big Message
+-----------
 
-============================= =============== ============ =================
-\                             status quo      breakthrough huge breakthrough
-============================= =============== ============ =================
-Breakthrough year             no breakthrough 2022         2022
-Initial cost relative to coal                 1            0.5
-============================= =============== ============ =================
+* The potential contribution of a new energy supply technology is severely hampered by the long amount of time it would take to displace fossil fuel usage, and actually reduce GHG emissions and temperature, as well as the “rebound effect” in which inexpensive energy increases energy demand. 
 
 Key Dynamics
 ------------
@@ -29,16 +24,6 @@ Key Dynamics
 
    * Next, look at the “Final Energy Consumption” graph. The reason the new technology grows so fast is that it is cheaper than all other energy supplies. The abundance of inexpensive energy increases demand to higher than it would be otherwise, which consumes some of the savings brought by a lower carbon energy supply.
 
-Big Message
------------
-
-* The potential contribution of a new energy supply technology is severely hampered by the long amount of time it would take to displace fossil fuel usage, and actually reduce GHG emissions and temperature, as well as the “rebound effect” in which inexpensive energy increases energy demand. 
-
-Model Structure
----------------
-
-The path to deployment will take some time after the success of the technology in the laboratory: commercialization (set at 10 years, roughly the same amount of time that Uranium-based fission took), planning (2 years) and construction (5 years). Then the new energy source must compete with other energy sources.
-
 Potential Co-Benefits of a Breakthrough in New Technology
 -----------------------------------------------------------
 - A breakthrough in a new energy sources would create jobs along the supply chain from research and development to construction to operations. 
@@ -47,6 +32,21 @@ Potential Co-Benefits of a Breakthrough in New Technology
 Equity Considerations 
 ----------------------
 - There are unknown consequences and risks associated with new energy sources.
+
+Slider Settings
+---------------
+
+============================= =============== ============ =================
+\                             status quo      breakthrough huge breakthrough
+============================= =============== ============ =================
+Breakthrough year             no breakthrough 2022         2022
+Initial cost relative to coal                 1            0.5
+============================= =============== ============ =================
+
+Model Structure
+---------------
+
+The path to deployment will take some time after the success of the technology in the laboratory: commercialization (set at 10 years, roughly the same amount of time that Uranium-based fission took), planning (2 years) and construction (5 years). Then the new energy source must compete with other energy sources.
 
 .. SUBSTITUTIONS SECTION
 

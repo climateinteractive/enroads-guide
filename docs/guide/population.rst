@@ -12,6 +12,29 @@ Examples
 
 * Increased education on and access to reproductive health services.
 
+Big Message
+-----------
+
+* Contrary to some people’s beliefs, population growth is not a silver bullet for addressing climate change.
+
+* Decisions around population and family choice are very personal decisions and efforts to shift these decisions have ethical implications in many cultures.
+
+Key Dynamics
+------------
+
+* Watch all the sources of energy change as you change population growth.
+
+Potential Co-Benefits of Lower Growth
+--------------------------------------
+•	Lower population growth reduces global consumption of resources. 
+•	Ensuring safe access to family planning, reproductive health services, and women’s education enhances quality of life and income for women.
+
+Equity Considerations 
+----------------------
+•	Policies around population should be voluntary and empower women to make the choices that are best for them. 
+•	A higher percentage of women of color live in countries with severe gender inequities in access to education, full economic and political participation, and adequate family planning. Reducing population growth necessitates a large investment in that particular group. 
+•	There is a history of women of color in both high- and low-income countries being forcibly sterilized to prevent giving birth, this should not be encouraged. [#popgrowthfn1]_ [#popgrowthfn2]_ [#popgrowthfn3]_ [#popgrowthfn4]_
+
 Slider Settings
 ---------------
 
@@ -24,33 +47,10 @@ UN Scenario        1.3 to 2    **2 to 2.3**     2.3 to 2.5
 Population by 2100 8.4 billion **11.1 billion** 13.2 billion
 ================== =========== ================ ============
 
-Key Dynamics
-------------
-
-* Watch all the sources of energy change as you change population growth.
-
-Big Message
------------
-
-* Contrary to some people’s beliefs, population growth is not a silver bullet for addressing climate change.
-
-* Decisions around population and family choice are very personal decisions and efforts to shift these decisions have ethical implications in many cultures.
-
 Model Structure
 ---------------
 
 Population gets multiplied with economic growth (GDP per capita) to equal total global GDP, or Gross World Product.
-
-Potential Co-Benefits of Lower Growth
---------------------------------------
-•	Lower population growth reduces global consumption of resources. 
-•	Ensuring safe access to family planning, reproductive health services, and women’s education enhances quality of life and income for women.
-
-Equity Considerations 
-----------------------
-•	Policies around population should be voluntary and empower women to make the choices that are best for them. 
-•	A higher percentage of women of color live in countries with severe gender inequities in access to education, full economic and political participation, and adequate family planning. Reducing population growth necessitates a large investment in that particular group. 
-•	There is a history of women of color in both high- and low-income countries being forcibly sterilized to prevent giving birth, this should not be encouraged. [#popgrowthfn1]_ [#popgrowthfn2]_ [#popgrowthfn3]_ [#popgrowthfn4]_
 
 .. rubric:: Footnotes
 
