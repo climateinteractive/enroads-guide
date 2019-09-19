@@ -25,6 +25,7 @@ Table of Contents
    :maxdepth: 1
    :caption: Contents:
 
+   guide/about
    guide/background
    guide/general_faqs
    guide/coal
