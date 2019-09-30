@@ -95,21 +95,21 @@ What does the “business as usual” or “reference scenario” most closely m
 
 When comparing Radiative Forcing of the En-ROADS reference scenario against the RCP scenarios from other more disaggregated models, the En-ROADS scenario is lower than RCP 8.5 and higher than RCP 6.0. 
 
-Amongst the Shared Socio-Economic Pathways (SSPs), the reference scenario mostly closely matches SSP2 — Middle of the road (medium challenges to mitigation and adaptation.
+Amongst the `Shared Socio-Economic Pathways (SSPs) <https://unfccc.int/sites/default/files/part1_iiasa_rogelj_ssp_poster.pdf>`_, the reference scenario mostly closely matches SSP2 — Middle of the road (medium challenges to mitigation and adaptation.
 
 What simulations similar to En-ROADS can I explore?
 -----------------------------------------------------
 
-For a more technical approach, we suggest reviewing the 18 models in The Energy Modeling Forum suite, organized by Stanford University. 
+For a more technical approach, we suggest reviewing the 18 models in `The Energy Modeling Forum suite <https://emf.stanford.edu/>`_, organized by Stanford University. 
 
-For a similar approach with an accessible online interface, explore The Global Calculator.
+For a similar approach with an accessible online interface, explore `The Global Calculator <https://www.gov.uk/government/publications/the-global-calculator>`_.
 
 Where can I learn about the science, assumptions, testing, and background of the En-ROADS simulation?
 -------------------------------------------------------------------------------------------------------
 
 All assumptions and equations are documented in the En-ROADS Reference Guide.
 
-Assumptions most relevant to model users are available within other sections of the online and searchable user guide.
+Assumptions most relevant to model users are available within other sections of the `online and searchable user guide <https://docs.climateinteractive.org/projects/en-roads/en/latest/index.html>`_.
 
 Other supporting materials on modeling science are available on our website.
 
