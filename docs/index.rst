@@ -27,6 +27,7 @@ Table of Contents
 
    guide/about
    guide/background
+   guide/kaya
    guide/general_faqs
    guide/coal
    guide/oil
