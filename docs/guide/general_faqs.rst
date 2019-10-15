@@ -63,6 +63,7 @@ Who is on the En-ROADS development team?
 -	Ellie Johnston, Climate Interactive
 -	Andrew Jones, Climate Interactive
 -	Dr. Charles Jones, Climate Interactive
+-   Dr. Florian Kapmeier, Reutlingen University
 -	Stephanie McCauley, Climate Interactive
 -	Dr. Phil Rice, Climate Interactive
 -	Caroline Reed, Climate Interactive
@@ -88,8 +89,7 @@ In-kind contributions have been made by multiple project partners.
 What data does En-ROADS use?
 -------------------------------
 
-The En-ROADS model is driven by its own equations, not external datasets, and is calibrated against history and projections by WEO, EMF Suites, SSPs, and EIA. Default values and bounds on economic, energy, and climate-related dynamics have been determined from an extensive review of literature. All data sources and literature review can be found in the En-ROADS Reference Guide.  
-
+En-ROADS was built using the best available science and data, with sources such as the IEA, the EIA, and the IPCC. The En-ROADS model is driven by its own equations, not external datasets, and is calibrated against history and projections. Default values and bounds on economic, energy, and climaterelated dynamics have been determined from an extensive review of literature.All parameters and equations are available in the En-ROADS Reference Guide. The model was externally reviewed by a team of scientists and modelers, chaired by Dr. John Weyant, who leads the Energy Modeling Forum out of Stanford University. For those interested, many parameters or assumptions that we make can be changed in the “Assumptions” view. 
 What does the “business as usual” or “reference scenario” most closely match in the climate literature?
 ----------------------------------------------------------------------------------------------------------
 

@@ -102,7 +102,7 @@ Rising costs due to scarcity of oil and gas materials put limits on the pace of 
 
 |image26|
 
-Assumptions for available reserves of coal, oil, and gas are viewable and changeable in the “Assumptions and Sensitivities” area in the simulator.
+Assumptions for available reserves of coal, oil, and gas are viewable and changeable in the “Assumptions” view.
 
 Supplies compete for market share
 ---------------------------------

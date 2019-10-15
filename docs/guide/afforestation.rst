@@ -36,11 +36,11 @@ Equity Considerations
 Slider Settings
 ---------------
 
-============================ ============== ============ ============= =============
-\                            **status quo** low growth   medium growth high growth
-============================ ============== ============ ============= =============
-Percent of maximum potential **0% to +15%** +15% to +40% +40% to +70%  +70% to +100%
-============================ ============== ============ ============= =============
+========================================= ============== ============ ============= =============
+\                                         **status quo** low growth   medium growth high growth
+========================================= ============== ============ ============= =============
+Percent available land for afforestation  **0% to +15%** +15% to +40% +40% to +70%  +70% to +100%
+========================================= ============== ============ ============= =============
 
 Model Structure
 ---------------
@@ -49,7 +49,7 @@ The input changes total or gross carbon removal from trees and plants through ph
 
 The default settings for the maximum potential of afforestation (“% of max potential”) are sourced from the low range of the 2018 ‘Greenhouse gas removal’ report by the Royal Society (Table 2, chapter 2). For example, moving the simulator’s afforestation slider to “100% of max potential” increases removals up to 4 Gton/yr. This value was taken from the report’s range of 3-20 Gton/yr, accounting for afforestation and reforestation, in combination with the added value 1-2 Gton/yr due to forest management. 
 
-For higher removal, one can adjust the “CDR Maximum Settings” within “Assumptions and Sensitivities”, up to the highest end of the range sourced from the same report. For example, the afforestation maximum can be increased to 22 Gton/yr. 
+For higher removal, one can adjust the “Afforestation settings” within the “Assumptions" view. 
 
 
 .. SUBSTITUTIONS SECTION

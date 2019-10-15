@@ -39,7 +39,7 @@ The variable being changed is the annual improvement rate in the energy intensit
 =========== =========== ============== ========== ================
 \           discouraged **status quo** increased  highly increased
 =========== =========== ============== ========== ================
-Annual rate -1% to 0%   **0% to +2%**  +2% to +5% +5% to +7%
+Annual rate -1% to 0%   **0% to +1%**  +1% to +3% +3% to +5%
 =========== =========== ============== ========== ================
 
 Model Structure 
