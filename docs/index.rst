@@ -16,7 +16,7 @@ En-ROADS is being developed by `Climate Interactive <http://www.climateinteracti
 
 This guide provides background on the dynamics of En-ROADS, tips for using the simulator, general descriptions, real-world examples, slider settings, and model structure notes for the different sliders in En-ROADS.
 
-*Last updated September 2019*
+*Last updated October 2019*
 
 Table of Contents
 =================
