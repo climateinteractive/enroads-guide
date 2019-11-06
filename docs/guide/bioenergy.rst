@@ -6,19 +6,19 @@
 Examples
 --------
 
-* Government incentives and/or targets to convert land into growing biofuel feedstocks.
+* Government incentives and/or targets to convert land into growing biofuel feedstocks and drive bioenergy development.
 
-* Research, development, and investment into new technologies that can produce new forms of biofuels and into vehicles and industry that can use/support these biofuels.
+* Research, development, and investment into new technologies that can produce new forms of biofuels and vehicles and industry that can use/support these biofuels.
 
 Big Message
 -----------
 
-* Bioenergy is not a high leverage response to climate change – while using a renewable resource, it still emits large amounts of carbon dioxide.
+* Bioenergy is not a high leverage response to climate change – while using a renewable resource, it still emits large amounts of carbon dioxide and faces supply constraints with scale up. 
 
 Key Dynamics
 ------------
 
-* As bioenergy is subsidized or taxed, notice that the temperature changes very little. Changes in bioenergy shift the amount of other energy sources, which can mean more coal if bioenergy is taxed or less renewables if bioenergy is subsidized.
+* As bioenergy is subsidized or taxed, notice that the temperature changes very little. Changes in bioenergy shift the amount of other energy sources, which can mean things like more coal if bioenergy is taxed or less renewables if bioenergy is subsidized.
 
 * Bioenergy is only zero carbon if the feedstock is regrown to account for the carbon emitted. In some areas, trees are being used for bioenergy, which will take decades to regrow to make up for the carbon released when burned.
 
@@ -49,7 +49,7 @@ Cost increase or decrease                          +60% to +30%       +30% to +1
 Model Structure
 ---------------
 
-This sector tracks several stages of bioenergy installations, or “energy supply capacity": capacity under development, under construction, and actually producing energy, including delays between each stage.
+This sector tracks several stages of bioenergy installations, or energy supply capacity: capacity under development, under construction, and actually producing energy, including delays between each stage.
 
 
 .. SUBSTITUTIONS SECTION

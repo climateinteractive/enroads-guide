@@ -18,15 +18,15 @@ Big Message
 Key Dynamics
 ------------
 
-* When the carbon price is increased, notice that coal (brown line) reduces the most in the “Sources of Primary Energy” graph. It is the most carbon intensive source of energy, which makes it the most sensitive to a carbon price. Natural gas (blue line) moves down as well, although more modestly. Oil (red line) decreases only slightly, even though it is more carbon intensive than gas, because it is not easily substituted for other energy sources (e.g. can’t power a diesel truck with wind power). Renewable energy (green line) increases as the relative cost of wind and solar make them more attractive.
+* When the carbon price is increased, notice that Coal (brown line) reduces the most in the “Global Sources of Primary Energy” graph. It is the most carbon intensive source of energy, which makes it the most sensitive to a carbon price. Natural Gas (dark blue line) moves down as well, although more modestly. Oil (red line) decreases only slightly, even though it is more carbon intensive than gas, because it is not easily substituted for other energy sources (e.g. can’t power a diesel truck with wind power). Renewables (green line) increases as the relative cost of wind and solar make them more attractive.
 
-* Just like taxing coal, a significant carbon price increases energy costs, which reduces energy demand. View this in the “Final Energy Consumption” graph, noting that the current scenario with a high carbon price (blue line) is lower than business as usual (black line).
+* Just like taxing coal, a significant carbon price increases energy costs, which reduces energy demand. View this in the “Final Energy Consumption” graph, noting that the high carbon price Current Scenario (blue line) is lower than Business as Usual (black line).
 
 Potential Co-Benefits of a Carbon Price
 ---------------------------------------
-- Renewable energy becomes relatively cheaper, which can incentivize job creation in that market.  
+- Renewable energy becomes relatively cheaper, which can incentivize job creation in the sector.  
 - Reducing the use of fossil fuels improves air quality, increasing healthcare savings and worker productivity.
-- Funds raised can be earmarked for social programs that can be shared with everyone.
+- Revenue from carbon pricing can be allocated to social programs that can be shared with everyone.
 
 Equity Considerations
 ----------------------

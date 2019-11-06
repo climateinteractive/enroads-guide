@@ -10,27 +10,27 @@ Examples
 
 * Modified agricultural practices such as increasing digestion of manure and decreasing fertilizer use.
 
-* Decreased leakage from oil and gas industries.
+* Decreased methane leakage from oil and gas industries.
 
 * Increased capturing of gases emitted from landfills.
 
-* Research and development on substitutions for f-gases (e.g. SF6 and HFC) in industrial processes.
+* Research and development into substitutions for F-gases in industrial processes.
 
 Big Message
 -----------
 
-* Reducing methane, nitrous oxide, and the f-gases is high leverage, although many approaches to reducing these emissions need more research and support to scale up.
+* Reducing methane, nitrous oxide, and the F-gases is high leverage, although many approaches to reducing these emissions need more research and support to scale up.
 
 Key Dynamics
 ------------
 
-* Watch temperature increase fall as emissions of methane, N\ :sub:`2`\ O, and F-gases fall. They comprise 30% of current greenhouse gas emissions and are very important in addressing climate change.
+* Methane, N\ :sub:`2`\ O, and F-gas emissions comprise 30% of current greenhouse gas emissions and are key in reducing to address climate change.
 
 Potential Co-Benefits of Decreasing Methane & Other Gases
 ------------------------------------------------------------
 •	Plant-based diets have been shown to be healthier for individuals and have less impact on ecosystems.  
 •	Sustainable and plant-based agriculture produces more food with fewer resources, which increases food security. 
-•	Reduced leakage from natural gas systems can save money. 
+•	Reducing methane leakage from natural gas systems can save money. 
 •	Less nitrogen-rich fertilizer run off can reduce water pollution, decrease eutrophication, and increase marine health.
 
 Equity Considerations 
@@ -42,17 +42,18 @@ Equity Considerations
 Slider Settings
 ---------------
 
-=============================================== ============== ================== ==============
-\                                               highly reduced moderately reduced **status quo**
-=============================================== ============== ================== ==============
-Percent reduction or increase of maximum action -100% to       -50% to 0%         **0% to +10%**
+The variable being changed is the percent reduction or increase of total maximum action. The model limits how much these emissions can be reduced, since some are considered unavoidable, particularly those from agriculture, landfills, and wastewater.
+
+=============================================== ============== ================== ============== ============
+\                                               highly reduced moderately reduced **status quo** increased
+=============================================== ============== ================== ============== ============
+Percent reduction or increase of maximum action -100% to       -50% to -2%         **-2% to 0%** 0% to +10%
                                                 -50%                             
-=============================================== ============== ================== ==============
+=============================================== ============== ================== ============== ============
 
 Model Structure
 ---------------
 
-The model limits how much these emissions can be reduced, since some are considered unavoidable, particularly those from agriculture, landfills, and wastewater.
 
 
 .. SUBSTITUTIONS SECTION

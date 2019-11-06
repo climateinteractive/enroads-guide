@@ -12,12 +12,12 @@ Examples
 
 * Public support and campaigns to support land preservation.
 
-Big Message
------------
+Big Messages
+------------
 
 * Efforts to reduce deforestation are relatively low leverage for the climate, but are one part of a multi-pronged effort.
 
-* Protecting forests is helpful for many reasons other than the environment, including protecting biodiversity and native people’s lands.
+* Protecting forests is helpful for many reasons other than climate action, including biodiversity conservation and protection of native peoples' lands.
 
 Key Dynamics
 ------------
@@ -27,12 +27,12 @@ Key Dynamics
 Potential Co-Benefits of Decreasing Deforestation
 ----------------------------------------------------
 •	Forests protect biodiversity and provide ecosystem services and food sources.
-•	Forest preservation reduces erosion which leads to water contamination.
-•	Forests provide livelihoods for people (e.g., small-scale resource gathering and sustainable forestry) that can be lost when land shifts to other uses. 
+•	Forest preservation reduces erosion and prevents soil loss.
+•	Forests provide livelihoods for people (e.g., small-scale resource gathering and sustainable forestry) that can be lost when land is shifted to other uses. 
 
 Equity Considerations 
 ---------------------
-•	Forest preservation efforts have restricted the access of indigenous people who have lived sustainably on the land for generations. Policies should be created with local stakeholder engagement. [#deforestationfn1]_ [#deforestationfn2]_
+•	Forest preservation efforts have sometimes restricted the land access of indigenous people who have lived sustainably on the land for generations. Policies should be created with local stakeholder engagement. [#deforestationfn1]_ [#deforestationfn2]_
 
 Slider Settings
 ---------------
@@ -40,14 +40,14 @@ Slider Settings
 ================================================ ============== ================== ============== ===========
 \                                                highly reduced moderately reduced **status quo** increased 
 ================================================ ============== ================== ============== ===========
-Percent per year reduction or increase           -10% to       -4% to -1%         **-1% to 0%** 0% to +1%
+Percent per year reduction or increase           -10% to        -4% to -1%         **-1% to 0%**  0% to +1%
                                                  -4%                                                                 
 ================================================ ============== ================== ============== ===========
 
 Model Structure
 -----------------
 
-Emissions from deforestation stay level in the business as usual scenario.
+Emissions from deforestation stay level in the Business as Usual scenario.
 
 .. rubric:: Footnotes
 

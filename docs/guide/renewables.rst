@@ -1,7 +1,7 @@
 |imgRenewablesIcon| Renewables
 ===============================
 
-**Encourage or discourage building solar panels, geothermal, and wind turbines.** Renewable energy includes wind, solar, geothermal, hydropower, and other technologies that produce energy with little to no carbon dioxide emissions. Note that nuclear and bioenergy are considered separately.
+**Encourage or discourage building solar panels, geothermal systems, and wind turbines.** Renewable energy includes wind, solar, geothermal, hydropower, and other technologies that produce energy with little to no carbon dioxide emissions. Note that nuclear and bioenergy are considered separately.
 
 Examples
 --------
@@ -17,16 +17,16 @@ Examples
 Big Message
 -----------
 
-* Subsidizing renewable energy is a helpful way to keep coal and gas in the ground and reduce future temperature. However, it isn’t a silver bullet.
+* Subsidizing renewable energy is a helpful way to keep coal and gas in the ground and reduce future temperature. However, it isn’t a silver bullet; that is, it isn't sufficient without other actions. 
 
 Key Dynamics 
 -------------
 
-* **Impact**. As you encourage renewables, watch coal (brown line) and natural gas (blue line) both shift down in the “Sources of Primary Energy” graph. This shows the benefit of renewables for the climate – keeping coal, oil, and gas in the ground.
+* **Impact**. As you encourage renewables, watch Coal (brown line) and Natural Gas (blue line) both shift down in the “Global Sources of Primary Energy” graph. This shows the benefit of renewables for the climate – keeping coal, oil, and gas in the ground.
 
 * **Rebound effect.** Subsidies to renewables decrease energy costs, which increases energy demand over what it would have been otherwise (people use more energy when it is cheap). This rebound effect somewhat reduces the positive impact of encouraging renewable energy. View this dynamic with the graph “Final Energy Consumption\ *.”*
 
-* **Delays.** It takes time for the subsidies and encouragement of renewables to show up in installed capacity. Subsidies are phased in over 10 years so note in the “Renewable Final Energy Consumption” graph that the Current Scenario does not immediately differ from Business as Usual.
+* **Delays.** It takes time for the subsidies and encouragement of renewables to show up in installed capacity. Subsidies are phased in over 10 years so note in the “Renewable Final Energy Consumption” graph that the Current Scenario does not immediately differ from Business as usual.
 
 Potential Co-Benefits of Encouraging Renewables
 -------------------------------------------------
@@ -35,7 +35,7 @@ Potential Co-Benefits of Encouraging Renewables
 - Renewable energy offers opportunities for high- and low-skilled employment.
 
 Equity Considerations
--------------------------------------
+-------------------------------
 - Although the price of renewable energy infrastructure continues to fall, many low-income communities remain unable to access the technology in both developed and developing countries. Working to ensure an equitable energy transition can help everyone to reap the benefits. [#renewablesfn1]_ 
 - Policies in many developed countries limit solar and wind subsidy programs to homeowners, who often occupy higher income brackets.
 
@@ -45,7 +45,7 @@ Slider Settings
 ======================================= ================ ================ ============ =================
 \                                       taxed            status quo       subsidized   highly subsidized
 ======================================= ================ ================ ============ =================
-Change in price per kilowatt hour (kWh) +$0.05 to +$0.01 **+$0.01 to      -$0.01 to    +$0.05 to
+Change in price per kilowatt hour (kWh) +$0.05 to +$0.01 **+$0.01 to      -$0.01 to    -$0.05 to
                                                          -$0.01**         -$0.05       -$0.10
 Cost increase or decrease               +30% to +10%     **+10% to -10%** -10% to -30% -30% to -60%
 ======================================= ================ ================ ============ =================
@@ -74,11 +74,11 @@ FAQs
 **How can I get renewables to grow faster?** 
 
 * Discourage coal and oil by taxing them individually or setting a carbon price.
-* Adjust the R&D breakthrough cost reduction for renewables to simulate a sudden breakthrough that would dramatically lower the cost of renewable energy.
+* Adjust the "Renewables R&D breakthrough cost reduction" slider to simulate a sudden breakthrough that would dramatically lower the cost of renewable energy.
 
 **How do you handle the availability and cost of storage of electricity from renewables?** 
 
-* The cost of storage of wind and solar energy is explicitly modeled in En-ROADS, depressing growth in the long term.
+* The cost of storage for renewables is explicitly modeled in En-ROADS, and as renewables become a significant part of energy supply, storage must be cost effective to enable further expansion.
 
 .. rubric:: Footnotes
 

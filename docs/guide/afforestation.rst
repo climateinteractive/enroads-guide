@@ -13,14 +13,14 @@ Examples
 Big Message
 -----------
 
-* Afforestation has the potential to pull significant amounts of carbon dioxide out of the atmosphere, but land availability and other effects should be considered.
+* Afforestation has the potential to pull significant amounts of carbon dioxide out of the atmosphere, but land availability and other effects should be considered. It would take an immense amount of land to make a large impact on temperature change. 
 
 Key Dynamics
 ------------
 
-* Growing more trees boosts global removal of CO\ :sub:`2` from the atmosphere. Photosynthesis pulls carbon into biomass and soils. Watch the temperature decrease modestly as a result.
+* Growing more trees boosts global removal of CO\ :sub:`2` from the atmosphere, as photosynthesis pulls carbon into biomass and soils. Watch the temperature decrease modestly as a result.
 
-* Explore the graph “Land for Carbon Dioxide Removal". The land mass of India is 300 million hectares, so if we were to forest an area of that size we would still not see much change in temperature.
+* Explore the graph “Land for Carbon Dioxide Removal." The land area of India is 300 million hectares, so if we were to forest an area of that size we would still not see much change in temperature.
 
 Potential Co-Benefits of Increasing Afforestation
 -----------------------------------------------------
@@ -30,8 +30,8 @@ Potential Co-Benefits of Increasing Afforestation
 
 Equity Considerations 
 ----------------------
-•	Afforestation entails shifting large areas of land into forests. This can sometimes result in monocultures of trees that are all the same ages, which is not as helpful to biodiversity or providing people sustainable livelihoods as natural forests.
-•	Large shifts in land can compromise historic land access, so involving low-income and minority communities, including Indigenous peoples, in the process of funding, design, implementation, and job training is essential.
+•	Afforestation entails shifting large areas of land into forests. This can sometimes result in monocultures of trees that are all the same age, which does not contribute to healthy biodiversity as much as natural forests.
+•	Large shifts in land can compromise historic land access, so involving low-income and minority communities, including Indigenous peoples, in the process of policy development and implementation is essential.
 
 Slider Settings
 ---------------

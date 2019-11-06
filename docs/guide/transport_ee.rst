@@ -6,7 +6,7 @@
 Examples
 --------
 
-* Individuals changing their personal behavior to increase walking, biking, using public transit, carpooling, living in higher density neighborhoods, purchasing more efficient vehicles, reducing flying, telecommuting, or buying local.
+* Individuals changing their personal behavior to increase walking, biking, using public transit, carpooling, living in higher density neighborhoods, purchasing more efficient vehicles, reducing flying, or telecommuting.
 
 * Public or corporate policies such as increasing parking prices, investing in public transit, offering tax breaks for efficient vehicles, rewarding carpooling, building bike lanes, creating high density pedestrian friendly urban areas, or performance standards that mandate specific fuel efficiency.
 
@@ -15,20 +15,20 @@ Examples
 Key Dynamics
 ------------
 
-* Watch oil (red line) bend down in the “Global Sources of Primary Energy” graph as the world increases the efficiency of its transport. Less oil is burned, so emissions are lower and temperature is lower. Coal and gas fall as well, as electrified transport becomes more efficient. 
-* View also the “Final Energy Consumption” graph to see less energy demand. 
+* Watch Oil (red line) bend down in the “Global Sources of Primary Energy” graph as the world increases the efficiency of its transport. Less oil is burned, and coal and gas fall as well as electrified transport becomes more efficient. 
+* View the “Final Energy Consumption” graph to see the fall in energy demand. 
 * To see another benefit, look at the “Cost of Energy” graph. Less demand for energy means prices are lower. 
 
 Potential Co-Benefits of Encouraging Energy Efficiency
 --------------------------------------------------------
-- Improved air quality increases healthcare savings and worker productivity.
+- Improved air quality as a result of less burning of fossil fuels increases healthcare savings and worker productivity.
 - Better fuel efficiency means energy costs are lower.
 - Mass transit, like buses and trains, can reduce traffic congestion and noise.
 - Improved biking and walking infrastructure increases physical activity and safety, which results in sizeable health savings. 
 
 Equity Considerations 
 ----------------------
-- In some developed countries, such as the United States, pedestrian and cycle-friendly infrastructure has often been concentrated in wealthy communities, leaving out low-income families and people of color. [#transeefn1]_ 
+- In some developed countries, such as the United States, pedestrian and cycle-friendly infrastructure has been concentrated in wealthy communities, leaving out low-income families and people of color. [#transeefn1]_ 
 - When mass transit options improve or operating costs decrease with fuel efficient vehicle use, social equality may improve, as low-income individuals have more transportation options to meet their needs.
 
 Slider Settings
@@ -45,7 +45,7 @@ Annual rate -1% to 0%   **0% to +1%**  +1% to +3% +3% to +5%
 Model Structure 
 ----------------
 
-Increasing the rate of improvement in energy use for new vehicles and other infrastructure helps drive reductions in greenhouse gas emissions across the transport sector. There is some delay in how fast this accelerates because energy use is driven by the overall average of all capital (not just the new things). The model structure tracks overall efficiency, which includes retrofitting of existing capital.
+Increasing the improvement rate in energy use for new vehicles and other infrastructure helps drive reductions in greenhouse gas emissions across the transport sector. There is some delay in how fast this accelerates because energy use is driven by the overall average of all capital (not just the new things). The model structure tracks overall efficiency, which includes retrofitting of existing capital.
 
 .. rubric:: Footnotes
 
