@@ -15,7 +15,7 @@ Examples
 Big Message
 -----------
 
-* Taxing oil modestly has a minor impact on temperature, but taxing it highly delivers a significant impact. It’s not a silver bullet, but can be an important part of a suite of actions
+* Taxing oil modestly has a minor impact on temperature, but taxing it highly delivers a significant impact. It’s not a silver bullet, but can be an important part of a suite of actions.
 
 Key Dynamics
 ------------
@@ -26,7 +26,7 @@ Key Dynamics
 
 * The net result of taxing oil is no change in overall greenhouse gas emissions and no reduction in future temperature. 
 
-* Notice that taxing oil leads to increased electrification of the vehicle fleet. See the "Electric Share of Final Energy-Transport" graph. 
+* Notice that taxing oil results in an increase in electrification of the vehicle fleet as electric powered modes of transport become more affordable in the face of higher oil prices. See this demonstrated in the "Electric Share of Final Energy-Transport" graph. 
 
 Potential Co-Benefits of Discouraging Oil 
 ------------------------------------------
@@ -37,10 +37,12 @@ Equity Considerations
 ---------------------------
 - The oil industry provides many high-paying jobs for people with technical trade backgrounds. Providing pathways for these people to find new jobs will be essential. 
 - Oil companies wield enormous economic and political power locally and globally. In order to discourage oil, certain industry protections must be eliminated. 
-- There is a history of refineries being located in marginalized communities and working to avoid or limit environmental regulations.  
+- There is a history of oil refineries being located in marginalized communities and companies working to avoid or limit environmental regulations.  
 
 Slider Settings
 ---------------
+
+The following table highlights the numerical ranges for the labelled input levels of the Oil slider. Each of the energy supply sliders is set to reflect a similar percentage cost increase or decrease for each input level. 
 
 ================================================== ================= ============ ============= ========== ==========
 \                                                  very highly taxed highly taxed taxed         status quo subsidized

@@ -8,12 +8,12 @@ Examples
 
 * Government incentives and/or targets to convert land into growing biofuel feedstocks and drive bioenergy development.
 
-* Research, development, and investment into new technologies that can produce new forms of biofuels and vehicles and industry that can use/support these biofuels.
+* Research, development, and investment into new technologies that can produce new forms of biofuels, and vehicles and industry that can use or support these biofuels.
 
 Big Message
 -----------
 
-* Bioenergy is not a high leverage response to climate change – while using a renewable resource, it still emits large amounts of carbon dioxide and faces supply constraints with scale up. 
+* Bioenergy is not a high leverage response to climate change – while it uses a renewable resource, it still emits large amounts of carbon dioxide and faces supply constraints with scale up. 
 
 Key Dynamics
 ------------
@@ -24,18 +24,20 @@ Key Dynamics
 
 Potential Co-Benefits of Discouraging Bioenergy
 -------------------------------------------------
-- Crops and arable land are freed for other uses, such as food production. 
-- Producing biofuels can be water intensive and lead to contaminated runoff; reducing biofuel production can improve water quality and protect biodiversity.  
+- Crops and arable land are freed for other uses, such as food production when bioenergy is discouraged. 
+- Leaving sources of biomass, like forests, intact enables biodiversity to be preserved.  
 - A reduction in biomass burning can improve indoor and outdoor air quality from reduced soot and particulates.
+- Bioenergy can accelerate deforestation through dependence on wood for fuels or through the expansion of bioenergy crops, particularly in the tropics. Less deforestation has many benefits including additional carbon sequestration.  
 
 Equity Considerations
 -------------------------
-- Bioenergy can accelerate deforestation through dependence on wood for fuels or through the expansion of bioenergy crops, particularly in the tropics.
 - Land used for bioenergy crops can reduce land availability for food production and compromise food security.
 - Farmer livelihoods can be severely impacted by shifting agriculture markets, so steps  should be taken to help workers and farmers transition to shifting crop demands. 
 
 Slider Settings
 ---------------
+
+The following table highlights the numerical ranges for the labelled input levels of the Coal slider. Each of the energy supply sliders is set to reflect a similar percentage cost increase or decrease for each input level. 
 
 ================================================== ================== ================= ============ ========== ==================
 \                                                  highly taxed       taxed             status quo   subsidized highly subsidized
@@ -49,7 +51,8 @@ Cost increase or decrease                          +60% to +30%       +30% to +1
 Model Structure
 ---------------
 
-This sector tracks several stages of bioenergy installations, or energy supply capacity: capacity under development, under construction, and actually producing energy, including delays between each stage.
+- This sector tracks several stages of bioenergy installations, or energy supply capacity including: capacity under development, under construction, and actually producing energy, as well as the delays between each stage.
+- Future modeling in this sector will add more refinement to the ways the bioenergy supply is characterized and include stronger links to the amount of available land. 
 
 
 .. SUBSTITUTIONS SECTION

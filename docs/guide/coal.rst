@@ -37,7 +37,7 @@ Equity Considerations
 Slider Settings
 ---------------
 
-The following table highlights the numerical ranges for the qualitative input levels of the main coal slider. Each of the energy supply sliders is set to reflect a similar percentage cost increase or decrease for each input level. 
+The following table highlights the numerical ranges for the labelled input levels of the Coal slider. Each of the energy supply sliders is set to reflect a similar percentage cost increase or decrease for each input level. 
 
 ================================================ ================= ============ ============ =============== ==========
 \                                                very highly taxed highly taxed taxed        **status quo**  subsidized

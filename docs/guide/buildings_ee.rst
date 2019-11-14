@@ -49,8 +49,7 @@ Annual rate -1% to 0%   **0% to +1.5%** +1.5% to +3% +3% to +5%
 Model Structure
 ---------------
 
-Increasing the rate of improvement in energy use for buildings and industry lowers emissions gradually, because energy use is driven by the overall average of all infrastructure in this area, which is delayed from this intervention due to its relatively long lifetime.  
-
+Increasing the rate of improvement in energy use for buildings and industry lowers emissions gradually, because energy use is driven by the overall average of all infrastructure in this area, which is delayed from this intervention because improvement only come to new things and many buildings and industrial facilities last decades. 
 
 .. SUBSTITUTIONS SECTION
 

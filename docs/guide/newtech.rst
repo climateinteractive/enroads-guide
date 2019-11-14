@@ -13,7 +13,7 @@ Examples
 Big Message
 -----------
 
-* The potential contribution of a new energy supply technology is severely hampered by the long amount of time it would take to displace fossil fuel usage, and actually reduce GHG emissions and temperature, as well as the “rebound effect” in which inexpensive energy increases energy demand. 
+* The potential contribution of a new energy supply technology is severely hampered by the long amount of time it takes new technologies to scale up. Even under optimal conditions, it would take decades to displace fossil fuels, and actually reduce greenhouse gas emissions.
 
 Key Dynamics
 ------------

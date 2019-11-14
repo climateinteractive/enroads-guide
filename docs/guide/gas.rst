@@ -13,28 +13,30 @@ Examples
 Big Message
 -----------
 
-* More natural gas is not an effective long-term strategy for the climate – it is less carbon intensive than coal, but its infrastructure has a long life so it competes with the adoption of lower-carbon alternatives.
+* More natural gas is not an effective long-term strategy for the climate – it is less carbon intensive than coal, but its infrastructure has a long life so it competes with the adoption of lower-carbon alternatives as they scale up.
 
 Key Dynamics
 ------------
 
-* If gas is subsidized, very coal and oil decrease slightly and natural gas goes up. Overall, there is no net benefit to emissions.
+* If gas is subsidized, high-carbon coal and oil decrease slightly and natural gas goes up. Overall, there is no net benefit to emissions.
 
-* If gas is taxed, the opposite of the above is true; natural gas goes down, but very high-carbon coil and oil increase, with no net benefit on emissions or temperature change. We call this the “squeeze the balloon” problem – depressing fossil fuel emissions in one area causes them to pop up in another. Adding a carbon price is a good solution to the “squeeze the balloon” problem, as it addresses all fossil fuels together. 
+* If gas is taxed, in absence of other policies, the opposite of the above is true; natural gas goes down, but very high-carbon coil and oil increase, with no net benefit on emissions or temperature change. We call this the “squeeze the balloon” problem – depressing fossil fuel emissions in one area causes them to pop up in another. Adding a carbon price is a good solution to the “squeeze the balloon” problem, as it addresses all fossil fuels together. 
 
 Potential Co-Benefits of Discouraging Natural Gas
 ---------------------------------------------------
 - Gas drilling is water intensive, so limiting extraction can improve water security and quality at the source of production and protect wildlife habitats, biodiversity, and ecosystem services. [#gasfn1]_ [#gasfn2]_
-- There are concerns about the health and environmental impacts of the gas drilling approach known as fracking that have led many places to ban it. [#gasfn3]_ [#gasfn4]_ [#gasfn5]_
+- There are concerns about the health and environmental impacts of the gas drilling approach, known as fracking, that have led many places to ban it. [#gasfn3]_, [#gasfn4]_, [#gasfn5]_
 
 Equity Considerations
 -----------------------------------
-- Generally speaking, natural gas production in developed countries is disproportionately located near low-income and minority communities. [#gasfn6]_ [#gasfn7]_  [#gasfn8]_
-- There have been cases where wealthy white communities have successfully resisted natural gas development and it has shifted to low-income communities predominantly inhabited by people of color. [#gasfn9]_ [#gasfn10]_
+- Generally speaking, natural gas production in developed countries is disproportionately located near low-income and minority communities. [#gasfn6]_, [#gasfn7]_,  [#gasfn8]_
+- There have been cases where wealthy white communities have successfully resisted natural gas development and it has shifted to low-income communities predominantly inhabited by people of color. Low income communities often have less ability to influence development. [#gasfn9]_ [#gasfn10]_
 - Limited data on the placements of fracking and power plant sites in developing countries exists, yet macro-level research shows that low-income communities and communities of color disproportionately experience the negative impacts of natural gas drilling and burning. [#gasfn11]_ 
 
 Slider Settings
 ---------------
+
+The following table highlights the numerical ranges for the labelled input levels of the Coal slider. Each of the energy supply sliders is set to reflect a similar percentage cost increase or decrease for each input level. 
 
 ============================================= ================= ================ ================ =========== ==========
 \                                             very highly taxed highly taxed     taxed            status quo  subsidized
