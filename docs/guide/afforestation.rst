@@ -36,7 +36,7 @@ Equity Considerations
 Slider Settings
 ---------------
 
-The Afforestation slider changes the percentage of available land that is used to grow new forests. 100% would mean that all the available land for forests is used.
+The Afforestation slider changes the percentage of available land that is used to grow new forests. 100% would mean that 700 Mha of land are covered in forests. 700 Mha represents approximately 25% of current grassland area, nearly 10% of all land that is not currently forest, and just over the difference in forest area back in 1850 until now (i.e., there is 630 Mha less forest area today than in 1850).
 
 ========================================= ============== ============ ============= =============
 \                                         **status quo** low growth   medium growth high growth
@@ -49,8 +49,9 @@ Model Structure
 
 The carbon sequestration of forests changes over time as the forest matures. Notice that net carbon removals are different than total removals due to carbon loss in older or unhealthy forests.
 
-For higher removal, one can adjust the “Afforestation settings” within the Assumptions view. 
+**Maximum amount of available land:** With a growing time of 80 years for new forests and 2%/year in total forest carbon loss, 700 Mha achieves an annual removal consistent with the mid-point of estimates of afforestation potential from the 2018 ‘Greenhouse gas removal’ report by the Royal Society (range of 3-20 in CO2 GtonsCO2/year). 
 
+For higher removals, one can adjust the “Afforestation settings” within the Assumptions view. For example, to explore the assumptions of the 2019 paper by Bastin et al., increase the slider "Max available land for afforestation" to 900mha under Assumptions.
 
 .. SUBSTITUTIONS SECTION
 
