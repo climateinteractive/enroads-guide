@@ -15,7 +15,7 @@ Examples
 Big Messages
 ------------
 
-* Efforts to reduce deforestation are relatively low leverage for the climate, but are one part of a multi-pronged effort.
+* Efforts to reduce deforestation are relatively low leverage for the climate, because the influence from energy CO\ :sub:`2` emissions is so dominant, but stopping deforestation is still part of a multi-pronged effort to address climate change.
 
 * Protecting forests is helpful for many reasons other than climate action, including biodiversity conservation and protection of native peoples' lands.
 
@@ -47,7 +47,7 @@ Percent per year reduction or increase           -10% to        -4% to -1%      
 Model Structure
 -----------------
 
-Emissions from deforestation stay level in the Business as Usual scenario.
+Emissions from deforestation stay level in the Business as Usual scenario to reflect trends that indicate deforestation continues to be insufficiently addressed worldwide. 
 
 .. rubric:: Footnotes
 

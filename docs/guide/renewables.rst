@@ -70,7 +70,7 @@ FAQs
 
 **Why doesn’t encouraging renewables with a big subsidy avoid much future warming alone?** 
 
-* Renewables only reduce CO2 emissions when they displace fossil fuels. In some cases renewable energy just meets new energy demand and doesn't replace the demand met by coal and gas. 
+* Renewables only reduce CO\ :sub:`2` emissions when they displace fossil fuels. In some cases renewable energy just meets new energy demand and doesn't replace the demand met by coal and gas. 
 * Second, there is a rebound effect – in order to grow, renewables are made less expensive. The drop in energy price boosts demand, undoing some of the positive effect.
 
 **How can I get renewables to grow faster?** 

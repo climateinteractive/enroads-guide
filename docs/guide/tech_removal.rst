@@ -50,7 +50,7 @@ The default settings for the maximum potential of technological carbon removal (
 FAQs
 -------
 
-**Why aren’t coal and gas carbon capture and storage (CCS) included here, and how can I increase them?** We think of coal and gas CCS as reducing CO2 emissions from coal and gas, not actually as removing CO2 from the atmosphere. Both can be changed in the Advanced View that supports the Coal and Natural Gas sliders.  
+**Why aren’t coal and gas carbon capture and storage (CCS) included here, and how can I increase them?** We think of coal and gas CCS as reducing CO\ :sub:`2` emissions from coal and gas, not actually as removing CO\ :sub:`2` from the atmosphere. Both can be changed in the Advanced View that supports the Coal and Natural Gas sliders.  
 
 .. SUBSTITUTIONS SECTION
 

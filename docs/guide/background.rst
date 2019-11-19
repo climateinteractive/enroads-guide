@@ -7,14 +7,14 @@ A  simple way to think about the structure of En-ROADS is by considering the dri
 
 The concentration of greenhouse gases is driven by four main factors:
 
-#.	**Energy CO2 emissions**, from burning coal, oil, gas, and biomass. This comprises  about 65% of greenhouse gas emissions.
-#.	**Land use CO2 emissions**, from burning forests to create agricultural land.
-#.	**CO2 removal**, which are approaches that pull carbon dioxide out of the atmosphere and store it in plants, soils, or underground leading to a decrease in CO2 concentrations.
+#.	**Energy CO\ :sub:`2` emissions**, from burning coal, oil, gas, and biomass. This comprises  about 65% of greenhouse gas emissions.
+#.	**Land use CO\ :sub:`2` emissions**, from burning forests to create agricultural land.
+#.	**CO\ :sub:`2` removal**, which are approaches that pull carbon dioxide out of the atmosphere and store it in plants, soils, or underground leading to a decrease in CO\ :sub:`2` concentrations.
 #.	**Other greenhouse gas emissions** -- methane, N20, and f-gases. 
 
 .. image:: ../images/background_images/causalstructure2.png
 
-Going further, the Energy CO2 emissions are driven by four factors, which is known as the “Kaya Identity”. Population, consumption (GDP/capita),  energy intensity (energy use per dollar of GDP), and carbon intensity (CO2 emissions per unit of energy) are all multiplied together and the result is  overall energy CO2 emissions. In this way, at a high level, reducing CO2 emissions is about four things: fewer people, less consumption, more efficiency, and less high-carbon energy supplies.
+Going further, the Energy CO\ :sub:`2` emissions are driven by four factors, which is known as the “Kaya Identity”. Population, consumption (GDP/capita),  energy intensity (energy use per dollar of GDP), and carbon intensity (CO\ :sub:`2` emissions per unit of energy) are all multiplied together and the result is  overall energy CO\ :sub:`2` emissions. In this way, at a high level, reducing CO\ :sub:`2` emissions is about four things: fewer people, less consumption, more efficiency, and less high-carbon energy supplies.
 
 .. image:: ../images/background_images/causalstructure3.png
 
@@ -126,7 +126,7 @@ Perhaps the biggest challenge to limiting future warming in this simulation is t
 
 -  “We’ve done a lot in energy efficiency and clean energy – why haven’t we solved the climate crisis?”
 
-**To illustrate this point:** See the ‘Kaya Graphs’ View. Even though Energy Intensity of GDP improves a lot (the blue line falls faster) and the C intensity of Primary Energy decreases as well, CO2 Emissions from Energy continues to grow until 2060 and then, only then, falls. The reasons are on the left side of the view – steadily growing Global Population and GDP per Capita.
+**To illustrate this point:** See the ‘Kaya Graphs’ View. Even though Energy Intensity of GDP improves a lot (the blue line falls faster) and the C intensity of Primary Energy decreases as well, CO\ :sub:`2` Emissions from Energy continues to grow until 2060 and then, only then, falls. The reasons are on the left side of the view – steadily growing Global Population and GDP per Capita.
 
 |image28|
 
@@ -152,11 +152,11 @@ Emissions must fall significantly just to change the growth in temperature and C
 
 -  “Emissions are stabilized, so why is temperature or CO\ :sub:`2` concentration still going up?”
 
- **To illustrate this point:** See the ‘CO\ :sub:`2` Emissions and Removals’ graph in and explore the Bathtub dynamics, below. Even though CO2 emissions (in red below) have flattened, CO2 concentrations (in blue on the right below) continue to increase.
+ **To illustrate this point:** See the ‘CO\ :sub:`2` Emissions and Removals’ graph in and explore the Bathtub dynamics, below. Even though CO\ :sub:`2` emissions (in red below) have flattened, CO\ :sub:`2` concentrations (in blue on the right below) continue to increase.
 
 |image30|
 
-And similarly, below, in a different (and much more stringent) scenario, even though CO2 concentration levels, temperature change increases.
+And similarly, below, in a different (and much more stringent) scenario, even though CO\ :sub:`2` concentration levels, temperature change increases.
 
 |image31|
 

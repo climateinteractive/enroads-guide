@@ -42,7 +42,7 @@ Equity Considerations
 Slider Settings
 ---------------
 
-The variable being changed is the percent reduction or increase of total maximum action. The model limits how much these emissions can be reduced, since some are considered unavoidable, particularly those from agriculture, landfills, and wastewater.
+The variable being changed is the percent reduction or increase of total maximum action. The model limits how much these emissions can be reduced--so 100% max reduction is not a 100% total emissions reduction--since some are considered unavoidable, particularly those from agriculture, landfills, and wastewater.
 
 =============================================== ============== ================== ============== ============
 \                                               highly reduced moderately reduced **status quo** increased
@@ -54,7 +54,7 @@ Percent reduction or increase of maximum action -100% to       -50% to -2%      
 Model Structure
 ---------------
 
-
+Each greenhouse gas is modeled separately within En-ROADS, which enables the impact of each gas on global temperature to be handled without using global warming potential (GWP) and CO\ :sub:`2` equivalency conversions. Greenhouse gases other than CO\ :sub:`2` that are reflected in graphs with the units CO\ :sub:`2`e do use GWP100 to enable comparison and reporting of all greenhouse gases together. This means that the short-lived, but high impact, nature of greenhouse gases like methane is captured.   
 
 .. SUBSTITUTIONS SECTION
 

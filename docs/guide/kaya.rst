@@ -5,7 +5,7 @@ This view shows the drivers of growth in carbon dioxide emissions, which reflect
 
 It is called the “Kaya” view because of the equation below, created by Yoichi Kaya:
 
-Global Population x GDP per Capita x Energy Intensity of GDP x Carbon Intensity of Energy = CO2 Emissions from Energy
+Global Population x GDP per Capita x Energy Intensity of GDP x Carbon Intensity of Energy = CO\ :sub:`2` Emissions from Energy
 
 Here is one way to understand its trends over time:
 

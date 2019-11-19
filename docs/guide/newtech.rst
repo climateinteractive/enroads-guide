@@ -8,7 +8,7 @@ Examples
 
 * Research and development, or other investment into new sources of energy supply such as thorium fission or nuclear fusion. 
 
-* Note, this does not include new technologies in CO2 removal, transportation, electrification, or energy efficiency.
+* Note, this does not include new technologies in CO\ :sub:`2` removal, transportation, electrification, or energy efficiency.
 
 Big Message
 -----------
