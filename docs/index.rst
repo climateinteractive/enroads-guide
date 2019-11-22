@@ -28,8 +28,9 @@ Table of Contents
    :caption: Contents:
 
    guide/about
-   guide/background
+   guide/structure
    guide/kaya
+   guide/background
    guide/general_faqs
    guide/coal
    guide/oil

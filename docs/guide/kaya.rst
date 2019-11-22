@@ -1,7 +1,7 @@
 Kaya Graphs 
 ===============================
 
-This view shows the drivers of growth in carbon dioxide emissions, which reflects about 2/3 of all greenhouse gas emissions. 
+This view shows the drivers of growth in carbon dioxide emissions, which reflects about two-thirds of all greenhouse gas emissions. 
 
 It is called the “Kaya” view because of the equation below, created by Yoichi Kaya:
 
@@ -13,9 +13,9 @@ Here is one way to understand its trends over time:
 
 **GDP per Capita** is growing steadily per year, and we assume it will continue, mostly as people in rapidly developing countries such as China, India, South Africa, Mexico, Brazil, and Indonesia attain higher standards of living. 
 
-**Energy Intensity of GDP** is decreasing over time, due to the world economy becoming more efficient, or using less energy per unit of economic output. Technologies are improving—for example, more efficient cars, buildings, and machines—and economies are shifting from manufacturing to services. The product of **global population**, **GDP per capita**, and the **energy intensity of GDP** is the total amount of energy used by the global economy. 
+**Energy Intensity of GDP** is decreasing over time, due to the world economy becoming more efficient, or using less energy per unit of economic output. Technologies are improving—for example, more efficient cars, buildings, and machines—and economies are shifting from manufacturing to services. The product of global population, GDP per capita, and the energy intensity of GDP is the total amount of energy used by the global economy. 
 
-**Carbon Intensity of Primary Energy**, the amount of carbon dioxide emitted from energy use, is expected to be stable as both low-carbon renewable and fossil fuel energy use grow at about the same rates. **Carbon intensity** would trend downward if we shifted away from fossil fuels and towards low-carbon energy sources.
+**Carbon Intensity of Primary Energy**, the amount of carbon dioxide emitted from energy use, is expected to stabilize as both low-carbon renewable and fossil fuel energy use grow at about the same rates. Carbon intensity trends downward as we shift away from fossil fuels and towards low-carbon energy sources.
 
 **Carbon Dioxide Emissions from Energy** is the result of all four factors multiplied together, and you can see that in the business as usual scenario emissions are growing. As the level of carbon dioxide in the atmosphere correlates with temperature, an increased concentration of carbon dioxide in the atmosphere leads to an increase in global temperatures. 
 
