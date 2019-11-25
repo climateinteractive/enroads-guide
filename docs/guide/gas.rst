@@ -41,9 +41,9 @@ The following table highlights the numerical ranges for the labelled input level
 ============================================= ================= ================ ================ =========== ==========
 \                                             very highly taxed highly taxed     taxed            status quo  subsidized
 ============================================= ================= ================ ================ =========== ==========
-Change in price per thousand cubic feet (Mcf) +$6.00 to +$4.00  +$4.00 to +$2.00 +$2.00 to +$0.60 **+$0.60 to -$0.60 to
-                                                                                                  -$0.60**    -$2.00
-Cost increase or decrease                     +100% to +60%     +60% to +30%     +30% to +10%     **+10% to   -10% to
+Change in price per thousand cubic feet (Mcf) +$6.00 to +$3.00  +$3.00 to +$2.00 +$2.00 to +$0.30 **+$0.30 to -$0.30 to
+                                                                                                  -$0.30**    -$1.00
+Cost increase or decrease                     +200% to +100%     +100% to +60%   +60% to +10%     **+10% to   -10% to
                                                                                                   -10%**      -30%
 ============================================= ================= ================ ================ =========== ==========
 

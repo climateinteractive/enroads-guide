@@ -39,14 +39,14 @@ Slider Settings
 
 The following table highlights the numerical ranges for the labelled input levels of the Coal slider. Each of the energy supply sliders is set to reflect a similar percentage cost increase or decrease for each input level. 
 
-================================================ ================= ============ ============ =============== ==========
-\                                                very highly taxed highly taxed taxed        **status quo**  subsidized
-================================================ ================= ============ ============ =============== ==========
-Change in price per ton of coal equivalent (tce) +$100 to +$60     +$60 to +$30 +$30 to +$10 **+$10 to       -$10 to
-                                                                                             -$10**          -$30
-Cost increase or decrease                        +100% to +60%     +60% to +30% +30% to +10% **+10% to       -10% to
-                                                                                             -10%**          -30%
-================================================ ================= ============ ============ =============== ==========
+================================================ ================= ============= ============ =============== ==========
+\                                                very highly taxed highly taxed  taxed        **status quo**  subsidized
+================================================ ================= ============= ============ =============== ==========
+Change in price per ton of coal equivalent (tce) +$120 to +$60     +$60 to +$40  +$40 to +$6  **+$6 to        -$6 to
+                                                                                              -$6**           -$20
+Cost increase or decrease                        +200% to +100%    +100% to +60% +60% to +10% **+10% to       -10% to
+                                                                                              -10%**          -30%
+================================================ ================= ============= ============ =============== ==========
 
 Model Structure
 ---------------
