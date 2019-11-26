@@ -9,6 +9,8 @@ Delays and capital stock turnover
 New energy sources (e.g., renewables and new technology) take decades (not years) to scale up to sufficiently compete with coal, oil, and gas. There are two main sources of these delays. New supply capacity doesn’t show up until old, long-lived capacity is retired (e.g., coal-fired power plants and oil refineries, which can survive for ~30 years). Only 6% of the total stock gets added every year. New zero Carbon energy may secure 20-50% of that market share, but even then, it adds only 1-3% to the total stock. The climate is only helped when coal, oil, and gas is retired away, and in the absence of other interventions, that amount is relatively small – approximately 3% per year.
 
 .. image:: ../images/background_images/slowcapitalstockturnover.png
+    :scale: 40
+    :align: center
 
 
 **This addresses questions such as:**
@@ -89,9 +91,19 @@ Many assume that if the world promoted several long term zero-carbon energy supp
 
 -  “Why didn’t it help to add nuclear to this renewable-dominant scenario?”
 
-**To illustrate this point:** See the ‘Sources of Primary Energy’ graph with and without subsidies to renewables or new technology. In the first graph, we subsidize a new technology alone; in the second, renewables alone; in the third graph, we subsidize both and they split market share. But all three scenarios achieve the same temperature change. Thus, the supplies compete and don’t supplement each other.
+**To illustrate this point:** See the "Global Sources of Primary Energy" graph in the three scenarios below. In the first graph, we subsidize a new technology alone; in the second, renewables alone are subsidized; in the third graph, we subsidize both. 
 
-|image27|
+In the following scenario, a renewables subsidy leads to a 0.3 degrees Celsius reduction in temperature: 
+
+.. image:: ../images/media/image54.png
+
+A huge breakthrough in New Technology also leads to the same 0.3 degree Celsius reduction on its own: 
+
+.. image:: ../images/media/image52.png
+
+When combined, instead of seeing an additive 0.6 degree Celsius reduction, we only see a 0.4 degree reduction in temperature due to the energy supplies competing with each other for market share: 
+
+.. image:: ../images/media/image53.png
 
 Population and GDP/capita growth drive emissions
 ------------------------------------------------
@@ -102,7 +114,7 @@ A challenge to limiting future warming in this simulation is the powerful growth
 
 -  “We’ve done a lot in energy efficiency and clean energy – why haven’t emissions reduced substantially enough?”
 
-**To illustrate this point:** See the ‘Kaya Graphs’ View. Even though Energy Intensity of GDP improves a lot (the blue line falls faster) and the C intensity of Primary Energy decreases as well, CO\ :sub:`2` Emissions from Energy continues to grow until 2060 and then, only then, falls. The reasons are on the left side of the view – steadily growing Global Population and GDP per Capita.
+**To illustrate this point:** See the Kaya Graphs view below for a low emissions scenario with increased energy efficiency and a transition to low carbon energy sources. Even though Energy Intensity of GDP improves and the C intensity of Primary Energy decreases as well, CO\ :sub:`2` Emissions from Energy doesn't see as dramatic a drop as expected due to the continued growth in Global Population and GDP per Capita.
 
 |image28|
 
@@ -128,13 +140,15 @@ Emissions must fall significantly just to change the growth in temperature and C
 
 -  “Emissions are stabilized, so why is temperature or CO\ :sub:`2` concentration still going up?”
 
- **To illustrate this point:** See the ‘CO\ :sub:`2` Emissions and Removals’ graph in and explore the Bathtub dynamics, below. Even though CO\ :sub:`2` emissions (in red below) have flattened, CO\ :sub:`2` concentrations (in blue on the right below) continue to increase.
+**To illustrate this point:** See the ‘CO\ :sub:`2` Emissions and Removals’ and 'CO\ :sub:`2` Concentration' graphs in a scenario where CO\ :sub:`2` emissions stabilize. Even though CO\ :sub:`2` emissions (in red below) have flattened, CO\ :sub:`2` concentrations (in blue on the right below) continue to increase.
 
 |image30|
 
-And similarly, below, in a different (and much more stringent) scenario, even though CO\ :sub:`2` concentration levels, temperature change increases.
+Similarly, in a much more stringent scenario where CO\ :sub:`2` concentration stabilizes, temperature change continues to increase.
 
 |image31|
+
+To understand more about stocks, flows, and the bathtub framing below, watch `our video <https://www.youtube.com/watch?v=nRlYGDBGcRA>`_ as part of our `Climate Leader <https://staging.climateinteractive.org/programs/the-climate-leader/>`_ learning series. 
 
 .. image:: ../images/background_images/bathtub.png
    :scale: 75
@@ -201,38 +215,30 @@ And similarly, below, in a different (and much more stringent) scenario, even th
 .. |image19| image:: ../images/media/image39.jpg
    :scale: 40
 .. |image20| image:: ../images/media/image40.png
-   :width: 6.5in
-   :height: 2.31389in
+   :scale: 30
 .. |image21| image:: ../images/media/image42.jpg
    :scale: 75
 .. |image22| image:: ../images/media/image43.png
-   :width: 6.5in
-   :height: 2.32083in
+   :scale: 30
 .. |image23| image:: ../images/media/image45.png
-   :width: 6.5in
-   :height: 3.43472in
+   :scale: 30
 .. |image24| image:: ../images/media/image47.png
    :width: 2.91727in
    :height: 2.44307in
 .. |image25| image:: ../images/media/image49.png
-   :width: 4.34585in
-   :height: 2.16549in
+   :scale: 30
 .. |image26| image:: ../images/media/image50.png
-   :width: 4.01181in
-   :height: 2.75139in
+   :scale: 30
 .. |image27| image:: ../images/media/image52.png
 .. |image28| image:: ../images/media/image58.png
    :width: 7.32153in
    :height: 2.28681in
 .. |image29| image:: ../images/media/image59.png
-   :width: 3.68681in
-   :height: 2.43611in
+   :scale: 30
 .. |image30| image:: ../images/media/image60.png
-   :width: 6.5in
-   :height: 2.15556in
+   :scale: 30
 .. |image31| image:: ../images/media/image61.png
-   :width: 6.79635in
-   :height: 2.29885in
+   :scale: 30
 .. |image32| image:: ../images/media/image62.jpg
    :width: 3.63125in
    :height: 2.72361in

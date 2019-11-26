@@ -15,7 +15,7 @@ Examples
 Big Message
 -----------
 
-* Taxing oil modestly has a minor impact on temperature, but taxing it highly delivers a significant impact. It’s not a silver bullet, but can be an important part of a suite of actions.
+* When a steep oil tax is the only action implemented, you will not see a dramatic change in temperature, as coal and natural gas demand increases in response, offsetting any large reduction of temperature.
 
 Key Dynamics
 ------------
