@@ -6,9 +6,9 @@
 Examples
 --------
 
-* Increase in public interest for replacing oil and gas heating furnaces in buildings with electric heating systems. In as a business as usual scenario, electricity primarily comes from coal and gas. 
+* Increase in public interest for replacing oil and gas heating furnaces in buildings with electric heating systems. 
 
-* Research and development into various electric motors and systems than could enable wind and solar to replace oil and gas fired industrial facilities.
+* Research and development into various electric motors and systems that could enable wind and solar to replace oil and gas fired industrial facilities.
 
 Big Message
 -----------
@@ -18,14 +18,13 @@ Big Message
 Key Dynamics
 ------------
 
-* When there is more efficient electrical systems power building and industry notice that natural gas (blue line) and coal (brown line) move down in the “Sources of Final Energy Consumption” graph.
+* When there is more efficient electrical systems powering building and industries, notice that Natural Gas (dark blue line) and Coal (brown line) move down in the “Global Sources of Primary Energy” graph.
 
 Potential Co-Benefits of Encouraging Electrification
 ------------------------------------------------------
 •	Improved air quality at the source increases healthcare savings and worker productivity.
 •	Eliminating demand for natural gas lines to buildings also eliminates the risks from fire and explosion. 
 •	Noise pollution from motor engines, generators, and furnaces is reduced.
-•	Electricity bills for households, businesses, and governments are lower.
 •	Air quality for individuals working/living in and around the structures is improved, which increases healthcare savings and worker productivity.
 
 Equity Considerations
@@ -47,13 +46,13 @@ Annual rate -3% to -1%  **-1% to +1%** +1% to +3%   +3% to +5%
 Model Structure
 ---------------
 
-Unlike the inputs for energy sources, which change the financial attractiveness to drive future behavior, this input directly forces growth of electrification up toward a maximum percentage.
+This input directly forces growth of electrification up toward a maximum percentage, unlike the inputs for energy sources, which change the financial attractiveness to drive future behavior.
 
 This input affects climate outcomes through two pathways:
 
 #. Changing energy demand. The efficiency for electrified energy use is greater than for the direct burning of coal, oil, and gas.
 
-#. Changing fuel mix. Increased electrification decreases use of oil and increases use of coal, natural gas, and renewables in electricity generation.
+#. Changing fuel mix. Increased electrification decreases use of oil but then increases use of coal, natural gas, and renewables in electricity generation.
 
 
 .. rubric:: Footnotes

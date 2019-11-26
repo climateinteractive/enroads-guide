@@ -33,19 +33,19 @@ Equity Considerations
 ----------------------
 •	Policies around population should be voluntary and empower women to make the choices that are best for them. 
 •	A higher percentage of women of color live in countries with severe gender inequities in access to education, full economic and political participation, and adequate family planning. Reducing population growth necessitates a large investment in that particular group. 
-•	There is a history of women of color in both high- and low-income countries being forcibly sterilized to prevent giving birth, this should not be encouraged. [#popgrowthfn1]_ [#popgrowthfn2]_ [#popgrowthfn3]_ [#popgrowthfn4]_
+•	There is a history of women of color in both high- and low-income countries being forcibly sterilized to prevent giving birth; this should never be encouraged. [#popgrowthfn1]_ [#popgrowthfn2]_ [#popgrowthfn3]_ [#popgrowthfn4]_
 
 Slider Settings
 ---------------
 
-We used the UN’s population scenarios to drive population in En-ROADS. This input is indexed, where 1 is the UN’s low growth scenario, 2 is medium, and 3 is high. The slider is limited to a range of 1.3-2.5 to reflect the 95% probability range of population deviating from the medium growth path.
+The UN’s population scenarios are the basis for the population trajectories in En-ROADS. This input is indexed across the UN's scenarios, where 1 is the UN’s low growth scenario, 2 is medium, and 3 is high. The slider is limited to a range of 1.3-2.5 to reflect the 95% probability range of population deviating from the medium growth path.
 
-================== =========== ================ ============
-\                  low growth  **status quo**   high growth
-================== =========== ================ ============
-UN Scenario        1.3 to 2    **2 to 2.3**     2.3 to 2.5
-Population by 2100 8.4 billion **11.1 billion** 13.2 billion
-================== =========== ================ ============
+================== =================== ======================== ====================
+\                  low growth          **status quo**           high growth
+================== =================== ======================== ====================
+UN Scenario        1.3 to 2            **2 to 2.4**             2.4 to 2.5
+Population by 2100 8.4 to 10.9 billion **10.9 to 12.8 billion** 12.8 to 13.2 billion
+================== =================== ======================== ====================
 
 Model Structure
 ---------------

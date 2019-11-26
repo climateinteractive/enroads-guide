@@ -7,16 +7,22 @@
 En-ROADS User Guide
 ===================
 
-Andrew Jones, Yasmeen Zahar, Ellie Johnston, Rebecca Niles, Elizabeth Sawin, Stephanie McCauley, and Cassandra Ceballos
+*By Andrew Jones, Yasmeen Zahar, Ellie Johnston, Juliette Rooney-Varga, Florian Kapmeier, Caroline Reed, Rebecca Niles, Elizabeth Sawin, Stephanie McCauley, and Cassandra Ceballos*
 
 
-The En-ROADS Climate Solutions Simulator is a fast, powerful climate simulation tool for understanding how we can achieve our climate goals through changes in energy, land use, consumption, agriculture, and other policies. The simulator focuses on how changes in global GDP, energy efficiency, technological innovation, carbon price, and other factors change carbon emissions and global temperature. It is designed to provide a synthesis of the best available science on climate solutions and put it at the fingertips of groups in policy workshops and role-playing games. These experiences enable people to explore the long-term climate impacts of global policy and investment decisions.
+The En-ROADS Climate Solutions Simulator is a fast, powerful climate simulation tool for understanding how we can achieve our climate goals through changes in energy, land use, consumption, agriculture, and other policies. The simulator focuses on how changes in global GDP, energy efficiency, technological innovation, and carbon price influence carbon emissions, global temperature, and other factors. It is designed to provide a synthesis of the best available science on climate solutions and put it at the fingertips of groups in policy workshops and roleplaying games. These experiences enable people to explore the long-term climate impacts of global policy and investment decisions.
 
-En-ROADS is being developed by `Climate Interactive <http://www.climateinteractive.org/>`__, `Ventana Systems <http://www.ventanasystems.com/>`__, Todd Fincannon, `UML Climate Change Initiative <http://www.uml.edu/Research/Climate-Change/>`__, and John Sterman of `MIT Sloan <http://mitsloan.mit.edu/>`__.
+En-ROADS is being developed by `Climate Interactive <http://www.climateinteractive.org/>`__, `Ventana Systems <http://www.ventanasystems.com/>`__, Todd Fincannon, `UML Climate Change Initiative <http://www.uml.edu/Research/Climate-Change/>`__, and `MIT Sloan <http://mitsloan.mit.edu/>`__.
 
 This guide provides background on the dynamics of En-ROADS, tips for using the simulator, general descriptions, real-world examples, slider settings, and model structure notes for the different sliders in En-ROADS.
 
+<<<<<<< HEAD
 *Last updated October 2019*
+=======
+In addition to this User Guide, there is an extensive Reference Guide that covers model assumptions and structure, as well as references for data sources. 
+
+*Last updated November 2019*
+>>>>>>> draft
 
 Table of Contents
 =================
@@ -26,8 +32,9 @@ Table of Contents
    :caption: Contents:
 
    guide/about
-   guide/background
+   guide/structure
    guide/kaya
+   guide/background
    guide/general_faqs
    guide/coal
    guide/oil

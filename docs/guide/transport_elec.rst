@@ -1,7 +1,7 @@
 |imgTranElecIcon| Transport – Electrification
 ==============================================
 
-**Increase or decrease purchases of new electric cars, trucks, buses, trains, and ships.** Using electric motors for transport helps reduce greenhouse gas emissions and air pollution if the electricity is from low carbon sources like solar and wind.
+**Increase or decrease purchases of new electric cars, trucks, buses, trains, and ships.** Using electric motors for transport helps reduce greenhouse gas emissions and air pollution if the electricity is from low-carbon sources like solar and wind.
 
 Examples
 --------
@@ -17,27 +17,27 @@ Examples
 Big Message
 -----------
 
-* If the world is dependent on coal and natural gas for electric power, the net effect of electrification is essentially no change in emissions and temperature.
-* Switching to electric modes of transport makes the biggest impact for the climate when electrical energy sources are low carbon.
+* If the world is dependent on coal and natural gas for electric power, the net effect of electrification is only a slight change in in emissions and temperature.
+* Switching to electric modes of transport makes the biggest impact for the climate when electrical energy sources are low-carbon.
 
 Key Dynamics
 ------------
 
 * As you increase Transport Electrification, there are two main forces that affect future temperature:
 
-  * Overall “well-to-wheel” efficiency is greater for electrified transport than for internal combustion engines – in general, less fuel is used to power transport with electricity than oil. This reduces emissions and temperature.
+  * Overall efficiency is greater for electrified transport than for internal combustion engines – in general, less fuel is used to power transport with electricity than oil.
 
   * Oil, in the “Global Sources of Primary Energy” graph, goes down as we electrify transport. At the same time, increased electrical demand is powered by coal and, to a more limited extent, renewables (in the absence of a carbon price or other taxes).
 
 Potential Co-Benefits of Encouraging Electrification
 -------------------------------------------------------
-- Improved air quality at the source increases healthcare savings and worker productivity.
+- Improved air quality from fewer internal combustion engines increases healthcare savings and worker productivity.
 - Jobs are created in the manufacturing and sales of electric batteries and engines.
 
 Equity Considerations
 ---------------------
 •	Although costs are coming down, electric vehicles may not be affordable or available to everyone.
-•	Mining of lithium and copper, two necessary ingredients for the batteries used in electric vehicles, can wreak havoc on precious ecosystems and threaten the well-being of communities at the mining sites. [#transelecfn1]_  
+•	Mining of lithium and copper, two necessary ingredients for the batteries used in electric vehicles, can be damaging to precious ecosystems and threaten the well-being of communities near mining sites. [#transelecfn1]_  
 •	Electric charging station locations may not be accessible or the electric battery range may be insufficient for some situations. 
 
 Slider Settings
@@ -54,7 +54,13 @@ Annual rate -3% to -1%  **-1% to +1%** +1% to +3%   +3% to +5%
 Model Structure
 ---------------
 
-Unlike the inputs for energy sources, which change the financial attractiveness to drive future behavior, this input directly forces growth of electrification up toward a maximum percentage.
+This input directly forces growth of electrification up toward a maximum percentage, unlike the inputs for energy sources, which change the financial attractiveness to drive future behavior.
+
+This input affects climate outcomes through two pathways:
+
+#. Changing energy demand. The efficiency for electrified energy use is greater than for the direct burning of coal, oil, and gas.
+
+#. Changing fuel mix. Increased electrification decreases use of oil but then increases use of coal, natural gas, and renewables in electricity generation.
 
 .. rubric:: Footnotes
 

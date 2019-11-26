@@ -14,7 +14,7 @@ Big Message
 -----------
 
 •	Technological Carbon Removal has the potential to pull significant amounts of carbon dioxide out of the atmosphere. 
-•	These technologies do not currently exist outside of pilot scale. 
+•	Most of these technologies are still undergoing pilot testing, and do not exist at the level needed to deploy at a large scale. 
 
 Key Dynamics
 ------------
@@ -28,7 +28,7 @@ Potential Co-Benefits of CDR Growth
 
 Equity Considerations 
 -----------------------
-•	Approaches like BECCS require large areas of land that in some cases could be used for food production.
+•	Approaches like BECCS require large areas of land that in some cases could otherwise be used for food production.
 •	Many of the technological carbon removal approaches have not been developed at scale yet and pose unknown risks and consequences to the communities they are situated within. 
 
 Slider Settings
@@ -50,7 +50,7 @@ The default settings for the maximum potential of technological carbon removal (
 FAQs
 -------
 
-**Why aren’t coal and gas CCS included here, and how can I increase them?** We think of coal and gas carbon capture and storage (CCS) as reducing CO2 emissions from coal and gas, not actually as removing CO2 from the atmosphere. Both can be changed in the “advanced view” underneath that supports the ‘coal’ and ‘gas’ slider.  
+**Why aren’t coal and gas carbon capture and storage (CCS) included here, and how can I increase them?** We think of coal and gas CCS as reducing CO\ :sub:`2` emissions from coal and gas, not actually as removing CO\ :sub:`2` from the atmosphere. Both can be changed in the Advanced View that supports the Coal and Natural Gas sliders.  
 
 .. SUBSTITUTIONS SECTION
 

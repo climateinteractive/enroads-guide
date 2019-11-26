@@ -21,21 +21,21 @@ Encouraging
 Big Message
 -----------
 
-* Nuclear is not a huge driver of future temperature and hinders the growth of renewables and new technology
+* Nuclear is not a huge driver of future temperature and competes with the growth of renewables and new technology.
 
 * It could be part of a suite of climate action if one is willing to accept the environmental costs – e.g., handling waste materials and the risk of radiation damage near the plants.
 
 Key Dynamics
 ------------
 
-* As you subsidize nuclear, watch the light blue line move up and the brown line of coal and the dark blue line of gas move down in the “Sources of Primary Energy” graph. Nuclear displaces some fossil fuel sources, which keeps carbon in the ground and helps reduce temperature modestly.
+* As you subsidize nuclear, watch Nuclear (light blue line) move up, and Coal (brown line) and Natural Gas (dark blue line) move down in the “Global Sources of Primary Energy” graph. Nuclear displaces some fossil fuel sources, which keeps more carbon in the ground and helps reduce temperature modestly.
 
-* Nuclear competes with all energy sources available, so notice also what happens to renewable energy—it goes down too.
+* Nuclear competes with all energy sources available, so notice also what happens to Renewables (green line) when nuclear is incentivized —it goes down too. 
 
 Potential Co-Benefits of Discouraging Nuclear 
 ----------------------------------------------
 - Risk of exposure to radiation from a nuclear meltdown or hazardous waste is reduced.
-- Nuclear energy can use more water than coal for electricity production, so discouraging nuclear power can increase water access and help protect wildlife habitats, biodiversity, and ecosystem services. [#nuclearfn1]_  
+- Nuclear energy can use more water than coal for electricity production, so discouraging nuclear power can increase water security and help protect wildlife habitats, biodiversity, and ecosystem services. [#nuclearfn1]_  
 - Nuclear energy is fueled by uranium which can be harmful to mine, so discouraging nuclear energy can reduce risks to miners.
 
 Equity Considerations 
@@ -46,21 +46,21 @@ Equity Considerations
 Slider Settings
 ---------------
 
+The following table highlights the numerical ranges for the labelled input levels of the Coal slider. Each of the energy supply sliders is set to reflect a similar percentage cost increase or decrease for each input level. 
+
 ======================================= ================ ================ =========== ========== =================
 \                                       highly taxed     taxed            status quo  subsidized highly subsidized
 ======================================= ================ ================ =========== ========== =================
-Change in price per kilowatt hour (kWh) +$0.10 to +$0.05 +$0.05 to +$0.01 **+$0.01 to -$0.01 to  -$0.05 to
-                                                                          -$0.01**    -$0.05     -$0.10
-Cost increase or decrease               +60% to +30%     +30% to +10%     **+10% to   -10% to    -30% to
+Change in price per kilowatt hour (kWh) +$0.12 to +$0.07 +$0.07 to +$0.01 **+$0.01 to -$0.01 to  -$0.04 to
+                                                                          -$0.01**    -$0.04     -$0.07
+Cost increase or decrease               +100% to +60%    +60% to +10%     **+10% to   -10% to    -30% to
                                                                           -10%**      -30%       -60%
 ======================================= ================ ================ =========== ========== =================
 
 Model Structure
 ---------------
 
-This sector tracks several stages of nuclear power plants, or “energy supply capacity”: capacity under development, under construction, and actually producing energy, including delays between each stage.
-
-A setting of “subsidized” roughly corresponds to the “High” growth scenario produced by the IAEA.
+This sector tracks several stages of nuclear power plants, or energy supply capacity: capacity under development, under construction, and actually producing energy, including delays between each stage.
 
 .. rubric:: Footnotes
 

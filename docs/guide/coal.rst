@@ -20,11 +20,9 @@ Big Messages
 Key Dynamics
 ------------
 
-*  When coal is discouraged, by taxing it, watch the brown line go down in the “Sources of Primary Energy” graph. It is one of the most sensitive energy supplies to any increase in cost. Unlike oil, it is much more substitutable for natural gas and renewables.
+*  When coal is discouraged, by taxing it, watch the brown line go down in the “Sources of Primary Energy” graph. It is one of the most sensitive energy supplies to any increase in cost. Unlike oil, it can often be substituted for natural gas and renewables.
 
-*  Slowing the growth of coal near-term reduces overall CO\ :sub:`2` emissions relative to what it would have been otherwise and makes a big gain for the climate.
-
-*  Taxing coal also reduces energy demand (see graphs “Final Energy Consumption” and “Cost of Energy”). When energy prices are higher people tend to use energy more efficiently and conserve energy. However, tax policies must be implemented with considerations for poor and working-class communities who can be harmfully impacted by high energy prices.
+*  Taxing coal also reduces energy demand (see graphs “Final Energy Consumption” and “Cost of Energy”). When energy prices are higher, people tend to use energy more efficiently and conserve energy. However, tax policies must be implemented with considerations for poor and working-class communities who can be harmfully impacted by high energy prices.
 
 Potential Co-Benefits of Discouraging Coal
 --------------------------------------------
@@ -33,27 +31,29 @@ Potential Co-Benefits of Discouraging Coal
 
 Equity Considerations
 -----------------------
-- Taxing coal can raise energy costs for households and businesses that must rely on coal for energy needs.
+- Taxing coal can raise energy costs for households and businesses that rely on coal for energy needs.
 - Low-income communities often suffer the worst health outcomes yet make up the majority of individuals who produce coal. Providing pathways for these people to find new jobs will be essential.
 
 Slider Settings
 ---------------
 
-================================================ ================= ============ ============ ========== ==========
-\                                                very highly taxed highly taxed taxed        status quo subsidized
-================================================ ================= ============ ============ ========== ==========
-Change in price per ton of coal equivalent (tce) +$100 to +$60     +$60 to +$30 +$30 to +$10 **+$10 to  -$10 to
-                                                                                             -$10**     -$30
-Cost increase or decrease                        +100% to +60%     +60% to +30% +30% to +10% **+10% to  -10% to
-                                                                                             -10%**     -30%
-================================================ ================= ============ ============ ========== ==========
+The following table highlights the numerical ranges for the labelled input levels of the Coal slider. Each of the energy supply sliders is set to reflect a similar percentage cost increase or decrease for each input level. 
+
+================================================ ================= ============= ============ =============== ==========
+\                                                very highly taxed highly taxed  taxed        **status quo**  subsidized
+================================================ ================= ============= ============ =============== ==========
+Change in price per ton of coal equivalent (tce) +$120 to +$60     +$60 to +$40  +$40 to +$6  **+$6 to        -$6 to
+                                                                                              -$6**           -$20
+Cost increase or decrease                        +200% to +100%    +100% to +60% +60% to +10% **+10% to       -10% to
+                                                                                              -10%**          -30%
+================================================ ================= ============= ============ =============== ==========
 
 Model Structure
 ---------------
 
 The cost of coal affects three significant decisions regarding energy infrastructure:
 
-#. investment in new capacity (whether or not to build new processing and power plants);
+#. Investment in new capacity (whether or not to build new processing and power plants);
 
 #. use of capacity (whether to run existing plants);
 
@@ -61,9 +61,9 @@ The cost of coal affects three significant decisions regarding energy infrastruc
 
 FAQs
 -----------
-**In the second half of the century, why does the world burn so much coal in your “business as usual” future, while oil and gas usage slowly declines?** The abundant available coal in the world keeps coal prices relatively low through the century. While, in contrast, limited oil and gas resources push prices up and usage down after 2050. 
+**In the second half of the century, why does the world burn so much coal in your Business as Usual future, while oil and gas usage slowly declines?** The abundant availability of coal in the world keeps coal prices relatively low through the century. While, in contrast, limited oil and gas resources push prices up and usage down after 2050. 
 
-**How can I directly force deeper reductions in coal use?** Consider selecting the “Stop building new coal infrastructure” switch in the advanced view, and changing the “% reduction in coal utilization.” 
+**How can I directly force deeper reductions in coal use?** Consider selecting the “Stop building new coal infrastructure” switch in the advanced view, and changing the “% reduction in coal utilization” slider.  
 
 .. SUBSTITUTIONS SECTION
 
