@@ -92,7 +92,7 @@ The development and use of En-ROADS has been supported by ClimateWorks, the Hewl
 In-kind contributions have been made by multiple project partners.
 
 Where did you get your data? What data does En-ROADS use?
--------------------------------
+------------------------------------------------------------
 
 En-ROADS was built using the best available science and data, with sources such as the IEA, the EIA, and the IPCC. The En-ROADS simulator is driven by its own equations, not external datasets, and is calibrated against history and projections. Default values and bounds on economic, energy, and climate related dynamics have been determined from an extensive review of literature; all parameters and equations are available in the En-ROADS Reference Guide. For those interested, many parameters or assumptions that we make can be changed in the “Assumptions” view under the “Simulation” menu. 
 

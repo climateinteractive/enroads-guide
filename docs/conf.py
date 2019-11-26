@@ -85,7 +85,7 @@ html_theme = 'sphinx_rtd_theme'
 # documentation.
 #
 
-html_logo = 'images/CI_Logo_gold_white_tagline.jpg'
+html_logo = 'images/CI_logo_whitegold_wt.png'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,

@@ -55,7 +55,7 @@ As of May 2019, this should return ``Python 2.7.10``.  Next, check to see if a c
 
 ``which pip``
 
-If it doesn't return anything (kinda looks like nothing happened), then ``pip`` isn't installed.  If it returns something like ``/usr/local/bin/pip``, then you're all set and can skip the next two commands, and to the command to install ``Sphinx``.
+If it doesn't return anything (kinda looks like nothing happened) or if it says "pip not found", then ``pip`` isn't installed. If it returns something like ``/usr/local/bin/pip``, then you're all set and can skip the next two commands, and to the command to install ``Sphinx``.
 
 If ``pip`` isn't installed, please do the following commands.  **Note:** you'll be asked to enter in a password after the second command that starts with ``sudo``. Enter the password that you use to unlock and log into your computer.
 
@@ -98,7 +98,9 @@ Open Visual Studio Code.
 4. Install reStructuredText Extension for VSC
 ----------------------------------------------
 
-In Visual Studio Code, go to the View menu and choose "Extensions".  In the search field type in `restructuredtext`.  Click the install button near the extension developed by "LeXtudio" (likely the first one, but double check).
+In Visual Studio Code, go to the View menu and choose "Extensions".
+
+In the search field type in `restructuredtext`.  Click the install button near the extension developed by "LeXtudio" (likely the first one, but double check).
 
 Next, search for ``Code Spell Checker`` from Street Side Software.  Also click the ``Install`` button.
 

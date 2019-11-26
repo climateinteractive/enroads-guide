@@ -17,6 +17,10 @@ div.rst-versions > div.rst-other-versions > div.injected > dl:nth-child(3) {
 	max-width: 100% !important;
 }
 
+.wy-side-nav-search {
+    background-color: #004992;
+}
+
 /* The ReadTheDocs theme defaults 'no wrap' for text in tables, but we'd like wrapping. */
 /* override table width restrictions */
 @media screen and (min-width: 767px) {
