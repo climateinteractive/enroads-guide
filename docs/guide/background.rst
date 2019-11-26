@@ -6,7 +6,7 @@ Most of the dynamics in En-ROADS can be answered by these explanations:
 Delays and capital stock turnover
 ---------------------------------
 
-New energy sources (e.g., renewables and new technology) take decades (not years) to scale up to sufficiently compete with coal, oil, and gas. There are two main sources of these delays. New supply capacity doesn’t show up until old, long-lived capacity is retired (e.g., coal-fired power plants and oil refineries, which can survive for ~30 years). Only 6% of the total stock gets added every year. New zero Carbon energy may secure 20-50% of that market share, but even then, it adds only 1-3% to the total stock. The climate is only helped when coal, oil, and gas is retired away, and in the absence of other interventions, that amount is relatively small – approximately 3% per year.
+New energy sources (e.g., renewables and new technology) take decades (not years) to scale up to sufficiently compete with coal, oil, and gas. There are two main sources of these delays. New supply capacity doesn’t show up until old, long-lived capacity is retired (e.g., coal-fired power plants and oil refineries, which can survive for ~30 years). Only 6% of the total stock gets added every year. New zero-carbon energy may secure 20-50% of that market share, but even then, it adds only 1-3% to the total stock. The climate is only helped when coal, oil, and gas is retired away, and in the absence of other interventions, that amount is relatively small – approximately 3% per year.
 
 .. image:: ../images/background_images/slowcapitalstockturnover.png
     :scale: 40
@@ -21,7 +21,7 @@ With the delays in increasing the energy efficiency of energy-using capital such
 
 |image20|
 
-**To illustrate this point:** Move the New Technology slider to huge breakthrough. Examine the “Global Sources of Primary Energy” graph and notice that, even as low-carbon sources grow, it takes several decades before enough fossil fuel capacity retires away to make much of an impact. Notice, in the graph above, that coal, oil, and natural gas grow steadily through the 2020s and 2030s and greenhouse gas emissions do not depart from the “business as usual” line until mid-century.
+**To illustrate this point:** Move the New Technology slider to huge breakthrough. Examine the “Global Sources of Primary Energy” graph and notice that, even as low-carbon sources grow, it takes several decades before enough fossil fuel capacity retires away to make much of an impact. Notice, in the graph above, that coal, oil, and natural gas grow steadily through the 2020s and 2030s and greenhouse gas emissions do not depart from the Business as Usual line until mid-century.
 
 **Implications of this dynamic:** Policies that merely promote alternatives to fossil fuels take several decades to reduce carbon dioxide emissions – the existing infrastructure takes a long time to retire away. Thus, meeting climate goals also requires direct disincentives to building and using fossil fuel infrastructure.
 
@@ -30,13 +30,16 @@ Price, demand, and supply are linked
 
 Energy demand falls if energy prices rise, and demand increases if prices fall. The first is evident when carbon prices increase. The second, when zero-carbon energy such as renewables or new technology are either subsidized or experience a breakthrough in cost improvement. This is often called the ‘rebound effect’ or the Jevons paradox.
 
+While subsidizing low carbon energy supplies such as Renewables, watch Final Energy Consumption increase. Inexpensive wind and solar spreading around the world decreases overall energy prices and boosts energy demand up:
+
+
 |image22|
 
-While subsidizing low carbon energy supplies such as Renewables, watch Final Energy Consumption increase. Inexpensive wind and solar spreading around the world decreases overall energy prices and boosts energy demand up.
+While increasing carbon price, watch Final Energy Consumption decrease. If you want to see an intermediate variable, look at the "Cost of Energy" graph – costs increase so demand decreases:
+
 
 |image23|
 
-While increasing carbon price, watch Final Energy Consumption decrease. If you want to see an intermediate variable, look at the "Cost of Energy" graph – costs increase so demand decreases.
 
 Success builds success
 ----------------------
@@ -114,7 +117,7 @@ A challenge to limiting future warming in this simulation is the powerful growth
 
 -  “We’ve done a lot in energy efficiency and clean energy – why haven’t emissions reduced substantially enough?”
 
-**To illustrate this point:** See the Kaya Graphs view below for a low emissions scenario with increased energy efficiency and a transition to low carbon energy sources. Even though Energy Intensity of GDP improves and the C intensity of Primary Energy decreases as well, CO\ :sub:`2` Emissions from Energy doesn't see as dramatic a drop as expected due to the continued growth in Global Population and GDP per Capita.
+**To illustrate this point:** See the Kaya Graphs view below for a low emissions scenario with increased energy efficiency and a transition to low carbon energy sources. Even though Energy Intensity of GDP improves and the C Intensity of Energy decreases as well, CO\ :sub:`2` Emissions from Energy doesn't see as dramatic a drop as expected due to the continued growth in Global Population and GDP per Capita.
 
 |image28|
 
@@ -140,7 +143,7 @@ Emissions must fall significantly just to change the growth in temperature and C
 
 -  “Emissions are stabilized, so why is temperature or CO\ :sub:`2` concentration still going up?”
 
-**To illustrate this point:** See the ‘CO\ :sub:`2` Emissions and Removals’ and 'CO\ :sub:`2` Concentration' graphs in a scenario where CO\ :sub:`2` emissions stabilize. Even though CO\ :sub:`2` emissions (in red below) have flattened, CO\ :sub:`2` concentrations (in blue on the right below) continue to increase.
+**To illustrate this point:** See the "CO\ :sub:`2` Emissions and Removals" and "CO\ :sub:`2` Concentration" graphs in a scenario where CO\ :sub:`2` emissions stabilize. Even though CO\ :sub:`2` emissions (in red below) have flattened, CO\ :sub:`2` concentrations (in blue on the right below) continue to increase.
 
 |image30|
 

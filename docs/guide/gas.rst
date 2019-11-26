@@ -25,11 +25,11 @@ Key Dynamics
 Potential Co-Benefits of Discouraging Natural Gas
 ---------------------------------------------------
 - Gas drilling is water intensive, so limiting extraction can improve water security and quality at the source of production and protect wildlife habitats, biodiversity, and ecosystem services. [#gasfn1]_ [#gasfn2]_
-- There are concerns about the health and environmental impacts of the gas drilling approach, known as fracking, that have led many places to ban it. [#gasfn3]_, [#gasfn4]_, [#gasfn5]_
+- There are concerns about the health and environmental impacts of the gas drilling approach, known as fracking, that have led many places to ban it. [#gasfn3]_ [#gasfn4]_ [#gasfn5]_
 
 Equity Considerations
 -----------------------------------
-- Generally speaking, natural gas production in developed countries is disproportionately located near low-income and minority communities. [#gasfn6]_, [#gasfn7]_,  [#gasfn8]_
+- Generally speaking, natural gas production in developed countries is disproportionately located near low-income and minority communities. [#gasfn6]_ [#gasfn7]_  [#gasfn8]_
 - There have been cases where wealthy white communities have successfully resisted natural gas development and it has shifted to low-income communities predominantly inhabited by people of color. Low income communities often have less ability to influence development. [#gasfn9]_ [#gasfn10]_
 - Limited data on the placements of fracking and power plant sites in developing countries exists, yet macro-level research shows that low-income communities and communities of color disproportionately experience the negative impacts of natural gas drilling and burning. [#gasfn11]_ 
 
@@ -52,7 +52,7 @@ Model Structure
 
 The cost of natural gas affects three significant decisions regarding energy infrastructure:
 
-#. investment in new capacity (whether or not to build new processing and power plants);
+#. Investment in new capacity (whether or not to build new processing and power plants);
 
 #. use of capacity (whether to run existing plants);
 

@@ -1,7 +1,7 @@
 |imgMethaneIcon| Methane & Other Gases
 =======================================
 
-**Decrease or increase greenhouse gas emissions from methane, nitrous oxide, and the f-gases.** Methane is released from sources like cows, agriculture, natural gas drilling, and waste. Nitrous oxide comes from fertilizers. The f-gases, includes HFCs, PFCs, and others that are used in industry and consumer goods like air conditioners.
+**Decrease or increase greenhouse gas emissions from methane, nitrous oxide, and the F-gases.** Methane is released from sources like cows, agriculture, natural gas drilling, and waste. Nitrous oxide comes from fertilizers. The f-gases, includes HFCs, PFCs, and others that are used in industry and consumer goods like air conditioners.
 
 Examples
 --------

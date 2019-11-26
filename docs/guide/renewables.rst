@@ -26,7 +26,7 @@ Key Dynamics
 
 * **Rebound effect.** Subsidies to renewables decrease energy costs, which increases energy demand over what it would have been otherwise (people use more energy when it is cheap). This rebound effect somewhat reduces the positive impact of encouraging renewable energy. View this dynamic with the graph “Final Energy Consumption\ *.”*
 
-* **Delays.** It takes time for the subsidies and encouragement of renewables to show up in installed capacity. Subsidies are phased in over 10 years so note in the “Renewable Final Energy Consumption” graph that the Current Scenario does not immediately differ from Business as usual.
+* **Delays.** It takes time for the subsidies and encouragement of renewables to show up in installed capacity. Subsidies are phased in over 10 years so note in the “Renewable Final Energy Consumption” graph that the Current Scenario does not immediately differ from Business as Usual.
 
 Potential Co-Benefits of Encouraging Renewables
 -------------------------------------------------

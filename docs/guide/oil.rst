@@ -58,7 +58,7 @@ Model Structure
 
 The cost of oil affects three significant decisions regarding energy infrastructure:
 
-#. investment in new capacity (whether or not to build new drilling operations and refineries);
+#. Investment in new capacity (whether or not to build new drilling operations and refineries);
 
 #. use of capacity (whether to run existing operations);
 
