@@ -42,9 +42,9 @@ The following table highlights the numerical ranges for the labelled input level
 ================================================== ================== ================= ============ ========== ==================
 \                                                  highly taxed       taxed             status quo   subsidized highly subsidized
 ================================================== ================== ================= ============ ========== ==================
-Change in price per barrel of oil equivalent (boe) +$50 to +$30       +$30 to +$5       **+$5 to     -$5 to     -$15 to -$30
+Change in price per barrel of oil equivalent (boe) +$30 to +$15       +$15 to +$5       **+$5 to     -$5 to     -$15 to -$30
                                                                                         -$5**        -$15   
-Cost increase or decrease                          +100% to +60%       +60% to +10%     **+10% to    -10% to    -30% to -60%
+Cost increase or decrease                          +60% to +30%       +30% to +10%      **+10% to    -10% to    -30% to -60%
                                                                                         -10%**       -30%          
 ================================================== ================== ================= ============ ========== ==================
 
