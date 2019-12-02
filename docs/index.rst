@@ -18,7 +18,7 @@ This guide provides background on the dynamics of En-ROADS, tips for using the s
 
 In addition to this User Guide, there is an extensive Reference Guide that covers model assumptions and structure, as well as references for data sources. 
 
-*Last updated November 2019*
+*Last updated December 2019*
 
 Table of Contents
 =================
