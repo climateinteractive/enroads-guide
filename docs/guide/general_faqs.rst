@@ -94,7 +94,7 @@ In-kind contributions have been made by multiple project partners.
 Where did you get your data? What data does En-ROADS use?
 ------------------------------------------------------------
 
-En-ROADS was built using the best available science and data, with sources such as the IEA, the EIA, and the IPCC. The En-ROADS simulator is driven by its own equations, not external datasets, and is calibrated against history and projections. Default values and bounds on economic, energy, and climate related dynamics have been determined from an extensive review of literature; all parameters and equations are available in the En-ROADS Reference Guide. For those interested, many parameters or assumptions that we make can be changed in the “Assumptions” view under the “Simulation” menu. 
+En-ROADS was built using the best available science and data, with sources such as the IEA, the EIA, and the IPCC. The En-ROADS simulator is driven by its own equations, not external datasets, and is calibrated against history and projections. Default values and bounds on economic, energy, and climate related dynamics have been determined from an extensive review of literature; all parameters and equations are available in the `En-ROADS Reference Guide <https://www.climateinteractive.org/wp-content/uploads/2019/12/En-ROADS_Reference_Guide_v91.docx>`_. For those interested, many parameters or assumptions that we make can be changed in the “Assumptions” view under the “Simulation” menu. 
 
 What does the Business as Usual or Reference scenario most closely match in the climate literature?
 ----------------------------------------------------------------------------------------------------------
@@ -116,7 +116,7 @@ For a similar approach with an accessible online interface, explore `The Global 
 Where can I learn about the science, assumptions, testing, and background of the En-ROADS simulation?
 -------------------------------------------------------------------------------------------------------
 
-All assumptions and equations are documented in the En-ROADS Reference Guide.
+All assumptions and equations are documented in the `En-ROADS Reference Guide <https://www.climateinteractive.org/wp-content/uploads/2019/12/En-ROADS_Reference_Guide_v91.docx>`_.
 
 Assumptions most relevant to model users are available within other sections of this `online and searchable user guide <https://docs.climateinteractive.org/projects/en-roads/en/latest/index.html>`_.
 
@@ -125,7 +125,7 @@ Other supporting materials on modeling science are available on `our website <ht
 Whom can I contact for more information?
 ------------------------------------------
 
-For more information on En-ROADs, please visit the `En-ROADS web page <https://climateinteractive.org/tools/en-roads/>`_ or contact info@climateinteractive.org. 
+For more information on En-ROADs, please visit the `En-ROADS web page <https://climateinteractive.org/tools/en-roads/>`_ or contact support@climateinteractive.org. 
 
 
 
