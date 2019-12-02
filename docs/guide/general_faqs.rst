@@ -1,6 +1,8 @@
 General FAQs
 ==============================================
 
+*Please email support@climateinteractive.org for additional inquires and support.*
+
 What is the purpose of En-ROADS?
 ---------------------------------
 
@@ -125,7 +127,7 @@ Other supporting materials on modeling science are available on `our website <ht
 Whom can I contact for more information?
 ------------------------------------------
 
-For more information on En-ROADs, please visit the `En-ROADS web page <https://climateinteractive.org/tools/en-roads/>`_ or contact support@climateinteractive.org. 
+For more information on En-ROADs, please visit the `En-ROADS web page <https://climateinteractive.org/tools/en-roads/>`_ or contact support@climateinteractive.org 
 
 
 

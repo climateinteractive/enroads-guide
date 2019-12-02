@@ -13,3 +13,6 @@ The model emphasizes the system-wide interactions of policies. Behind the simula
 
 For those familiar with C-ROADS, the distinction between the two is that C-ROADS focuses on how changes in national and regional emissions could affect global carbon emissions and climate outcomes, while En-ROADS focuses on how global changes in energy, economics, and public policy could affect global carbon emissions and climate outcomes.
 
+*Please email support@climateinteractive.org for additional inquires and support.*
+
+

@@ -7,7 +7,7 @@
 En-ROADS User Guide
 ===================
 
-**By Andrew Jones, Yasmeen Zahar, Ellie Johnston, Juliette Rooney-Varga, Florian Kapmeier, Caroline Reed, Rebecca Niles, Elizabeth Sawin, Stephanie McCauley, and Cassandra Ceballos**
+**By Andrew Jones, Yasmeen Zahar, Ellie Johnston, Travis Franck, Juliette Rooney-Varga, Florian Kapmeier, Caroline Reed, Rebecca Niles, Elizabeth Sawin, Stephanie McCauley, and Cassandra Ceballos**
 
 *Last updated December 2019*
 
@@ -18,6 +18,8 @@ En-ROADS is being developed by `Climate Interactive <http://www.climateinteracti
 This guide provides background on the dynamics of En-ROADS, tips for using the simulator, general descriptions, real-world examples, slider settings, and model structure notes for the different sliders in En-ROADS.
 
 In addition to this User Guide, there is an extensive `Reference Guide <https://www.climateinteractive.org/wp-content/uploads/2019/12/En-ROADS_Reference_Guide_v91.docx>`_ that covers model assumptions and structure, as well as references for data sources. 
+
+*Please email support@climateinteractive.org for additional inquires and support.*
 
 
 Table of Contents
