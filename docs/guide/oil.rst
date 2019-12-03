@@ -30,7 +30,7 @@ Key Dynamics
 
 Potential Co-Benefits of Discouraging Oil 
 ------------------------------------------
-- A reduction in oil drilling could lead to fewer oil spills help protect wildlife habitats, biodiversity, and ecosystem services at production sites and along transportation routes.
+- A reduction in oil drilling could lead to fewer oil spills, helping protect wildlife habitats, biodiversity, and ecosystem services at production sites and along transportation routes.
 - Reduced economic dependence on oil can improve national security and lower military costs.
 
 Equity Considerations
