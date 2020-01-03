@@ -7,7 +7,7 @@
 En-ROADS User Guide
 ===================
 
-**By Andrew Jones, Yasmeen Zahar, Ellie Johnston, John Sterman, Travis Franck, Juliette Rooney-Varga, Florian Kapmeier, Caroline Reed, Rebecca Niles, Elizabeth Sawin, Stephanie McCauley, and Cassandra Ceballos**
+**By Andrew Jones, Yasmeen Zahar, Ellie Johnston, John Sterman, Lori Siegel, Travis Franck, Juliette Rooney-Varga, Florian Kapmeier, Caroline Reed, Rebecca Niles, Elizabeth Sawin, Stephanie McCauley, and Cassandra Ceballos**
 
 *Last updated December 2019*
 
