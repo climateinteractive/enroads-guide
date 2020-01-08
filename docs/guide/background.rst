@@ -98,11 +98,11 @@ Many assume that if the world promoted several long term zero-carbon energy supp
 
 In the following scenario, a renewables subsidy leads to a 0.3 degrees Celsius reduction in temperature: 
 
-.. image:: ../images/media/image54.png
+.. image:: ../images/media/image52.png
 
 A huge breakthrough in New Technology also leads to the same 0.3 degree Celsius reduction on its own: 
 
-.. image:: ../images/media/image52.png
+.. image:: ../images/media/image54.png
 
 When combined, instead of seeing an additive 0.6 degree Celsius reduction, we only see a 0.4 degree reduction in temperature due to the energy supplies competing with each other for market share: 
 
