@@ -42,9 +42,9 @@ The following table highlights the numerical ranges for the labelled input level
 ================================================ ================= ============= ============ =============== ==========
 \                                                very highly taxed highly taxed  taxed        **status quo**  subsidized
 ================================================ ================= ============= ============ =============== ==========
-Change in price per ton of coal equivalent (tce) +$120 to +$60     +$60 to +$40  +$40 to +$6  **+$6 to        -$6 to
+Change in price per ton of coal equivalent (tce) +$120 to +$40     +$40 to +$20  +$20 to +$6  **+$6 to        -$6 to
                                                                                               -$6**           -$20
-Cost increase or decrease                        +200% to +100%    +100% to +60% +60% to +10% **+10% to       -10% to
+Cost increase or decrease                        +200% to +60%     +60% to +30%  +30% to +10% **+10% to       -10% to
                                                                                               -10%**          -30%
 ================================================ ================= ============= ============ =============== ==========
 

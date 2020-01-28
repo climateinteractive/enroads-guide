@@ -47,9 +47,9 @@ The following table highlights the numerical ranges for the labelled input level
 ================================================== ================= ============= ============= ========== ==========
 \                                                  very highly taxed highly taxed  taxed         status quo subsidized
 ================================================== ================= ============= ============= ========== ==========
-Change in price per barrel of oil equivalent (boi) +$100 to +$50     +$50 to +$30  +$30 to +$5   **+$5 to   -$5 to
+Change in price per barrel of oil equivalent (boi) +$100 to +$30     +$30 to +$15  +$15 to +$5   **+$5 to   -$5 to
                                                                                                  -$5**      -$15
-Cost increase or decrease                          +200% to +100%    +100% to +60% +60% to +10%  **+10% to  -10% to
+Cost increase or decrease                          +200% to +60%     +60% to +30%  +30% to +10%  **+10% to  -10% to
                                                                                                  -10%**     -30%
 ================================================== ================= ============= ============= ========== ==========
 
