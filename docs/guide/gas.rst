@@ -20,7 +20,7 @@ Key Dynamics
 
 * If gas is subsidized, high-carbon coal and oil decrease slightly and natural gas goes up. Overall, there is no net benefit to emissions.
 
-* If gas is taxed, in absence of other policies, the opposite of the above is true; natural gas goes down, but very high-carbon coil and oil increase, with no net benefit on emissions or temperature change. We call this the “squeeze the balloon” problem – depressing fossil fuel emissions in one area causes them to pop up in another. Adding a carbon price is a good solution to the “squeeze the balloon” problem, as it addresses all fossil fuels together. 
+* If gas is taxed, in absence of other policies, the opposite of the above is true; natural gas goes down, but high-carbon coal and oil increase, with no net benefit on emissions or temperature change. We call this the “squeeze the balloon” problem – depressing fossil fuel emissions in one area causes them to pop up in another. Adding a carbon price is a good solution to the “squeeze the balloon” problem, as it addresses all fossil fuels together. 
 
 Potential Co-Benefits of Discouraging Natural Gas
 ---------------------------------------------------
