@@ -52,7 +52,7 @@ Table of Contents
    guide/deforestation
    guide/afforestation
    guide/tech_removal
-   
+   guide/changelog
 
 
 Indices and tables
