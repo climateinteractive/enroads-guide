@@ -10,6 +10,12 @@ En-ROADS Model Version History
 
 March 2020 Release
 ------------------
+
+Along with the details listed below, we've made a cool video highlighting the important feature additions and changes to model behavior. 
+
+Check it out:  `March 2020 Release Video <https://youtu.be/AFgCByfpwSg>`_
+
+
 Model Upgrade
 ~~~~~~~~~~~~~
 
