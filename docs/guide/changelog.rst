@@ -28,6 +28,8 @@ Fixed
 - Add “Hydro” data to “Average Cost of Electricity Production” graph and correct the name of “Renew/Hydro” to Renewables”
 - Corrected several missing Related Graphs in some advanced views
 - Corrected the variable in “Marginal Cost of Renewables” graph
+- Corrected typo in descriptions for N\ :sub:`2`\O and CH\ :sub:`4` graphs (Megatons was corrected to 1x10\ :sup:`6`)
+- The y-axis label in graph "CO\ :sub:`2` Emissions" was corrected to Gigatons CO\ :sub:`2`\/year
 
 Updated 
 ^^^^^^^
