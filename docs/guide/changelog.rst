@@ -26,9 +26,10 @@ Graphs
 
 Fixed 
 ^^^^^
-- Improve location of icons in the tool bar portion of the interface to make accidental mis-clicks harder to make especially with the "Reset Polices & Assumptions" tool icon (formerly, "Reset sliders" tool tip).
+- Improved location of icons in the top toolbar to help avoid accidental clicks on the “Reset Policies & Assumptions” icon (formerly, “Reset sliders” tool tip).
 - Correcting Large graph feature so graphs are sized correctly in the remote window.
-- Edits to description texts for "Coal carbon capture & storage (CCS) (tax/subsidy)" slider, "Gas carbon capture & storage (CCS) (tax/subsidy)" slider and the overall description for Nuclear in the advanced view.
+- Edits to description texts for "Coal carbon capture & storage (CCS) (tax/subsidy)" slider, "Gas carbon capture & storage (CCS) (tax/subsidy)" slider and the overall description for Nuclear in the advanced views.
+
 
 March 2020 Release
 ------------------
