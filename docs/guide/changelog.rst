@@ -8,6 +8,29 @@ En-ROADS Model Version History
    H3 = ^^^^^^   For sub areas
 
 
+April 2020 Release
+------------------
+
+Model Upgrade
+~~~~~~~~~~~~~
+
+Updated 
+^^^^^^^
+- En-ROADS model to version 2.7.14
+- Added link to "Uses for En-ROADS" under the Help menu
+- Add menu control for "Reset Policies" sliders and "Reset Assumptions" sliders under "Simulation" menu; changed wording of  "Reset" to "Reset Policies & Assumptions."
+
+Graphs
+~~~~~~
+- When switching from Metric Units to U.S. Units, the "Land for Carbon Dioxide Removal" graph switches from "Million hectares" to "Million acres".
+
+Fixed 
+^^^^^
+- Improved location of icons in the top toolbar to help avoid accidental clicks on the “Reset Policies & Assumptions” icon (formerly, “Reset sliders” tool tip).
+- Correcting Large graph feature so graphs are sized correctly in the remote window.
+- Edits to description texts for "Coal carbon capture & storage (CCS) (tax/subsidy)" slider, "Gas carbon capture & storage (CCS) (tax/subsidy)" slider and the overall description for Nuclear in the advanced views.
+
+
 March 2020 Release
 ------------------
 
