@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RST2HTML="/Users/travler/Library/Python/2.7/bin/rst2html.py"
+RST2HTML="$HOME/.local/bin/rst2html.py"
 
 # MARKED_EXT="rstasdfasdf"
 # MARKED_EXT="rst"

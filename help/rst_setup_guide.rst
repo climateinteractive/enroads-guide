@@ -1,6 +1,6 @@
 .. Testing area for RST related tests
    This is a comment that won't be seen.  Comments and the following lines need to be
-   idented the same, without a blank line.
+   indented the same, without a blank line.
 
 .. Below is a "title" section because it has '=' above and below it
    NOTE: you need a blank line between a comment and what follows
@@ -51,7 +51,98 @@ this will likely return a line that ``/usr/bin/python``.  If so, then type:
 
 ``python --version``
 
-As of May 2019, this should return ``Python 2.7.10``.  Next, check to see if a command called ``pip`` is installed, by typing:
+As of May 2019, this should return ``Python 2.7.10``.  If Python isn't v3.0 or newer, then you'll need to install the latest version of Python.
+
+Best way to install Python versions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The best way to install a maintainable version of Python is to use `PyEnv installation manager <https://github.com/pyenv/pyenv>`_.  
+
+Currently, the best way to install PyEnv is to use another program called `Brew <https://brew.sh>`_.  Check if Brew is stilled by typing:
+
+``which brew``
+
+If there something is found, then skip this next command and continue with the commands to install PyEnv.
+
+If you don't have Brew installed, type:
+
+::
+
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+To install PyEnv with Brew, type:
+
+::
+
+    brew update
+
+    brew install pyenv
+
+Depending on your shell, update your config files:
+
+For `zsh`, enter:
+
+::
+
+    $ echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.zshrc
+
+For Bash, enter:
+
+::
+
+    $ echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.bash_profile
+
+
+That should be it.  Close your Terminal window and then open a new one to make sure it is loading the new settings correctly.
+
+On macOS, `PyEnv also suggests <https://github.com/pyenv/pyenv/wiki>`_ you do the following:
+
+---
+
+pyenv will try its best to download and compile the wanted Python version, but sometimes compilation fails because of unmet system dependencies, or compilation succeeds but the new Python version exhibits weird failures at runtime. The following instructions are our recommendations for a sane build environment.
+
+
+If you haven't done so, install Xcode Command Line Tools (xcode-select --install) and Homebrew. Then:
+
+::
+
+  # optional, but recommended:
+  brew install openssl readline sqlite3 xz zlib
+
+---
+
+Then you can install the a newer version of Python, such as:
+
+::
+  pyenv install 3.8.2
+
+  pyenv global 3.8.2
+
+
+You should be all set up now with a new version of Python.
+
+
+Now we can install the tool that we really need call ``sphinx``. At the prompt copy and paste in the following:
+
+``pip install sphinx``
+
+and then
+
+``pip install sphinx_rtd_theme``
+
+Finally, make sure we can find the apps by issuing this command:
+
+``echo "export PATH=$PATH:.:/Users/$USER/.local/bin" >> .zshrc``
+
+
+You're done.  Nice work.
+
+
+
+Old way to install PIP; Likely Ignore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Next, check to see if a command called ``pip`` is installed, by typing:
 
 ``which pip``
 
@@ -66,21 +157,6 @@ If ``pip`` isn't installed, please do the following commands.  **Note:** you'll 
   sudo python get-pip.py
 
 
-Now ``pip`` is installed. With this tool installed, we can install the tool that we really need call ``sphinx``.
-At the prompt copy and paste in the following:
-
-``pip install --user sphinx``
-
-and then
-
-``pip install --user sphinx_rtd_theme``
-
-Finally, make sure we can find the apps by issuing this command:
-
-``echo "export PATH=$PATH:.:/Users/$USER/Library/Python/2.7/bin" >> .bash_profile``
-
-
-You're done.  Nice work.
 
 
 3. Download Visual Studio Code (VSC)
