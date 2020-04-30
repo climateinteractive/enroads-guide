@@ -8,6 +8,22 @@ En-ROADS Model Version History
    H3 = ^^^^^^   For sub areas
 
 
+May 2020 Release
+------------------
+
+Model Upgrade
+~~~~~~~~~~~~~
+
+Updated 
+^^^^^^^
+- En-ROADS model to version 2.7.19
+- Add email sharing of your current scenario to "Share Scenario" menu button. 
+- Update GDP with 2018 World Bank data. 
+
+Fixed 
+^^^^^
+- Minor edits to description texts
+
 April 2020 Release
 ------------------
 
