@@ -59,11 +59,23 @@ The cost of coal affects three significant decisions regarding energy infrastruc
 
 #. retirement of capacity (whether to keep plants longer or shorter than the average of ~30 years).
 
+Case Studies
+---------------
+
+United States: Replacing all coal-powered electricity in the US with solar power could save 52,000 lives per year, which is more than the number of people employed by the coal industry today. [#coalfn1]_
+
+United States: The total cost of reliance on coal to the US economy is estimated to be $344 billon per year. Of that cost, $187B is from air pollution, $74.6B is from public health affects in Appalachia, and $61.7B from climate damages. [#coalfn2]_
+
 FAQs
 -----------
 **In the second half of the century, why does the world burn so much coal in your Business as Usual future, while oil and gas usage slowly declines?** The abundant availability of coal in the world keeps coal prices relatively low through the century. While, in contrast, limited oil and gas resources push prices up and usage down after 2050. 
 
 **How can I directly force deeper reductions in coal use?** Consider selecting the “Stop building new coal infrastructure” switch in the advanced view, and changing the “% reduction in coal utilization” slider.  
+
+.. rubric:: Footnotes
+
+.. [#coalfn1] Prehoda, E. W., & Pearce, J. M. (2017). Potential lives saved by replacing coal with solar photovoltaic electricity production in the U.S. *Renewable and Sustainable Energy Reviews*, 80, 710–715. http://dx.doi.org/10.1016/j.rser.2017.05.119 
+.. [#coalfn2] Epstein, P. R., Buonocore, J. J., Eckerle, K., Hendryx, M., Iii, B. M. S., Heinberg, R., … Glustrom, L. (2011). Full cost accounting for the life cycle of coal. *Annals of the New York Academy of Sciences*, 1219(1), 73–98. https://doi.org/10.1111/j.1749-6632.2010.05890.x 
 
 .. SUBSTITUTIONS SECTION
 

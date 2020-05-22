@@ -51,6 +51,17 @@ Model Structure
 
 Increasing the rate of improvement in energy use for buildings and industry lowers emissions gradually, because energy use is driven by the overall average of all infrastructure in this area, which is delayed from this intervention because improvement only come to new things and many buildings and industrial facilities last decades. 
 
+Case Studies 
+--------------
+Global: Through LEED-certified energy efficient buildings, a group of six major economies saved $13.3 billion in energy, health, and climate benefits and avoided emitting dozens of air pollutants. [#buildings_eefn1]_
+
+United Kingdom: If the UK were to reduce its household energy expenditures by one-quarter using energy efficiency measures, households could save £270 per year. The net present value of this investment is £7.5 billion, and the wider health, economic, and energy benefits could reach £47 billion. [#buildings_eefn2]_ 
+
+.. rubric:: Footnotes
+
+.. [#buildings_eefn1] P., M., X., C., J., B., J., C.-L., J., S., A., B., & J., A. (2018). Energy savings, emission reductions, and health co-benefits of the green building movement. *Journal of Exposure Science & Environmental Epidemiology*, 28(4), 307–318. https://doi.org/10.1038/s41370-017-0014-9 
+.. [#buildings_eefn2] Rosenow, J., Eyre, N., Sorrell, S., & Guertler, P. (2017). Unlocking Britain’s First Fuel: The potential for energy savings in UK housing. Retrieved from https://www.e3g.org/docs/17_9_6_UKERC_CIED_briefing_final.pdf
+
 .. SUBSTITUTIONS SECTION
 
 .. |imgBuildingsEEIcon| image:: ../images/icons/buildingee_icon.png
