@@ -56,6 +56,14 @@ Model Structure
 
 Each greenhouse gas is modeled separately within En-ROADS, which enables the impact of each gas on global temperature to be handled without using global warming potential (GWP) and CO\ :sub:`2` equivalency conversions. Greenhouse gases other than CO\ :sub:`2` that are reflected in graphs with the units CO\ :sub:`2`\e do use GWP100 to enable comparison and reporting of all greenhouse gases together. This means that the short-lived, but high impact, nature of greenhouse gases like methane is captured.   
 
+Case Studies
+--------------
+Carrboro, NC, USA: Participation in a community gardening program in Carrboro, NC showed improvements in childhood obesity levels and resulted in families with children in the program eating one-third more fruits and vegetables every day. [#methanefn1]_
+
+.. rubric:: Footnotes
+
+.. [#methanefn1] Castro, D. C., Samuels, M., & Harman, A. E. (2013). Growing Healthy Kids. *American Journal of Preventive Medicine*, 44(3). https://doi.org/10.1016/j.amepre.2012.11.024
+
 .. SUBSTITUTIONS SECTION
 
 .. |imgMethaneIcon| image:: ../images/icons/methane_icon.png

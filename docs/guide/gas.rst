@@ -29,9 +29,9 @@ Potential Co-Benefits of Discouraging Natural Gas
 
 Equity Considerations
 -----------------------------------
-- Generally speaking, natural gas production in developed countries is disproportionately located near low-income and minority communities. [#gasfn6]_ [#gasfn7]_  [#gasfn8]_
-- There have been cases where wealthy white communities have successfully resisted natural gas development and it has shifted to low-income communities predominantly inhabited by people of color. Low income communities often have less ability to influence development. [#gasfn9]_ [#gasfn10]_
-- Limited data on the placements of fracking and power plant sites in developing countries exists, yet macro-level research shows that low-income communities and communities of color disproportionately experience the negative impacts of natural gas drilling and burning. [#gasfn11]_ 
+- Generally speaking, natural gas production in developed countries is disproportionately located near low-income and minority communities. [#gasfn6]_ [#gasfn7]_
+- There have been cases where wealthy white communities have successfully resisted natural gas development and it has shifted to low-income communities predominantly inhabited by people of color. Low income communities often have less ability to influence development. [#gasfn8]_ [#gasfn9]_
+- Limited data on the placements of fracking and power plant sites in developing countries exists, yet macro-level research shows that low-income communities and communities of color disproportionately experience the negative impacts of natural gas drilling and burning. [#gasfn10]_ 
 
 Slider Settings
 ---------------
@@ -64,17 +64,16 @@ FAQs
 
 .. rubric:: Footnotes
 
-.. [#gasfn1] https://www.ncbi.nlm.nih.gov/pubmed/22446060 
-.. [#gasfn2] https://environmentamerica.org/reports/ame/fracking-numbers   
-.. [#gasfn3] https://www.onegreenplanet.org/environment/countries-except-united-states-that-have-banned-fracking/ 
-.. [#gasfn4] https://www.foodandwaterwatch.org/insight/local-resolutions-against-fracking 
-.. [#gasfn5] https://doi.org/10.1515/reveh-2015-0055
-.. [#gasfn6] https://doi.org/10.1016/j.coesh.2018.02.005
-.. [#gasfn7] https://www.uclalawreview.org/wp-content/uploads/2016/08/Thompson-63-6.pdf  
-.. [#gasfn8] https://insideclimatenews.org/news/10022016/poor-minorities-carry-burden-fracking-waste-south-texas-eagle-ford-shale  
-.. [#gasfn9] https://www.motherjones.com/environment/2018/04/an-oil-company-faced-pushback-about-fracking-near-a-charter-so-it-moved-next-to-a-low-income-public-school/ 
-.. [#gasfn10] https://doi.org/10.3390/healthcare4040078
-.. [#gasfn11] https://doi.org/10.3390/ijerph15010016 
+.. [#gasfn1] Bamberger, M., & Oswald, R. E. (2012). Impacts of Gas Drilling on Human and Animal Health. *NEW SOLUTIONS: A Journal of Environmental and Occupational Health Policy*, 22(1), 51–77. https://doi.org/10.2190/NS.22.1.e 
+.. [#gasfn2] Ridlington, E., & Rumpler, J. (2013). Fracking by the Numbers: Key Impacts of Dirty Drilling at the State and National Level. *Environment America*. Retrieved from https://environmentamerica.org/sites/environment/files/reports/EA_FrackingNumbers_scrn.pdf   
+.. [#gasfn3] Good, K. (2015, February 12). These 4 Countries Have Banned Fracking ... Why Can't the U.S. Get On Board? Retrieved from https://www.onegreenplanet.org/environment/countries-except-united-states-that-have-banned-fracking/  
+.. [#gasfn4] Food & Water Watch. (2019, August 12). Local Resolutions Against Fracking. Retrieved from https://www.foodandwaterwatch.org/insight/local-resolutions-against-fracking  
+.. [#gasfn5] Carpenter, D. O. (2016). Hydraulic fracturing for natural gas: impact on health and environment. *Reviews on Environmental Health*, 31(1). https://doi.org/10.1515/reveh-2015-0055
+.. [#gasfn6] Clough, E. (2018). Environmental justice and fracking: A review. *Current Opinion in Environmental Science & Health*, 3, 14–18. https://doi.org/10.1016/j.coesh.2018.02.005
+.. [#gasfn7] Bienkowski, B. (2016, February 17). Fracking's Costs Fall Disproportionately on the Poor and Minorities in South Texas. *Inside Climate News*. https://insideclimatenews.org/news/10022016/poor-minorities-carry-burden-fracking-waste-south-texas-eagle-ford-shale  
+.. [#gasfn8] Jula, M. (2018, April 17). Parents didn't want fracking near their school. So the oil company chose a poorer school, instead. *Mother Jones*. https://www.motherjones.com/environment/2018/04/an-oil-company-faced-pushback-about-fracking-near-a-charter-so-it-moved-next-to-a-low-income-public-school/ 
+.. [#gasfn9] Gislason, M., & Andersen, H. (2016). The Interacting Axes of Environmental, Health, and Social Justice Cumulative Impacts: A Case Study of the Blueberry River First Nations. *Healthcare*, 4(4), 78. https://doi.org/10.3390/healthcare4040078 
+.. [#gasfn10] Perera, F. (2017). Pollution from Fossil-Fuel Combustion is the Leading Environmental Threat to Global Pediatric Health and Equity: Solutions Exist. *International Journal of Environmental Research and Public Health*, 15(1), 16. https://doi.org/10.3390/ijerph15010016 
 
 .. SUBSTITUTIONS SECTION
 

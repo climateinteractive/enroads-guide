@@ -53,6 +53,16 @@ The carbon sequestration of forests changes over time as the forest matures. Not
 
 For higher removals, one can adjust the “Afforestation settings” within the Assumptions view. For example, to explore the assumptions of the 2019 paper by Bastin et al., increase the slider "Max available land for afforestation" to 900mha under Assumptions.
 
+Case Studies
+--------------
+
+New York City, USA: Increasing urban tree density by 343 trees per square kilometer was shown to reduce the rate of childhood asthma by 29% in New York City. [#afforestationfn1]_
+
+.. rubric:: Footnotes
+
+.. [#afforestationfn1] Lovasi, G. S., Quinn, J. W., Neckerman, K. M., Perzanowski, M. S., & Rundle, A. (2008). Children living in areas with more street trees have lower prevalence of asthma. *Journal of Epidemiology & Community Health*, 62(7), 647–649. http://dx.doi.org/10.1136/jech.2007.071894
+
+
 .. SUBSTITUTIONS SECTION
 
 .. |imgAfforestationIcon| image:: ../images/icons/afforestation_icon.png
