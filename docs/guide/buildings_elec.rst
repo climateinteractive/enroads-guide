@@ -57,7 +57,7 @@ This input affects climate outcomes through two pathways:
 
 .. rubric:: Footnotes
 
-.. [#buildingselecfn1] https://www.who.int/airpollution/household/health-impacts/en/ 
+.. [#buildingselecfn1] World Health Organization. (2018, May 7). Household air pollution: Health impacts. https://www.who.int/airpollution/household/health-impacts/en/ 
 
 .. SUBSTITUTIONS SECTION
 

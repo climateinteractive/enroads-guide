@@ -54,10 +54,10 @@ Population gets multiplied with economic growth (GDP per capita) to equal total 
 
 .. rubric:: Footnotes
 
-.. [#popgrowthfn1] https://journalofethics.ama-assn.org/article/forced-sterilizations-hiv-positive-women-global-ethics-and-policy-failure/2015-10 
-.. [#popgrowthfn2] https://www.lifesitenews.com/news/african-women-fight-back-against-forced-coerced-sterilizations
-.. [#popgrowthfn3] https://www.thoughtco.com/u-s-governments-role-sterilizing-women-of-color-2834600
-.. [#popgrowthfn4] https://daily.jstor.org/the-little-known-history-of-the-forced-sterilization-of-native-american-women/
+.. [#popgrowthfn1] Bi, S. (2015). Forced Sterilizations of HIV-Positive Women: A Global Ethics and Policy Failure. *AMA Journal of Ethics*, 17(10), 952–957. doi: 10.1001/journalofethics.2015.17.10.pfor2-1510
+.. [#popgrowthfn2] White, H. (2014, May 28). African women fight back against forced, coerced sterilizations. https://www.lifesitenews.com/news/african-women-fight-back-against-forced-coerced-sterilizations 
+.. [#popgrowthfn3] Nittle, N. K. (2020, January 9). U.S. Government's Role in Sterilizing Women of Color. https://www.thoughtco.com/u-s-governments-role-sterilizing-women-of-color-2834600 
+.. [#popgrowthfn4] Blakemore, E. (2016, August 25). The Little-Known History of the Forced Sterilization of Native American Women. *JSTOR Daily*. https://daily.jstor.org/the-little-known-history-of-the-forced-sterilization-of-native-american-women/ 
 
 
 .. SUBSTITUTIONS SECTION

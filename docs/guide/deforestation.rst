@@ -51,8 +51,8 @@ Emissions from deforestation stay level in the Business as Usual scenario to ref
 
 .. rubric:: Footnotes
 
-.. [#deforestationfn1] https://www.nationalgeographic.com/culture/2019/05/millions-india-indigenous-people-face-eviction-from-forests/ 
-.. [#deforestationfn2] https://unpo.org/article/20563 
+.. [#deforestationfn1] Salopek, P. (2019, May 16). Millions of indigenous people face eviction from their forest homes. *National Geographic*. https://www.nationalgeographic.com/culture/2019/05/millions-india-indigenous-people-face-eviction-from-forests/ 
+.. [#deforestationfn2] Mwijuke, G. (2018, January 12). Batwa of Uganda mired in extreme poverty. *Chwezitraveller*. https://www.chwezitraveller.com/featured/batwa-ugandas-conservation-refugees-mired-in-extreme-poverty/ 
 
 .. SUBSTITUTIONS SECTION
 
