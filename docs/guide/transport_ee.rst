@@ -47,9 +47,19 @@ Model Structure
 
 Increasing the improvement rate in energy use for new vehicles and other infrastructure helps drive reductions in greenhouse gas emissions across the transport sector. There is some delay in how fast this accelerates because energy use is driven by the overall average of all capital (not just the new things). The model structure tracks overall efficiency, which includes retrofitting of existing capital.
 
+Case Studies
+--------------
+
+New York City: A program that supports students walking and biking to school spent $10 million and saved $230 million from increased physical activity, reduced air pollution, and decreased injury rates. [#transeefn2]_ 
+
+Barcelona, Spain: Replacing 20% of Barcelona's car trips with bikes could save 38 lives per year from decreased air pollution and increased physical activity, while also reducing 21,000 tons of CO2 per year. [#transeefn3]_ 
+
 .. rubric:: Footnotes
 
-.. [#transeefn1] https://www.citylab.com/transportation/2019/02/bike-friendly-cities-should-be-designed-everyone/582409/ 
+.. [#transeefn1] Lusk, A. (2019, August 23). Stop Designing Bike-Friendly Cities Only for Wealthy White Cyclists. *City Lab*. https://www.citylab.com/transportation/2019/02/bike-friendly-cities-should-be-designed-everyone/582409/ 
+.. [#transeefn2] Muennig, P. A., Epstein, M., Li, G., & Dimaggio, C. (2014). The Cost-Effectiveness of New York City’s Safe Routes to School Program. *American Journal of Public Health*, 104(7), 1294–1299. https://doi.org/10.2105/AJPH.2014.301868
+.. [#transeefn3] Rojas-Rueda, D., Nazelle, A. D., Teixidó, O., & Nieuwenhuijsen, M. (2012). Replacing car trips by increasing bike and public transport in the greater Barcelona metropolitan area: A health impact assessment study. *Environment International*, 49, 100–109. https://doi.org/10.1016/j.envint.2012.08.009
+
 
 .. SUBSTITUTIONS SECTION
 

@@ -64,8 +64,8 @@ This sector tracks several stages of nuclear power plants, or energy supply capa
 
 .. rubric:: Footnotes
 
-.. [#nuclearfn1] https://www.ucsusa.org/clean-energy/energy-water-use/water-energy-electricity-nuclear 
-.. [#nuclearfn2] https://doi.org/10.3390/ijerph13070700 
+.. [#nuclearfn1] Union of Concerned Scientists. (2013, July). How it Works: Water for Nuclear. https://www.ucsusa.org/resources/water-nuclear  
+.. [#nuclearfn2] Kyne, D., & Bolin, B. (2016). Emerging Environmental Justice Issues in Nuclear Power and Radioactive Contamination. *International Journal of Environmental Research and Public Health*, 13(7), 700. https://doi.org/10.3390/ijerph13070700
 
 .. SUBSTITUTIONS SECTION
 

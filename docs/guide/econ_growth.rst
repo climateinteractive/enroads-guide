@@ -48,7 +48,7 @@ Whereas, in the real world, there would be feedbacks to economic growth from ene
 
 .. rubric:: Footnotes
 
-.. [#econgrowthfn1] https://doi.org/10.1016/j.socscimed.2017.03.029
+.. [#econgrowthfn1] Ruckert, A., & Labonté, R. (2017). Health inequities in the age of austerity: The need for social protection policies. *Social Science & Medicine, 187*, 306–311. https://doi.org/10.1016/j.socscimed.2017.03.029 
 
 .. SUBSTITUTIONS SECTION
 
