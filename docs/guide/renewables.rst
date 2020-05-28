@@ -65,6 +65,15 @@ The most important feedback loops in the renewables sector include:
 
 3. Learning effect – every doubling of cumulative production will bring costs down 20% (aka, the progress ratio). Costs come down as supply chains, business models, and production industries grow.
 
+Case Studies 
+--------------
+United States: Scaling up wind and solar energy sources is estimated to have avoided 7,000 premature deaths and saved $87.6 B in health costs and climate impacts from 2007-2015. [#renewablesfn2]_
+
+Benin: Solar-powered drip irrigation for women farmers was shown to increase household vegetable production and consumption, increase income level, and decrease food insecurity. [#renewablesfn3]_
+
+Global: Increasing the share of renewable energy in the global energy supply to 65% could generate 6 million jobs and add $19 trillion to the world economy by 2050. [#renewablesfn4]_
+
+
 FAQs
 ----
 
@@ -84,7 +93,12 @@ FAQs
 
 .. rubric:: Footnotes
 
-.. [#renewablesfn1] https://southerncalifornialawreview.com/2019/01/04/just-transitions-article-by-ann-m-eisenberg/  
+.. [#renewablesfn1] Eisenberg, A. (2018). Just Transitions. *Southern California Law Review*, Vol. 92, No. 101, 2019. https://ssrn.com/abstract=3281846  
+.. [#renewablesfn2] Millstein, D., Wiser, R., Bolinger, M., & Barbose, G. (2017). The climate and air-quality benefits of wind and solar power in the United States. *Nature Energy*, 2(9). https://doi.org/10.1038/nenergy.2017.134
+.. [#renewablesfn3] Burney, J., Woltering, L., Burke, M., Naylor, R., & Pasternak, D. (2010). Solar-powered drip irrigation enhances food security in the Sudano–Sahel. *Proceedings of the National Academy of Sciences*, 107(5), 1848–1853. https://doi.org/10.1073/pnas.0909678107
+.. [#renewablesfn4] IEA/IRENA. (2017) Perspectives for the Energy Transition – Investment Needs for a Low-carbon Energy System. Paris/Abu Dhabi: IEA/IRENA. https://www.irena.org/DocumentDownloads/Publications/Perspectives_for_the_Energy_Transition_2017.pdf
+
+
 
 
 .. SUBSTITUTIONS SECTION

@@ -62,9 +62,15 @@ This input affects climate outcomes through two pathways:
 
 #. Changing fuel mix. Increased electrification decreases use of oil but then increases use of coal, natural gas, and renewables in electricity generation.
 
+Case Studies
+-------------
+
+United States: Increasing fuel economy standards in the United States could save consumers tens of billions of dollars per year, reduce gas consumption by tens of billions of gallons per year, and create over 300,000 jobs by 2030 while also reducing greenhouse gas emissions by millions of tons per year. [#transelecfn2]_ 
+
 .. rubric:: Footnotes
 
-.. [#transelecfn1] https://www.bloomberg.com/news/features/2019-06-11/saving-the-planet-with-electric-cars-means-strangling-this-desert 
+.. [#transelecfn1] Lombrana, L. M. (2019, June 11). Saving the Planet With Electric Cars Means Strangling This Desert. *Bloomberg Green*. https://www.bloomberg.com/news/features/2019-06-11/saving-the-planet-with-electric-cars-means-strangling-this-desert 
+.. [#transelecfn2] Bezdek, R. H., & Wendling, R. M. (2005). Potential long-term impacts of changes in US vehicle fuel efficiency standards. *Energy Policy*, 33(3), 407–419. https://doi.org/10.1016/j.enpol.2003.08.015
 
 .. SUBSTITUTIONS SECTION
 
