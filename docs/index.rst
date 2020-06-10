@@ -34,7 +34,6 @@ Table of Contents
    guide/structure
    guide/kaya
    guide/background
-   guide/general_faqs
    guide/coal
    guide/oil
    guide/gas
