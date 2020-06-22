@@ -17,7 +17,7 @@ Examples
 Big Message
 -----------
 
-* If the world is dependent on coal and natural gas for electric power, the net effect of electrification is only a slight change in in emissions and temperature.
+* If the world is dependent on coal and natural gas for electric power, the net effect of electrification is only a slight change in emissions and temperature.
 * Switching to electric modes of transport makes the biggest impact for the climate when electrical energy sources are low-carbon.
 
 Key Dynamics
