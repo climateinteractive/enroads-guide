@@ -7,6 +7,33 @@ En-ROADS Model Version History
    H2 = ~~~~~~   For main areas
    H3 = ^^^^^^   For sub areas
 
+July 2020 Release
+-----------------
+
+Graphs
+~~~~~~
+
+Fixed
+^^^^^
+- Corrected the y-axis of the "Marginal Cost of Electricity Production" graph to adjust dynamically to keep graph lines in view.
+- Corrected the "Renewables Primary Energy Demand" graph to reflect hydro in addition to renewables.
+
+Control Slider Related Changes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Fixed
+^^^^^
+- Improved descriptions for the "Year to stop building new infrastructure" sliders for coal, oil, and natural gas.
+
+Other Interface Changes
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Updated
+^^^^^^^
+- Improved email sharing of scenarios by showing a preview of the message to be sent, and allowing for a custom note to be included with the shared scenario.
+- Changed the welcome screen to direct feedback and questions to `support.climateinteractive.org <https://support.climateinteractive.org/>`_.
+- Changed the "General FAQs" link under the Help menu to direct to the Knowledge Base on the support site.
+
 
 May 2020 Release
 ------------------
