@@ -16,7 +16,7 @@ Interface Changes
 New
 ^^^
 - **Portuguese**: En-ROADS is now available in Portuguese!  Localization to more languages is in progress, and we hope to come to your native language soon.
-- Initial **iPad Support**: You can now run En-ROADS on your iPad (in Safari or your preferred browser)!  In this release, the user experience is better on iPad models released in the last 3 years.  In upcoming releases, we will be working to improve performance and refine the user experience across all iPad models.
+- **Initial iPad Support**: You can now run En-ROADS on your iPad (in Safari or your preferred browser)!  In this release, the user experience is better on iPad models released in the last 3 years.  In upcoming releases, we will be working to improve performance and refine the user experience across all iPad models.
 
 Updated
 ^^^^^^^
