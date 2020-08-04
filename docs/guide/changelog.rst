@@ -7,6 +7,31 @@ En-ROADS Model Version History
    H2 = ~~~~~~   For main areas
    H3 = ^^^^^^   For sub areas
 
+August 2020 Release
+-------------------
+
+Interface Changes
+~~~~~~~~~~~~~~~~~
+
+New
+^^^
+- **Portuguese**: En-ROADS is now available in Portuguese!  Localization to more languages is in progress, and we hope to come to your native language soon.
+- Initial **iPad Support**: You can now run En-ROADS on your iPad (in Safari or your preferred browser)!  In this release, the user experience is better on iPad models released in the last 3 years.  In upcoming releases, we will be working to improve performance and refine the user experience across all iPad models.
+
+Updated
+^^^^^^^
+- Improved performance in a number of areas, so sliders should feel smoother and more responsive (and further improvements are in the works).
+- When sharing a scenario, the user's preference for Metric vs U.S. Units is captured and remembered in the URL.
+
+Control Slider Related Changes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Fixed
+^^^^^
+- Updated the "Carbon Price" slider description to include bioenergy in the list of impacts.
+- Removed accidental mention of deforestation in the "Other greenhouse gases start year" slider description under "Methane & Other Gases".
+
+
 July 2020 Release
 -----------------
 
