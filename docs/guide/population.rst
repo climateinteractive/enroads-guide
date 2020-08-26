@@ -38,14 +38,14 @@ Equity Considerations
 Slider Settings
 ---------------
 
-The UN’s population scenarios are the basis for the population trajectories in En-ROADS. This input is indexed across the UN's scenarios, where 1 is the UN’s low growth scenario, 2 is medium, and 3 is high. The slider is limited to a range of 1.3-2.5 to reflect the 95% probability range of population deviating from the medium growth path.
+The UN’s population scenarios are the basis for the population trajectories in En-ROADS. The slider reflects the 95% probability range of population deviating from the medium growth path.
 
-================== =================== ======================== ====================
-\                  low growth          **status quo**           high growth
-================== =================== ======================== ====================
-UN Scenario        1.3 to 2            **2 to 2.4**             2.4 to 2.5
-Population by 2100 8.4 to 10.9 billion **10.9 to 12.8 billion** 12.8 to 13.2 billion
-================== =================== ======================== ====================
+================== ========================= =================== ============================ =================== ===============================
+\                  lowest growth             low growth          **status quo**               high growth          highest growth
+================== ========================= =================== ============================ =================== ===============================
+UN Scenario        low end of UN's 95% range                     middle of the UN's 95% range                      high end of the UN's 95% range 
+Population by 2100 7.3 to 7.6 billion        7.6 to 9.8 billion  **9.8 to 12 billion**        12 to 15.1 billion   15.1 to 15.6 billion
+================== ========================= =================== ============================ =================== ===============================
 
 Model Structure
 ---------------
