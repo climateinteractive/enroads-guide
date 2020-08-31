@@ -7,6 +7,53 @@ En-ROADS Model Version History
    H2 = ~~~~~~   For main areas
    H3 = ^^^^^^   For sub areas
 
+September 2020 Release
+----------------------
+
+In addition to the details listed below, we've made a video highlighting the important new features.
+
+Check it out: `September 2020 Release Video <https://youtu.be/cBz84K8DbXw>`_
+
+Interface Changes
+~~~~~~~~~~~~~~~~~
+
+New
+^^^
+- **Spanish**: En-ROADS is now available in Spanish!  We're working to bring En-ROADS to even more languages too.
+- **Air Pollution graphs**: There are two new graphs in the "Graphs > Impacts" menu showing Air Pollution (PM2.5 Emissions) from the energy sector.  Additionally, sliders were added in the "Assumptions" panel to allow for adjusting the emission factor assumptions.
+
+Model Upgrade
+~~~~~~~~~~~~~
+
+Updated
+^^^^^^^
+- En-ROADS model to version 2.7.29
+
+Control Slider Related Changes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Updated
+^^^^^^^
+- Improved the range and behavior of the Population slider.
+- Fixed the units of the Carbon Price slider to read "$/ton CO\ :sub:`2`" instead of "$/ton".
+
+Other Interface Changes
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Updated
+^^^^^^^
+
+- Fixed the Kaya view to show "Carbon Intensity of Final Energy" instead of "Carbon Intensity of Primary Energy".
+- Fixed the menu bar to make it easier to select sub-menu items on iPad.
+- Fixed tooltips on iPad so that they disappear automatically.
+- Fixed alignment of slider handles on iPad.
+- Fixed full screen layout on iPad so that the menu bar is not obscured by the Safari-provided controls.
+- Fixed the large graph window to display in the current language (instead of defaulting to English).
+- Fixed the x-axis labels on Kaya graphs to not overlap on large screens.
+- Fixed graphs to not show tooltips for years outside the displayed range.
+- Removed calibration graphs (these will be replaced by improved graphs in an upcoming release).
+
+
 August 2020 Release
 -------------------
 
