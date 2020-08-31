@@ -68,7 +68,7 @@ language = 'en'
 #   https://docs.readthedocs.io/en/stable/guides/manage-translations.html#create-translatable-files
 # See:
 #   https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-gettext_compact
-gettext_compact = False
+gettext_compact = True
 
 # Recommended by RTD:
 #   https://docs.readthedocs.io/en/stable/guides/manage-translations.html#create-translatable-files
