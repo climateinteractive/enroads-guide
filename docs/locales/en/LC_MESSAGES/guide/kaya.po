@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/kaya.rst:2 ccbfe7b845e94d4e8cd71cf3559ed7bc
+msgid "Kaya Graphs"
+msgstr ""
+
+#: ../../guide/kaya.rst:4 1544b72b55924c63a1b841cd22546e10
+msgid ""
+"This view shows the drivers of growth in carbon dioxide emissions, which "
+"reflects about two-thirds of all greenhouse gas emissions."
+msgstr ""
+
+#: ../../guide/kaya.rst:6 0af430bfd0134edba3439ef8348ece6d
+msgid ""
+"It is called the “Kaya” view because of the equation below, created by "
+"Yoichi Kaya:"
+msgstr ""
+
+#: ../../guide/kaya.rst:8 e87ee5e9004e460bac34201d51f276e9
+msgid ""
+"Global Population x GDP per Capita x Energy Intensity of GDP x Carbon "
+"Intensity of Energy = CO\\ :sub:`2` Emissions from Energy"
+msgstr ""
+
+#: ../../guide/kaya.rst:10 2aa7523537624cd988dd1accf85db1a1
+msgid "Here is one way to understand its trends over time:"
+msgstr ""
+
+#: ../../guide/kaya.rst:12 cb50e18c775d401db3e2c78cc546854c
+msgid ""
+"**Global Population** is growing—we are currently approaching 8 billion "
+"people—and anticipate growth to 11 billion by the end of the century, "
+"according to UN projections. The rate of growth is slowing over time as "
+"people have smaller families."
+msgstr ""
+
+#: ../../guide/kaya.rst:14 2469fe3c7783400eb9c56cf8f4e94517
+msgid ""
+"**GDP per Capita** is growing steadily per year, and we assume it will "
+"continue, mostly as people in rapidly developing countries such as China,"
+" India, South Africa, Mexico, Brazil, and Indonesia attain higher "
+"standards of living."
+msgstr ""
+
+#: ../../guide/kaya.rst:16 9391061198474c64bd55f6440161b768
+msgid ""
+"**Energy Intensity of GDP** is decreasing over time, due to the world "
+"economy becoming more efficient, or using less energy per unit of "
+"economic output. Technologies are improving—for example, more efficient "
+"cars, buildings, and machines—and economies are shifting from "
+"manufacturing to services. The product of global population, GDP per "
+"capita, and the energy intensity of GDP is the total amount of energy "
+"used by the global economy."
+msgstr ""
+
+#: ../../guide/kaya.rst:18 c0493812fc344e2cadfc0948620c7852
+msgid ""
+"**Carbon Intensity of Final Energy**, the amount of carbon dioxide "
+"emitted by energy use, is expected to slightly decline over time. "
+"Overall, this downward trend in carbon intensity is attributed to the "
+"gradual shifting away from fossil fuels and towards low-carbon energy "
+"sources."
+msgstr ""
+
+#: ../../guide/kaya.rst:20 decdb6701c654f15ac21531c49a038d3
+msgid ""
+"**Carbon Dioxide Emissions from Energy** is the result of all four "
+"factors multiplied together, and you can see that in the Business as "
+"Usual scenario emissions are growing. As the level of carbon dioxide in "
+"the atmosphere correlates with temperature, an increased concentration of"
+" carbon dioxide in the atmosphere leads to an increase in global "
+"temperatures."
+msgstr ""
+
+#: ../../guide/kaya.rst:22 f966b0113c1f4c9dbc61ced789741886
+msgid ""
+"These factors explain in simple terms, why emissions are increasing in "
+"the Business as Usual scenario. Improvements in efficiency and "
+"decarbonization are not yet keeping up with the strong growth in "
+"population and consumption."
+msgstr ""
+

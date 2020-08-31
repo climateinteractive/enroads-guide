@@ -1,0 +1,332 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/gas.rst:2 453bc724550a48d8a8c1bf30f3213454
+msgid "|imgGasIcon| Natural Gas"
+msgstr ""
+
+#: ../../guide/gas.rst:4 6266758f45064df69b8f9a3f9902e283
+msgid ""
+"**Discourage or encourage drilling and burning natural gas for energy.** "
+"Natural Gas is a fossil fuel that is used for electricity, heating, and "
+"industry. When burned, it releases carbon dioxide (although less than "
+"coal and oil) and, if leaked into the air, it contains high amounts of "
+"methane. Natural gas drilling uses large amounts of water and can cause "
+"contamination."
+msgstr ""
+
+#: ../../guide/gas.rst:7 d8448a886ee2425b852ade36654f2ff4
+msgid "Examples"
+msgstr ""
+
+#: ../../guide/gas.rst:9 0e0b1a15a44543fbab79b6ac0d2f35c8
+msgid "Governments implementing laws against fracking and taxes on natural gas."
+msgstr ""
+
+#: ../../guide/gas.rst:11 7092f2b5d8dd4af49ace70e6324a84bf
+msgid ""
+"Financial services industry (e.g., banks) or global development "
+"institutions (e.g., World Bank) limiting access to capital."
+msgstr ""
+
+#: ../../guide/gas.rst:14 46423d57f86d46f395003b73e3d652ce
+msgid "Big Message"
+msgstr ""
+
+#: ../../guide/gas.rst:16 5794fbcde7bb4180a7416c13c7b535aa
+msgid ""
+"More natural gas is not an effective long-term strategy for the climate –"
+" it is less carbon intensive than coal, but its infrastructure has a long"
+" life so it competes with the adoption of lower-carbon alternatives as "
+"they scale up."
+msgstr ""
+
+#: ../../guide/gas.rst:19 b4bba6a5ac894d37bdba079508a63d76
+msgid "Key Dynamics"
+msgstr ""
+
+#: ../../guide/gas.rst:21 a2fdd8cf93e149829b950860a5b1891b
+msgid ""
+"If gas is subsidized, high-carbon coal and oil decrease slightly and "
+"natural gas goes up. Overall, there is no net benefit to emissions."
+msgstr ""
+
+#: ../../guide/gas.rst:23 176835ce57c84b218eee1f4d8e5c8cd0
+msgid ""
+"If gas is taxed, in absence of other policies, the opposite of the above "
+"is true; natural gas goes down, but high-carbon coal and oil increase, "
+"with no net benefit on emissions or temperature change. We call this the "
+"“squeeze the balloon” problem – depressing fossil fuel emissions in one "
+"area causes them to pop up in another. Adding a carbon price is a good "
+"solution to the “squeeze the balloon” problem, as it addresses all fossil"
+" fuels together."
+msgstr ""
+
+#: ../../guide/gas.rst:26 0b4f20b70d1045688214b231985fdc2c
+msgid "Potential Co-Benefits of Discouraging Natural Gas"
+msgstr ""
+
+#: ../../guide/gas.rst:27 d6f925d277a045e8ac0e0dafe5707f92
+msgid ""
+"Gas drilling is water intensive, so limiting extraction can improve water"
+" security and quality at the source of production and protect wildlife "
+"habitats, biodiversity, and ecosystem services. [#gasfn1]_ [#gasfn2]_"
+msgstr ""
+
+#: ../../guide/gas.rst:28 e2234402326e4956ae8bb4f8a0aea032
+msgid ""
+"There are concerns about the health and environmental impacts of the gas "
+"drilling approach, known as fracking, that have led many places to ban "
+"it. [#gasfn3]_ [#gasfn4]_ [#gasfn5]_"
+msgstr ""
+
+#: ../../guide/gas.rst:31 df7c96592aad42f6ba3b8e32e10f6332
+msgid "Equity Considerations"
+msgstr ""
+
+#: ../../guide/gas.rst:32 9ee430ee7c2747848047b77c775c87bb
+msgid ""
+"Generally speaking, natural gas production in developed countries is "
+"disproportionately located near low-income and minority communities. "
+"[#gasfn6]_ [#gasfn7]_"
+msgstr ""
+
+#: ../../guide/gas.rst:33 3479eedbe93344e59a7bbebbdc4a4fca
+msgid ""
+"There have been cases where wealthy white communities have successfully "
+"resisted natural gas development and it has shifted to low-income "
+"communities predominantly inhabited by people of color. Low income "
+"communities often have less ability to influence development. [#gasfn8]_ "
+"[#gasfn9]_"
+msgstr ""
+
+#: ../../guide/gas.rst:34 637721a7f6e142c79b65a01372132314
+msgid ""
+"Limited data on the placements of fracking and power plant sites in "
+"developing countries exists, yet macro-level research shows that low-"
+"income communities and communities of color disproportionately experience"
+" the negative impacts of natural gas drilling and burning. [#gasfn10]_"
+msgstr ""
+
+#: ../../guide/gas.rst:37 256a74714082405ab185ba39ca0bb945
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../guide/gas.rst:39 53eb0dcfdadc4cb1908e88dfbe8fa455
+msgid ""
+"The following table highlights the numerical ranges for the labelled "
+"input levels of the Natural Gas slider. Each of the energy supply sliders"
+" is set to reflect a similar percentage cost increase or decrease for "
+"each input level."
+msgstr ""
+
+#: ../../guide/gas.rst:42 65448a168fb14d9b80896ee41bd4db0d
+msgid "\\"
+msgstr ""
+
+#: ../../guide/gas.rst:42 91615af962d8467285688c22f6db14c4
+msgid "very highly taxed"
+msgstr ""
+
+#: ../../guide/gas.rst:42 bfcd7d8e429f4bf3bebb62d5ed344afa
+msgid "highly taxed"
+msgstr ""
+
+#: ../../guide/gas.rst:42 2d07651861d74e53830744e686b47dfa
+msgid "taxed"
+msgstr ""
+
+#: ../../guide/gas.rst:42 b1c39e95c59e499fb59228fb714323f9
+msgid "status quo"
+msgstr ""
+
+#: ../../guide/gas.rst:42 c711cffc7ef843489090b500661587bd
+msgid "subsidized"
+msgstr ""
+
+#: ../../guide/gas.rst:44 edff12143fee4df78df4260c5774f5bb
+msgid "Change in price per thousand cubic feet (Mcf)"
+msgstr ""
+
+#: ../../guide/gas.rst:44 4fc6b30c203c43ee927d7c7550fb3cb4
+msgid "+$6.00 to +$2.00"
+msgstr ""
+
+#: ../../guide/gas.rst:44 0e1060298e6a4753bd29e5d96c72bd20
+msgid "+$2.00 to +$1.00"
+msgstr ""
+
+#: ../../guide/gas.rst:44 765f16e99cc94bee995b3cce77da18ca
+msgid "+$1.00 to +$0.30"
+msgstr ""
+
+#: ../../guide/gas.rst:44 c643f7f1c68f4a0cbb4bd68c0b9fed57
+msgid "**+$0.30 to -$0.30**"
+msgstr ""
+
+#: ../../guide/gas.rst:44 8a6a93295dbb403fbdb32b5a05cd385f
+msgid "-$0.30 to -$1.00"
+msgstr ""
+
+#: ../../guide/gas.rst:46 cb4503a691f94c9c9c5220f5cf8aee09
+msgid "Cost increase or decrease"
+msgstr ""
+
+#: ../../guide/gas.rst:46 5bc3e603fcc64df2ab16e47bf9cc6a72
+msgid "+200% to +60%"
+msgstr ""
+
+#: ../../guide/gas.rst:46 fc1401112de94dbe8721c2009c435cc1
+msgid "+60% to +30%"
+msgstr ""
+
+#: ../../guide/gas.rst:46 53228f3db5834fa7868ef574e69e9bff
+msgid "+30% to +10%"
+msgstr ""
+
+#: ../../guide/gas.rst:46 b980a17dcf714ba6b496c3a84f5f83b9
+msgid "**+10% to -10%**"
+msgstr ""
+
+#: ../../guide/gas.rst:46 19e9a8708f3949749cc9d6b39a4d5224
+msgid "-10% to -30%"
+msgstr ""
+
+#: ../../guide/gas.rst:51 9a335e77afae44da942a377dd5409c56
+msgid "Model Structure"
+msgstr ""
+
+#: ../../guide/gas.rst:53 4ba3678a0368420e846d0400061ea815
+msgid ""
+"The cost of natural gas affects three significant decisions regarding "
+"energy infrastructure:"
+msgstr ""
+
+#: ../../guide/gas.rst:55 b6281d4aa6db4a1c9d531ad94a2ecae9
+msgid ""
+"Investment in new capacity (whether or not to build new processing and "
+"power plants);"
+msgstr ""
+
+#: ../../guide/gas.rst:57 9c53a25f6b454783a3de53f5a57348e7
+msgid "use of capacity (whether to run existing plants);"
+msgstr ""
+
+#: ../../guide/gas.rst:59 4b9d4920b6904359abb1ad58055215be
+msgid ""
+"retirement of capacity (whether to keep plants longer or shorter than the"
+" average of ~30 years)."
+msgstr ""
+
+#: ../../guide/gas.rst:62 7591c470d76b4f788d64d0dc0dd4cca2
+msgid "FAQs"
+msgstr ""
+
+#: ../../guide/gas.rst:63 c68be23e020a43ddbd227469481b6ca6
+#, python-format
+msgid ""
+"**How can I directly force deeper reductions in natural gas use?** "
+"Consider selecting the “Stop building new natural gas infrastructure” "
+"switch in the advanced view, and changing the “% reduction in natural gas"
+" utilization” slider."
+msgstr ""
+
+#: ../../guide/gas.rst:66 8229221efe3848dd9c59c6f5beb1e3c1
+msgid "Footnotes"
+msgstr ""
+
+#: ../../guide/gas.rst:67 7986fe3c606447e1b4e5f778b2fbc166
+msgid ""
+"Bamberger, M., & Oswald, R. E. (2012). Impacts of Gas Drilling on Human "
+"and Animal Health. *NEW SOLUTIONS: A Journal of Environmental and "
+"Occupational Health Policy*, 22(1), 51–77. "
+"https://doi.org/10.2190/NS.22.1.e"
+msgstr ""
+
+#: ../../guide/gas.rst:68 22c7d129506e4f339d768280765e0707
+msgid ""
+"Ridlington, E., & Rumpler, J. (2013). Fracking by the Numbers: Key "
+"Impacts of Dirty Drilling at the State and National Level. *Environment "
+"America*. Retrieved from "
+"https://environmentamerica.org/sites/environment/files/reports/EA_FrackingNumbers_scrn.pdf"
+msgstr ""
+
+#: ../../guide/gas.rst:69 1eb5c0d6a8364cca9b2fe7eaad37f53c
+msgid ""
+"Good, K. (2015, February 12). These 4 Countries Have Banned Fracking ... "
+"Why Can't the U.S. Get On Board? Retrieved from "
+"https://www.onegreenplanet.org/environment/countries-except-united-"
+"states-that-have-banned-fracking/"
+msgstr ""
+
+#: ../../guide/gas.rst:70 9fdb06b2cad846dabec586394a96486e
+msgid ""
+"Food & Water Watch. (2019, August 12). Local Resolutions Against "
+"Fracking. Retrieved from https://www.foodandwaterwatch.org/insight/local-"
+"resolutions-against-fracking"
+msgstr ""
+
+#: ../../guide/gas.rst:71 26cff82fdd444b6b9731d26dbf8fb6d4
+msgid ""
+"Carpenter, D. O. (2016). Hydraulic fracturing for natural gas: impact on "
+"health and environment. *Reviews on Environmental Health*, 31(1). "
+"https://doi.org/10.1515/reveh-2015-0055"
+msgstr ""
+
+#: ../../guide/gas.rst:72 9d520cacd6b749d68ffc3ec11e3f3a48
+msgid ""
+"Clough, E. (2018). Environmental justice and fracking: A review. *Current"
+" Opinion in Environmental Science & Health*, 3, 14–18. "
+"https://doi.org/10.1016/j.coesh.2018.02.005"
+msgstr ""
+
+#: ../../guide/gas.rst:73 17dc0e5516af4154a79922f8bacd1eeb
+msgid ""
+"Bienkowski, B. (2016, February 17). Fracking's Costs Fall "
+"Disproportionately on the Poor and Minorities in South Texas. *Inside "
+"Climate News*. https://insideclimatenews.org/news/10022016/poor-"
+"minorities-carry-burden-fracking-waste-south-texas-eagle-ford-shale"
+msgstr ""
+
+#: ../../guide/gas.rst:74 23841df0416043acbb5fb5df88d7505b
+msgid ""
+"Jula, M. (2018, April 17). Parents didn't want fracking near their "
+"school. So the oil company chose a poorer school, instead. *Mother "
+"Jones*. https://www.motherjones.com/environment/2018/04/an-oil-company-"
+"faced-pushback-about-fracking-near-a-charter-so-it-moved-next-to-a-low-"
+"income-public-school/"
+msgstr ""
+
+#: ../../guide/gas.rst:75 09e0d9f7aac54539b410d91394b40cee
+msgid ""
+"Gislason, M., & Andersen, H. (2016). The Interacting Axes of "
+"Environmental, Health, and Social Justice Cumulative Impacts: A Case "
+"Study of the Blueberry River First Nations. *Healthcare*, 4(4), 78. "
+"https://doi.org/10.3390/healthcare4040078"
+msgstr ""
+
+#: ../../guide/gas.rst:76 20fd81c9a97641568ef355ff35757f32
+msgid ""
+"Perera, F. (2017). Pollution from Fossil-Fuel Combustion is the Leading "
+"Environmental Threat to Global Pediatric Health and Equity: Solutions "
+"Exist. *International Journal of Environmental Research and Public "
+"Health*, 15(1), 16. https://doi.org/10.3390/ijerph15010016"
+msgstr ""
+

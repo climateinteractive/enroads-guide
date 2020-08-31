@@ -1,0 +1,222 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/afforestation.rst:2 09ebba831f664617a021815b9c4c886f
+msgid "|imgAfforestationIcon| Afforestation"
+msgstr ""
+
+#: ../../guide/afforestation.rst:4 27f3abd859d246169625617e7d7d4db7
+msgid ""
+"**Plant new forests and restore old forests.** As trees grow, they draw "
+"carbon out of the air, which reduces the concentration of carbon dioxide."
+" However, without care, large-scale afforestation can compromise "
+"biodiversity and historical land rights."
+msgstr ""
+
+#: ../../guide/afforestation.rst:7 228595b7530c4e7788f58d832dd4cce4
+msgid "Examples"
+msgstr ""
+
+#: ../../guide/afforestation.rst:9 a96e250d71a94766ba5f602c1d6137a8
+msgid ""
+"Government policies, incentives, and funding to identify available land, "
+"plant trees, and manage forests."
+msgstr ""
+
+#: ../../guide/afforestation.rst:11 c8cc1a7ec0bf436ebd908cc479712d37
+msgid "Business, land owner, and public support for large scale tree planting."
+msgstr ""
+
+#: ../../guide/afforestation.rst:14 ab97395cbac24c4180d9220974d92d22
+msgid "Big Message"
+msgstr ""
+
+#: ../../guide/afforestation.rst:16 e6317adcc90a43ce889665f115c67e6d
+msgid ""
+"Afforestation has the potential to pull significant amounts of carbon "
+"dioxide out of the atmosphere, but land availability and other effects "
+"should be considered. It would take an immense amount of land to make a "
+"large impact on temperature change."
+msgstr ""
+
+#: ../../guide/afforestation.rst:19 c9d8e4ed7b69431bb01e0033184d59c5
+msgid "Key Dynamics"
+msgstr ""
+
+#: ../../guide/afforestation.rst:21 a5082513dd784c4fa928586e19b5a28a
+msgid ""
+"Growing more trees boosts global removal of CO\\ :sub:`2` from the "
+"atmosphere, as photosynthesis pulls carbon into biomass and soils. Watch "
+"the temperature decrease modestly as a result."
+msgstr ""
+
+#: ../../guide/afforestation.rst:23 6baeb707df1d42f8a1e042bb16de6648
+msgid ""
+"Explore the graph “Land for Carbon Dioxide Removal.\" The land area of "
+"India is 300 million hectares, so if we were to forest an area of that "
+"size we would still not see much change in temperature."
+msgstr ""
+
+#: ../../guide/afforestation.rst:26 eb2a6c5cf2e346e1bafbcf5bb729d72c
+msgid "Potential Co-Benefits of Increasing Afforestation"
+msgstr ""
+
+#: ../../guide/afforestation.rst:27 39ce8ac55f394b67803cdc7247baca6d
+msgid ""
+"New forests can create new ecosystems and protect existing wildlife "
+"habitats, biodiversity, and ecosystem services."
+msgstr ""
+
+#: ../../guide/afforestation.rst:28 e8f9707d2741490c8b1fd8bd53183d09
+msgid ""
+"Larger and healthier tree canopies in cities reduce urban heat island "
+"effects and energy needed for heating and cooling."
+msgstr ""
+
+#: ../../guide/afforestation.rst:29 b303ab8bb4634a33a3eee28449f9ae0a
+msgid "Jobs are created in tree planting, care, and maintenance."
+msgstr ""
+
+#: ../../guide/afforestation.rst:32 4e3a71fc7fb94aafad6e58af40817347
+msgid "Equity Considerations"
+msgstr ""
+
+#: ../../guide/afforestation.rst:33 72d4b2ac484942158e038853e5b715de
+msgid ""
+"Afforestation entails shifting large areas of land into forests. This can"
+" sometimes result in monocultures of trees that are all the same age, "
+"which does not contribute to healthy biodiversity as much as natural "
+"forests."
+msgstr ""
+
+#: ../../guide/afforestation.rst:34 b905586e4a6d41b8b6408f088a9b7f5c
+msgid ""
+"Large shifts in land can compromise historic land access, so involving "
+"low-income and minority communities, including Indigenous peoples, in the"
+" process of policy development and implementation is essential."
+msgstr ""
+
+#: ../../guide/afforestation.rst:37 4c0a2c00001a4845ac6d04457bcb3147
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../guide/afforestation.rst:39 72cab67425a540c5b86c9cef0c35dde2
+#, python-format
+msgid ""
+"The Afforestation slider changes the percentage of available land that is"
+" used to grow new forests. 100% would mean that 700 Mha of land are "
+"covered in forests. 700 Mha represents approximately 25% of current "
+"grassland area, nearly 10% of all land that is not currently forest, and "
+"just over the difference in forest area back in 1850 until now (i.e., "
+"there is 630 Mha less forest area today than in 1850)."
+msgstr ""
+
+#: ../../guide/afforestation.rst:42 e24546d8155840688addc793d38f27d4
+msgid "\\"
+msgstr ""
+
+#: ../../guide/afforestation.rst:42 6752c265460042d89d68bce289d8361f
+msgid "**status quo**"
+msgstr ""
+
+#: ../../guide/afforestation.rst:42 1394dd5c114d48b99f8e50cb70252a0c
+msgid "low growth"
+msgstr ""
+
+#: ../../guide/afforestation.rst:42 693bc1198d8248688c0b990a4f0743eb
+msgid "medium growth"
+msgstr ""
+
+#: ../../guide/afforestation.rst:42 7139eb0194094cbea32878e343651bc7
+msgid "high growth"
+msgstr ""
+
+#: ../../guide/afforestation.rst:44 21840c9f84b24476b39860a61897a841
+msgid "Percent available land for afforestation"
+msgstr ""
+
+#: ../../guide/afforestation.rst:44 1c6076d39312411690f2e6a01d4f7be5
+msgid "**0% to +15%**"
+msgstr ""
+
+#: ../../guide/afforestation.rst:44 588147eac989487bbb4e58bab4464732
+msgid "+15% to +40%"
+msgstr ""
+
+#: ../../guide/afforestation.rst:44 589020fe14204ba99d0742c6fef92f25
+msgid "+40% to +70%"
+msgstr ""
+
+#: ../../guide/afforestation.rst:44 946f359a5be44f709055b051ad514724
+msgid "+70% to +100%"
+msgstr ""
+
+#: ../../guide/afforestation.rst:48 15a8c6201ce14b5bae8e40fe8c77266e
+msgid "Model Structure"
+msgstr ""
+
+#: ../../guide/afforestation.rst:50 78ff8ab1bbda49ffb1f426de326100d1
+msgid ""
+"The carbon sequestration of forests changes over time as the forest "
+"matures. Notice that net carbon removals are different than total "
+"removals due to carbon loss in older or unhealthy forests."
+msgstr ""
+
+#: ../../guide/afforestation.rst:52 9b77db4d80fe48118687462883eb8cd6
+msgid ""
+"**Maximum amount of available land:** With a growing time of 80 years for"
+" new forests and 2%/year in total forest carbon loss, 700 Mha achieves an"
+" annual removal consistent with the mid-point of estimates of "
+"afforestation potential from the 2018 ‘Greenhouse gas removal’ report by "
+"the Royal Society (range of 3-20 in CO2 GtonsCO2/year)."
+msgstr ""
+
+#: ../../guide/afforestation.rst:54 3cd0dac2b60d4c868c2cd67d4843ac78
+msgid ""
+"For higher removals, one can adjust the “Afforestation settings” within "
+"the Assumptions view. For example, to explore the assumptions of the 2019"
+" paper by Bastin et al., increase the slider \"Max available land for "
+"afforestation\" to 900mha under Assumptions."
+msgstr ""
+
+#: ../../guide/afforestation.rst:57 4c857a65d7d049c29f09ec399b2b2924
+msgid "Case Studies"
+msgstr ""
+
+#: ../../guide/afforestation.rst:59 ec59c64edf7c4269aca66a7df3d8f882
+#, python-format
+msgid ""
+"New York City, USA: Increasing urban tree density by 343 trees per square"
+" kilometer was shown to reduce the rate of childhood asthma by 29% in New"
+" York City. [#afforestationfn1]_"
+msgstr ""
+
+#: ../../guide/afforestation.rst:62 c4e8abd6a0fa4f80bed5e46d01fb7bf0
+msgid "Footnotes"
+msgstr ""
+
+#: ../../guide/afforestation.rst:63 ac8b891ade574dde99285170ca75d3ba
+msgid ""
+"Lovasi, G. S., Quinn, J. W., Neckerman, K. M., Perzanowski, M. S., & "
+"Rundle, A. (2008). Children living in areas with more street trees have "
+"lower prevalence of asthma. *Journal of Epidemiology & Community Health*,"
+" 62(7), 647–649. http://dx.doi.org/10.1136/jech.2007.071894"
+msgstr ""
+

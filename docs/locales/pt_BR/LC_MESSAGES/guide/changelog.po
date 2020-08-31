@@ -1,0 +1,384 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/changelog.rst:2 8580f9027958474bb2f1a6621021a294
+msgid "En-ROADS Model Version History"
+msgstr ""
+
+#: ../../guide/changelog.rst:11 4e055ae70ecc4b77b798a8444d4e87af
+msgid "August 2020 Release"
+msgstr ""
+
+#: ../../guide/changelog.rst:14 81d86709a9f44495a974a4f4fbd123e7
+msgid "Interface Changes"
+msgstr ""
+
+#: ../../guide/changelog.rst:17 ../../guide/changelog.rst:158
+#: 9cae56a7971f4e778ae088978ad6c076 e445dbb04c284fa88c4c62d118c5d358
+msgid "New"
+msgstr ""
+
+#: ../../guide/changelog.rst:18 61c9edda6881449aaad3336fa98f934a
+msgid ""
+"**Portuguese**: En-ROADS is now available in Portuguese!  Localization to"
+" more languages is in progress, and we hope to come to your native "
+"language soon."
+msgstr ""
+
+#: ../../guide/changelog.rst:19 8ab687a565f04d588021cee90650efbd
+msgid ""
+"**Initial iPad Support**: You can now run En-ROADS on your iPad (in "
+"Safari or your preferred browser)!  In this release, the user experience "
+"is better on iPad models released in the last 3 years.  In upcoming "
+"releases, we will be working to improve performance and refine the user "
+"experience across all iPad models."
+msgstr ""
+
+#: ../../guide/changelog.rst:22 ../../guide/changelog.rst:57
+#: ../../guide/changelog.rst:70 ../../guide/changelog.rst:86
+#: ../../guide/changelog.rst:114 ../../guide/changelog.rst:132
+#: ../../guide/changelog.rst:148 4a8e3cb6c1b54b22bbdf4571a4d5483b
+#: 4cfcfdbe208148ca8c12fb9c935d7d2a 50f7afae5dc04be1b893292046078f63
+#: 67ae80e0ae294ad1a29888fca69851f5 8c3140f4f57a413d84da6db1ac206e05
+#: ae58a06b5ff3489c9e2be9c13bfc97d1 cd86cddf1d014650bdbffa6097e26f21
+msgid "Updated"
+msgstr ""
+
+#: ../../guide/changelog.rst:23 6e9d451f179546ae9bbb7cbf4e264793
+msgid ""
+"Improved performance in a number of areas, so sliders should feel "
+"smoother and more responsive (and further improvements are in the works)."
+msgstr ""
+
+#: ../../guide/changelog.rst:24 78eef3f7037d4b9ea8625752f3ea3bf3
+msgid ""
+"When sharing a scenario, the user's preference for Metric vs U.S. Units "
+"is captured and remembered in the URL."
+msgstr ""
+
+#: ../../guide/changelog.rst:27 ../../guide/changelog.rst:47
+#: ../../guide/changelog.rst:140 461c4a3a15a24c66b833d618cad78b78
+#: 709d88d840a64eca87eea6ee02135e47 b39c11a0bf6c49f7969db4ebd04f9711
+msgid "Control Slider Related Changes"
+msgstr ""
+
+#: ../../guide/changelog.rst:30 ../../guide/changelog.rst:42
+#: ../../guide/changelog.rst:50 ../../guide/changelog.rst:76
+#: ../../guide/changelog.rst:96 ../../guide/changelog.rst:124
+#: ../../guide/changelog.rst:142 2d959e5aeb684064a80af1a139d37367
+#: 5b3afc2724464c178fd54c44fe7c10b5 6f77048c960447c7803d208637c57e46
+#: 812de5d7ab3e45349d38e0cab6082028 8efd484d0e794674bd69db4b3a8cd157
+#: 8faf2e9c71cc410ea169d982528e612c cf989d46ffda4b05b5334e529e4331b0
+msgid "Fixed"
+msgstr ""
+
+#: ../../guide/changelog.rst:31 975c84ddc87849f5933c37787ff02b7d
+msgid ""
+"Updated the \"Carbon Price\" slider description to include bioenergy in "
+"the list of impacts."
+msgstr ""
+
+#: ../../guide/changelog.rst:32 01e5150460094f66a83526fc62f5cd6e
+msgid ""
+"Removed accidental mention of deforestation in the \"Other greenhouse "
+"gases start year\" slider description under \"Methane & Other Gases\"."
+msgstr ""
+
+#: ../../guide/changelog.rst:36 c4a40481b3ee4e539cb9f537eccbe0cb
+msgid "July 2020 Release"
+msgstr ""
+
+#: ../../guide/changelog.rst:39 ../../guide/changelog.rst:92
+#: ../../guide/changelog.rst:121 49c4002adc1c4c9599c5b9fee845e497
+#: 6e6e560143ba4530b3f1cb601f02eecc f8e9f4a218c34a42978cd755d7c93cf3
+msgid "Graphs"
+msgstr ""
+
+#: ../../guide/changelog.rst:43 ee3ced7c6b634d84aa14a4fcfb597ff5
+msgid ""
+"Corrected the y-axis of the \"Marginal Cost of Electricity Production\" "
+"graph to adjust dynamically to keep graph lines in view."
+msgstr ""
+
+#: ../../guide/changelog.rst:44 93267bf68bb34f3ca15edc24785e97d3
+msgid ""
+"Corrected the \"Renewables Primary Energy Demand\" graph to reflect hydro"
+" in addition to renewables."
+msgstr ""
+
+#: ../../guide/changelog.rst:51 f59bd825445b4213bb73e8a8a9a970f9
+msgid ""
+"Improved descriptions for the \"Year to stop building new "
+"infrastructure\" sliders for coal, oil, and natural gas."
+msgstr ""
+
+#: ../../guide/changelog.rst:54 ../../guide/changelog.rst:156
+#: dc67df0c0a1147a6a28ccf8f4a210b09 edba2d9e86ee4bf19fd4bb2620d9d70a
+msgid "Other Interface Changes"
+msgstr ""
+
+#: ../../guide/changelog.rst:58 4a6afb11456b4776af57579c714fe111
+msgid ""
+"Improved email sharing of scenarios by showing a preview of the message "
+"to be sent, and allowing for a custom note to be included with the shared"
+" scenario."
+msgstr ""
+
+#: ../../guide/changelog.rst:59 87e521183c6148b897c3b286fecbab28
+msgid ""
+"Changed the welcome screen to direct feedback and questions to "
+"`support.climateinteractive.org "
+"<https://support.climateinteractive.org/>`_."
+msgstr ""
+
+#: ../../guide/changelog.rst:60 f22b682c6b7649309d55ea2517452936
+msgid ""
+"Changed the \"General FAQs\" link under the Help menu to direct to the "
+"Knowledge Base on the support site."
+msgstr ""
+
+#: ../../guide/changelog.rst:64 e3ca89f3d7d949bd80b3279d5135f88d
+msgid "May 2020 Release"
+msgstr ""
+
+#: ../../guide/changelog.rst:67 ../../guide/changelog.rst:83
+#: ../../guide/changelog.rst:111 52d44b81fe3248bc90a39c6968f2bcf7
+#: a1e143a0a48f4e96b732a8d15e75f2dd a7e2c0e9301942e0a78fab7578463692
+msgid "Model Upgrade"
+msgstr ""
+
+#: ../../guide/changelog.rst:71 4aba88659af849f6bc0d0f0635c17956
+msgid "En-ROADS model to version 2.7.19"
+msgstr ""
+
+#: ../../guide/changelog.rst:72 8e7ea58ed3764ca58c1a94855cb273df
+msgid ""
+"Add email sharing of your current scenario to \"Share Scenario\" menu "
+"button."
+msgstr ""
+
+#: ../../guide/changelog.rst:73 c2688b9af9224ebfacbbdaf39a063da4
+msgid "Update GDP with 2018 World Bank data."
+msgstr ""
+
+#: ../../guide/changelog.rst:77 997e2670c3114c6b8d6078bceb3d4673
+msgid "Minor edits to description texts"
+msgstr ""
+
+#: ../../guide/changelog.rst:80 080f7cd8e18544f1a17a2c24d6e026a8
+msgid "April 2020 Release"
+msgstr ""
+
+#: ../../guide/changelog.rst:87 7d403956e9054d0aabfecf94ff56a54e
+msgid "En-ROADS model to version 2.7.14"
+msgstr ""
+
+#: ../../guide/changelog.rst:88 6f0bae5c9111477188be5d2ab1d97c53
+msgid "Added link to \"Uses for En-ROADS\" under the Help menu"
+msgstr ""
+
+#: ../../guide/changelog.rst:89 2ba5e99ebc0140308202987423b0309e
+msgid ""
+"Add menu control for \"Reset Policies\" sliders and \"Reset Assumptions\""
+" sliders under \"Simulation\" menu; changed wording of  \"Reset\" to "
+"\"Reset Policies & Assumptions.\""
+msgstr ""
+
+#: ../../guide/changelog.rst:93 636098edfa82406ea2d0bd852c6a7d82
+msgid ""
+"When switching from Metric Units to U.S. Units, the \"Land for Carbon "
+"Dioxide Removal\" graph switches from \"Million hectares\" to \"Million "
+"acres\"."
+msgstr ""
+
+#: ../../guide/changelog.rst:97 d33b1cf8cbd84a37b46a0b6be3b24116
+msgid ""
+"Improved location of icons in the top toolbar to help avoid accidental "
+"clicks on the “Reset Policies & Assumptions” icon (formerly, “Reset "
+"sliders” tool tip)."
+msgstr ""
+
+#: ../../guide/changelog.rst:98 7a7828602a4b4277a28131be6320f370
+msgid ""
+"Correcting Large graph feature so graphs are sized correctly in the "
+"remote window."
+msgstr ""
+
+#: ../../guide/changelog.rst:99 c8573f16b2294f94abb357509726ec0d
+msgid ""
+"Edits to description texts for \"Coal carbon capture & storage (CCS) "
+"(tax/subsidy)\" slider, \"Gas carbon capture & storage (CCS) "
+"(tax/subsidy)\" slider and the overall description for Nuclear in the "
+"advanced views."
+msgstr ""
+
+#: ../../guide/changelog.rst:103 17c737f626b04190b30aa65ccbfba007
+msgid "March 2020 Release"
+msgstr ""
+
+#: ../../guide/changelog.rst:105 40b9cdfad89c4477a5feed5a86908f16
+msgid ""
+"Along with the details listed below, we've made a cool video highlighting"
+" the important feature additions and changes to model behavior."
+msgstr ""
+
+#: ../../guide/changelog.rst:107 6b56f4855c03416593cf5701404100d5
+msgid "Check it out:  `March 2020 Release Video <https://youtu.be/AFgCByfpwSg>`_"
+msgstr ""
+
+#: ../../guide/changelog.rst:115 49f60f622aa24f35a5946e44ab09a022
+msgid "En-ROADS model to version 2.7.11"
+msgstr ""
+
+#: ../../guide/changelog.rst:116 3d719dbecbc64e13bea5bff34ca1e718
+msgid ""
+"Updated the equation for the Energy Intensity of New Capital to better "
+"respond to price effects"
+msgstr ""
+
+#: ../../guide/changelog.rst:117 f68106a612754018bac95df097397e90
+msgid ""
+"BAU improvement rate in emission intensity and Annual improvement rate of"
+" emission intensity for F-gases were adjusted to reflect SSP2 baseline "
+"trajectories"
+msgstr ""
+
+#: ../../guide/changelog.rst:118 5008f40abe8f4f16a53963bac4835a4a
+msgid ""
+"The settings for CH\\ :sub:`4` and N\\ :sub:`2`\\O emissions from "
+"agriculture and waste have also been slightly updated"
+msgstr ""
+
+#: ../../guide/changelog.rst:125 7446a26dedf54be48424f444c2254f9f
+msgid ""
+"Add “Hydro” data to “Average Cost of Electricity Production” graph and "
+"correct the name of “Renew/Hydro” to Renewables”"
+msgstr ""
+
+#: ../../guide/changelog.rst:126 462cb3df90c64d1ba14b1b99e49fb177
+msgid "Corrected several missing Related Graphs in some advanced views"
+msgstr ""
+
+#: ../../guide/changelog.rst:127 ccd4369cbd3d4e9e8c3cf48f9bb9892f
+msgid "Corrected the variable in “Marginal Cost of Renewables” graph"
+msgstr ""
+
+#: ../../guide/changelog.rst:128 16d981a484634921a7e88b4e56135a29
+msgid ""
+"Corrected typo in descriptions for N\\ :sub:`2`\\O and CH\\ :sub:`4` "
+"graphs (Megatons was corrected to 1x10\\ :sup:`6`)"
+msgstr ""
+
+#: ../../guide/changelog.rst:129 237157a3a9944b5d81b3bd45c320036f
+msgid ""
+"The y-axis label in graph \"CO\\ :sub:`2` Emissions\" was corrected to "
+"Gigatons CO\\ :sub:`2`\\/year"
+msgstr ""
+
+#: ../../guide/changelog.rst:133 13c3607b544446a78ce7233683deab02
+msgid ""
+"Edited the description for “CH\\ :sub:`4` Emissions” graph and corrected "
+"the plotted variable to display anthropogenic CH\\ :sub:`4` emissions"
+msgstr ""
+
+#: ../../guide/changelog.rst:134 a5f47a91692d4f91a136dd843b65716f
+msgid "Edited “Storage Costs” graph description for clarity"
+msgstr ""
+
+#: ../../guide/changelog.rst:135 4f8c52c53d0b4573b9330a19dc94afcd
+msgid "Edited the description for “Cumulative CO\\ :sub:`2` Emissions” graph"
+msgstr ""
+
+#: ../../guide/changelog.rst:136 24fdb5874fb44e8fb8ea9999e533b051
+msgid ""
+"Changed the graph name from “Fuel Production Cost\" to \"Fuel Production "
+"Cost by Source\" to make it consistent with the titles of the other "
+"graphs in the Financial category that are broken out by energy source"
+msgstr ""
+
+#: ../../guide/changelog.rst:137 6fa6a9db9e2d4d0998b058ed30797434
+msgid ""
+"Added “Greenhouse Gas Net Emissions by Gas—Area” to related graphs for "
+"Deforestation"
+msgstr ""
+
+#: ../../guide/changelog.rst:143 02569e4aedd44024b71e02ef16915e00
+msgid "Updated New Tech slider description to match what the slider settings do"
+msgstr ""
+
+#: ../../guide/changelog.rst:144 22a565d2357349a79e96442f4c7ae150
+msgid ""
+"Added back a missing description for slider, “Coal CCS R&D breakthrough "
+"cost reduction”"
+msgstr ""
+
+#: ../../guide/changelog.rst:145 56dc972f4840418ab0c05759a28e5b24
+msgid "Edit description for slider, “% Reduction in Coal Utilization”"
+msgstr ""
+
+#: ../../guide/changelog.rst:151 6ce9f85f6d08496db886d6eb56d42442
+msgid ""
+"Edit slider names referring to final carbon price, removing the word "
+"“target” so it is now:"
+msgstr ""
+
+#: ../../guide/changelog.rst:150 9dd2b154309344aab87233bb79b2852a
+msgid "Final carbon price (previously, Final Carbon price final target)"
+msgstr ""
+
+#: ../../guide/changelog.rst:151 e5ac3f61142b43f68da4d6503cf6f4d8
+msgid ""
+"Year to start achieving final carbon price (previously, Year to start "
+"achieving final carbon price target)"
+msgstr ""
+
+#: ../../guide/changelog.rst:152 cb3c361804384385823900b866962cf7
+msgid ""
+"Years to achieve final carbon price (previously, Years to achieve final "
+"carbon price target)"
+msgstr ""
+
+#: ../../guide/changelog.rst:153 fd5cabfcbafb4efab3e298a10f96490a
+msgid ""
+"Added back assumptions sliders for \"Methane emissions from biological "
+"activity\", \"Effect of temperature on methane emissions from permafrost "
+"and clathrates\", and \"Temperature threshold for permafrost and "
+"clathrates\""
+msgstr ""
+
+#: ../../guide/changelog.rst:159 98f5840cd8354261b092ec7451b3e40f
+msgid ""
+"You can create a large copy of any of the graphs to use on additional "
+"screens or monitors. The graph outputs in the copies remain connected to "
+"changes in the control input sliders. These graphs are accessed under the"
+" View menu, as “Large Left Graph and “Large Right graph”. You may select "
+"multiple copies of left or right graphs."
+msgstr ""
+
+#: ../../guide/changelog.rst:162 8d5b08eca31040b498fdd2edd3594a49
+msgid "Coming Soon"
+msgstr ""
+
+#: ../../guide/changelog.rst:163 0ddf6f9990ed47368a13e7825f3035df
+msgid ""
+"Localization to many languages is in process! We hope to come to your "
+"native language soon!"
+msgstr ""
+

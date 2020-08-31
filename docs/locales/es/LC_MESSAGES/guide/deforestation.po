@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/deforestation.rst:2 9c0ed3dd7a7248ac8bf5639fa2f95c9f
+msgid "|imgDeforestationIcon| Deforestation"
+msgstr ""
+
+#: ../../guide/deforestation.rst:4 a383b15cc1454e5ab29848d8532f4d31
+msgid ""
+"**Decrease or increase the loss of forests for agricultural and wood "
+"product uses.** Deforestation often entails burning and removing forests "
+"to clear land for crops like soybeans, corn, or palm oil. Forest "
+"protection efforts increase biodiversity and can support community "
+"resilience."
+msgstr ""
+
+#: ../../guide/deforestation.rst:7 d41d12fc5b27450a9c22ce25fc89d131
+msgid "Examples"
+msgstr ""
+
+#: ../../guide/deforestation.rst:9 54c1fe46b7af43b592bf10ec17f864b7
+msgid ""
+"Government policy to preserve forested land and place restrictions on "
+"industries such as soybean and/or palm oil."
+msgstr ""
+
+#: ../../guide/deforestation.rst:11 5f65ac1439404caa956853d975e9d534
+msgid "Increased support for indigenous land rights."
+msgstr ""
+
+#: ../../guide/deforestation.rst:13 bf39cf40e7bf4242a00e09ef6ebd8b95
+msgid "Public support and campaigns to support land preservation."
+msgstr ""
+
+#: ../../guide/deforestation.rst:16 07e98e5e080d4c8d9dfea91c7178caa0
+msgid "Big Messages"
+msgstr ""
+
+#: ../../guide/deforestation.rst:18 e9d1df62dff440f1afe2c5663f45f108
+msgid ""
+"Efforts to reduce deforestation are relatively low leverage for the "
+"climate, because the influence from energy CO\\ :sub:`2` emissions is so "
+"dominant, but stopping deforestation is still part of a multi-pronged "
+"effort to address climate change."
+msgstr ""
+
+#: ../../guide/deforestation.rst:20 104d6ea159c04e929c5535032a18c317
+msgid ""
+"Protecting forests is helpful for many reasons other than climate action,"
+" including biodiversity conservation and protection of native peoples' "
+"lands."
+msgstr ""
+
+#: ../../guide/deforestation.rst:23 271986c4186b4a8ea6e82bd0c039db2c
+msgid "Key Dynamics"
+msgstr ""
+
+#: ../../guide/deforestation.rst:25 0bec2c98fa024ff88c0e96db77e86c28
+msgid ""
+"Highly reducing deforestation emissions reduces temperature less than "
+"most people would estimate. View the “Greenhouse Gas Net Emissions by Gas"
+" – Area” graph to see the role of land use (deforestation) CO\\ :sub:`2` "
+"relative to all the other sources of emissions."
+msgstr ""
+
+#: ../../guide/deforestation.rst:28 3b9c0a0aab5144298e7db9fc74c9cefa
+msgid "Potential Co-Benefits of Decreasing Deforestation"
+msgstr ""
+
+#: ../../guide/deforestation.rst:29 f4de30e42bee4eeba20a76b7268c6d7e
+msgid ""
+"Forests protect biodiversity and provide ecosystem services and food "
+"sources."
+msgstr ""
+
+#: ../../guide/deforestation.rst:30 c7e027fd757b4308bba47df9665c7cd9
+msgid "Forest preservation reduces erosion and prevents soil loss."
+msgstr ""
+
+#: ../../guide/deforestation.rst:31 ad33f3d4387c45fbba87a51f5363a2ab
+msgid ""
+"Forests provide livelihoods for people (e.g., small-scale resource "
+"gathering and sustainable forestry) that can be lost when land is shifted"
+" to other uses."
+msgstr ""
+
+#: ../../guide/deforestation.rst:34 b2f05095d703402dae24feec80c1971d
+msgid "Equity Considerations"
+msgstr ""
+
+#: ../../guide/deforestation.rst:35 fc57c2283b6c49e4b210ec818c051e03
+msgid ""
+"Forest preservation efforts have sometimes restricted the land access of "
+"indigenous people who have lived sustainably on the land for generations."
+" Policies should be created with local stakeholder engagement. "
+"[#deforestationfn1]_ [#deforestationfn2]_"
+msgstr ""
+
+#: ../../guide/deforestation.rst:38 b46eabd7d6e34dd58897365c48315eaa
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../guide/deforestation.rst:41 6c48e49d84f34517afd56d4e2d25dcd7
+msgid "\\"
+msgstr ""
+
+#: ../../guide/deforestation.rst:41 90835f43bdf74ea891220a56ff4f0dc1
+msgid "highly reduced"
+msgstr ""
+
+#: ../../guide/deforestation.rst:41 7b0683b302eb411785b46ec36f389178
+msgid "moderately reduced"
+msgstr ""
+
+#: ../../guide/deforestation.rst:41 b11e3535656448cdbba8ed62f7a54ac4
+msgid "**status quo**"
+msgstr ""
+
+#: ../../guide/deforestation.rst:41 fd42a99e10574bfca081ec85eafc0742
+msgid "increased"
+msgstr ""
+
+#: ../../guide/deforestation.rst:43 3a82d81e825042c6a0b457e1cf96b5e3
+msgid "Percent per year reduction or increase"
+msgstr ""
+
+#: ../../guide/deforestation.rst:43 5704ec87408c4209846a59b0676eccd1
+msgid "-10% to -4%"
+msgstr ""
+
+#: ../../guide/deforestation.rst:43 f9f0a7b5483945caa536d4e7da261985
+msgid "-4% to -1%"
+msgstr ""
+
+#: ../../guide/deforestation.rst:43 7607fd1cd67a42879d2bf50f43b58f3c
+msgid "**-1% to 0%**"
+msgstr ""
+
+#: ../../guide/deforestation.rst:43 7b213e3abc7c439b8dc61f7deed3e708
+msgid "0% to +1%"
+msgstr ""
+
+#: ../../guide/deforestation.rst:48 8e2c7b37ef9642548186a53e7323bb07
+msgid "Model Structure"
+msgstr ""
+
+#: ../../guide/deforestation.rst:50 4237f6c9cc414bd1b081f24b6f7aa091
+msgid ""
+"Emissions from deforestation stay level in the Business as Usual scenario"
+" to reflect trends that indicate deforestation continues to be "
+"insufficiently addressed worldwide."
+msgstr ""
+
+#: ../../guide/deforestation.rst:53 a108eba60b594f75a2c0b926bf5f37fa
+msgid "Footnotes"
+msgstr ""
+
+#: ../../guide/deforestation.rst:54 5da1aa2894ff4604808ee34da11a04c9
+msgid ""
+"Salopek, P. (2019, May 16). Millions of indigenous people face eviction "
+"from their forest homes. *National Geographic*. "
+"https://www.nationalgeographic.com/culture/2019/05/millions-india-"
+"indigenous-people-face-eviction-from-forests/"
+msgstr ""
+
+#: ../../guide/deforestation.rst:55 1b41bdfe335e41d6844c3ca4980c8b0f
+msgid ""
+"Mwijuke, G. (2018, January 12). Batwa of Uganda mired in extreme poverty."
+" *Chwezitraveller*. https://www.chwezitraveller.com/featured/batwa-"
+"ugandas-conservation-refugees-mired-in-extreme-poverty/"
+msgstr ""
+

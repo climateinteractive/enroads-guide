@@ -1,0 +1,226 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/methane.rst:2 1646a16721684002b2e25935fa055403
+msgid "|imgMethaneIcon| Methane & Other Gases"
+msgstr ""
+
+#: ../../guide/methane.rst:4 21f78ddb3e3941c48e34f3681c4b79c0
+msgid ""
+"**Decrease or increase greenhouse gas emissions from methane, nitrous "
+"oxide, and the F-gases.** Methane is released from sources like cows, "
+"agriculture, natural gas drilling, and waste. Nitrous oxide comes from "
+"fertilizers. The f-gases, includes HFCs, PFCs, and others that are used "
+"in industry and consumer goods like air conditioners."
+msgstr ""
+
+#: ../../guide/methane.rst:7 90f808370af94bb2b3d1c84d23e16184
+msgid "Examples"
+msgstr ""
+
+#: ../../guide/methane.rst:9 5822ccbd66ba4f5889a8d6dcf0fc7ab4
+msgid "Decreased meat consumption."
+msgstr ""
+
+#: ../../guide/methane.rst:11 ab6dc153635e427182ea906c783097eb
+msgid ""
+"Modified agricultural practices such as increasing digestion of manure "
+"and decreasing fertilizer use."
+msgstr ""
+
+#: ../../guide/methane.rst:13 451facfdb0914692ae0127fe2af8e8ed
+msgid "Decreased methane leakage from oil and gas industries."
+msgstr ""
+
+#: ../../guide/methane.rst:15 27c199d2f79f46c09451417f613f7cda
+msgid "Increased capturing of gases emitted from landfills."
+msgstr ""
+
+#: ../../guide/methane.rst:17 b8848d43cd694e258ce4587fbf8042e7
+msgid ""
+"Research and development into substitutions for F-gases in industrial "
+"processes."
+msgstr ""
+
+#: ../../guide/methane.rst:20 1366e5a149ba40059175a5fba542dd0a
+msgid "Big Message"
+msgstr ""
+
+#: ../../guide/methane.rst:22 c625920db19142cb90aec4117507baef
+msgid ""
+"Reducing methane, nitrous oxide, and the F-gases is high leverage, "
+"although many approaches to reducing these emissions need more research "
+"and support to scale up."
+msgstr ""
+
+#: ../../guide/methane.rst:25 081968aea1b8432487573201cafaa0d5
+msgid "Key Dynamics"
+msgstr ""
+
+#: ../../guide/methane.rst:27 888d31eca7474f398e3094a1574e12a1
+#, python-format
+msgid ""
+"Methane, N\\ :sub:`2`\\ O, and F-gas emissions comprise 30% of current "
+"greenhouse gas emissions and are key in reducing to address climate "
+"change."
+msgstr ""
+
+#: ../../guide/methane.rst:30 c5c44b07f5ce48c1bc6f7c02d86e7dc0
+msgid "Potential Co-Benefits of Decreasing Methane & Other Gases"
+msgstr ""
+
+#: ../../guide/methane.rst:31 89812299db5d439b87f893053e4eebf6
+msgid ""
+"Plant-based diets have been shown to be healthier for individuals and "
+"have less impact on ecosystems."
+msgstr ""
+
+#: ../../guide/methane.rst:32 82521d9c92544ef49ab092c97e5a309e
+msgid ""
+"Sustainable and plant-based agriculture produces more food with fewer "
+"resources, which increases food security."
+msgstr ""
+
+#: ../../guide/methane.rst:33 95315e8864dd4635b19489bdf9947dc2
+msgid "Reducing methane leakage from natural gas systems can save money."
+msgstr ""
+
+#: ../../guide/methane.rst:34 ed05f0f626394735a5710faafe5a73fd
+msgid ""
+"Less nitrogen-rich fertilizer run off can reduce water pollution, "
+"decrease eutrophication, and increase marine health."
+msgstr ""
+
+#: ../../guide/methane.rst:37 cb21c2a8380b4d78bb0a0c3a81c3ca33
+msgid "Equity Considerations"
+msgstr ""
+
+#: ../../guide/methane.rst:38 a2dfc3e99b0049e3a6143aadfe747e89
+msgid ""
+"Many cultural values are attached to certain foods, meaning change to "
+"more plant-based diets could require a large societal shift."
+msgstr ""
+
+#: ../../guide/methane.rst:39 43e90c69cbdc4ffc8e150b8a6cdc605c
+msgid ""
+"Policies implemented without care may threaten food security for certain "
+"individuals and communities. For example, rice paddies, a large methane "
+"contributor, are a main dietary staple for many countries."
+msgstr ""
+
+#: ../../guide/methane.rst:40 fd36e6da2fcc45e3aba70302aa7c591f
+msgid ""
+"Local economies and employment can be threatened in communities which "
+"currently rely on industrial, large-scale farming practices as their main"
+" livelihood."
+msgstr ""
+
+#: ../../guide/methane.rst:43 8224c6a16a224ccca8002dece510991d
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../guide/methane.rst:45 c5580b2bba33426cb0e23fdd045f407e
+msgid ""
+"The variable being changed is the percent reduction or increase of total "
+"maximum action. The model limits how much these emissions can be reduced"
+"--so 100% max reduction is not a 100% total emissions reduction--since "
+"some are considered unavoidable, particularly those from agriculture, "
+"landfills, and wastewater."
+msgstr ""
+
+#: ../../guide/methane.rst:48 694a001b5d08454c85a9592f945ddcbc
+msgid "\\"
+msgstr ""
+
+#: ../../guide/methane.rst:48 f432d6f80b7b407b9f402deda8623f12
+msgid "highly reduced"
+msgstr ""
+
+#: ../../guide/methane.rst:48 98a54d2394c04eeab77fcb101dd3d94b
+msgid "moderately reduced"
+msgstr ""
+
+#: ../../guide/methane.rst:48 8fa7978548ec45449982f0d8c4ba3e3b
+msgid "**status quo**"
+msgstr ""
+
+#: ../../guide/methane.rst:48 784f09fda6dd4f53bbdfe8e7e194e92a
+msgid "increased"
+msgstr ""
+
+#: ../../guide/methane.rst:50 340bf08b1aa949cc9c62a67065fb3efb
+msgid "Percent reduction or increase of maximum action"
+msgstr ""
+
+#: ../../guide/methane.rst:50 a328249495ed485799f8b66f2bd7abd9
+msgid "-100% to -50%"
+msgstr ""
+
+#: ../../guide/methane.rst:50 f757f7ff6daa483abc53da43ad35377e
+msgid "-50% to -2%"
+msgstr ""
+
+#: ../../guide/methane.rst:50 81cf8e8b3d2a40599da995c199cde330
+msgid "**-2% to 0%**"
+msgstr ""
+
+#: ../../guide/methane.rst:50 a5c99ff3bb174c22bb23be9bfbb76b7f
+msgid "0% to +10%"
+msgstr ""
+
+#: ../../guide/methane.rst:55 3c0e1b8caa6b46b98444f6dadb231685
+msgid "Model Structure"
+msgstr ""
+
+#: ../../guide/methane.rst:57 b91393bd1e724a5ea8c0c53daf8b2686
+msgid ""
+"Each greenhouse gas is modeled separately within En-ROADS, which enables "
+"the impact of each gas on global temperature to be handled without using "
+"global warming potential (GWP) and CO\\ :sub:`2` equivalency conversions."
+" Greenhouse gases other than CO\\ :sub:`2` that are reflected in graphs "
+"with the units CO\\ :sub:`2`\\e do use GWP100 to enable comparison and "
+"reporting of all greenhouse gases together. This means that the short-"
+"lived, but high impact, nature of greenhouse gases like methane is "
+"captured."
+msgstr ""
+
+#: ../../guide/methane.rst:60 9f8f7785817e40a9b1a30a05ad0a2f65
+msgid "Case Studies"
+msgstr ""
+
+#: ../../guide/methane.rst:61 36bad9bb2dde4a2b86e7552f8334513f
+msgid ""
+"Carrboro, NC, USA: Participation in a community gardening program in "
+"Carrboro, NC showed improvements in childhood obesity levels and resulted"
+" in families with children in the program eating one-third more fruits "
+"and vegetables every day. [#methanefn1]_"
+msgstr ""
+
+#: ../../guide/methane.rst:64 d3bd797c64054fcfabc38f102f04c080
+msgid "Footnotes"
+msgstr ""
+
+#: ../../guide/methane.rst:65 382fc58f2aae4b28bccc59c62dd98b4b
+msgid ""
+"Castro, D. C., Samuels, M., & Harman, A. E. (2013). Growing Healthy Kids."
+" *American Journal of Preventive Medicine*, 44(3). "
+"https://doi.org/10.1016/j.amepre.2012.11.024"
+msgstr ""
+

@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../index.rst:28 ce1f239ca98346b4bfe74f66bf0ac4d9
+msgid "Contents:"
+msgstr ""
+
+#: ../../index.rst:8 9668111fd22b4b2c98b1851b92901f35
+msgid "En-ROADS User Guide"
+msgstr ""
+
+#: ../../index.rst:10 fffd2a73089544edb36a6a9e38313358
+msgid ""
+"**By Andrew Jones, Yasmeen Zahar, Ellie Johnston, John Sterman, Lori "
+"Siegel, Cassandra Ceballos, Travis Franck, Florian Kapmeier, Stephanie "
+"McCauley, Rebecca Niles, Caroline Reed, Juliette Rooney-Varga, and "
+"Elizabeth Sawin**"
+msgstr ""
+
+#: ../../index.rst:12 de2ade83dbb74e47868e960b607ed1eb
+msgid "*Last updated May 2020*"
+msgstr ""
+
+#: ../../index.rst:14 62f0e17fe1294a92bedfad93f8042df4
+msgid ""
+"The `En-ROADS Climate Solutions Simulator <https://en-"
+"roads.climateinteractive.org>`_ is a fast, powerful climate simulation "
+"tool for understanding how we can achieve our climate goals through "
+"changes in energy, land use, consumption, agriculture, and other "
+"policies. The simulator focuses on how changes in global GDP, energy "
+"efficiency, technological innovation, and carbon price influence carbon "
+"emissions, global temperature, and other factors. It is designed to "
+"provide a synthesis of the best available science on climate solutions "
+"and put it at the fingertips of groups in policy workshops and "
+"roleplaying games. These experiences enable people to explore the long-"
+"term climate impacts of global policy and investment decisions."
+msgstr ""
+
+#: ../../index.rst:16 0cf1f96dceed4fad99602ae42a2076da
+msgid ""
+"En-ROADS is being developed by `Climate Interactive "
+"<http://www.climateinteractive.org/>`__, `Ventana Systems "
+"<http://www.ventanasystems.com/>`__, Todd Fincannon, `UML Climate Change "
+"Initiative <http://www.uml.edu/Research/Climate-Change/>`__, and `MIT "
+"Sloan <http://mitsloan.mit.edu/>`__."
+msgstr ""
+
+#: ../../index.rst:18 60613a8f960649959b82e12326e1a975
+msgid ""
+"This guide provides background on the dynamics of En-ROADS, tips for "
+"using the simulator, general descriptions, real-world examples, slider "
+"settings, and model structure notes for the different sliders in En-"
+"ROADS."
+msgstr ""
+
+#: ../../index.rst:20 abbccb6a08e74f7ab0883a8e942eb685
+msgid ""
+"In addition to this User Guide, there is an extensive `Reference Guide "
+"<https://www.climateinteractive.org/wp-content/uploads/2020/01/En-"
+"ROADS_Reference_Guide_v92.pdf>`_ that covers model assumptions and "
+"structure, as well as references for data sources."
+msgstr ""
+
+#: ../../index.rst:22 d11a732ec5dc4124b88ab883ef62ab53
+msgid ""
+"*Please email support@climateinteractive.org for additional inquires and "
+"support.*"
+msgstr ""
+
+#: ../../index.rst:26 54356bda0f964792ab96d7a9efbe97bf
+msgid "Table of Contents"
+msgstr ""
+
+#: ../../index.rst:59 d567c921c2be4dc9a52d196f6825ce7a
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:61 b4ed1b3d2eae47aebd4b275357b9603d
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:62 d5b91e8b4e1542c290a6f9a18c3340b3
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:63 09bec29703c8475d9becf76cc74867d2
+msgid ":ref:`search`"
+msgstr ""
+

@@ -1,0 +1,264 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/oil.rst:2 a91221cd827a466a995006b3ce0fe7db
+msgid "|imgOilIcon| Oil"
+msgstr ""
+
+#: ../../guide/oil.rst:4 6531f2b975974bb8901914167b2babd1
+msgid ""
+"**Discourage or encourage drilling, refining, and consuming oil for "
+"energy.** Oil is a fossil fuel that is used widely in cars, ships, and "
+"planes; it is also used for industry, heating, and electricity. Access to"
+" oil has sparked major conflicts, and oil spills threaten ecosystems and "
+"water quality."
+msgstr ""
+
+#: ../../guide/oil.rst:7 5f411bb893624c57a04b8713048b2a32
+msgid "Examples"
+msgstr ""
+
+#: ../../guide/oil.rst:9 46a90a43589f427d862f1baff11e15ec
+msgid ""
+"Governments imposing limits on oil drilling and exploration, removing "
+"subsidies, and taxing oil."
+msgstr ""
+
+#: ../../guide/oil.rst:11 4d7a3407567844a195e13da98f34cfc9
+msgid "Universities, corporations, and individuals divesting from oil companies."
+msgstr ""
+
+#: ../../guide/oil.rst:13 cdc85d03ae0f4c238d6fbadda3e9c790
+msgid ""
+"Financial services industry (e.g., banks) or global development "
+"institutions (e.g., World Bank) limiting access to capital for "
+"exploration, drilling, refining, and delivery."
+msgstr ""
+
+#: ../../guide/oil.rst:16 04737fd023e94f1381a10dc0e0d56f15
+msgid "Big Message"
+msgstr ""
+
+#: ../../guide/oil.rst:18 6dc5dd40bd92478499f83d2d9ab620b1
+msgid ""
+"When a steep oil tax is the only action implemented, you will not see a "
+"dramatic change in temperature, as coal and natural gas demand increases "
+"in response, offsetting any large reduction of temperature."
+msgstr ""
+
+#: ../../guide/oil.rst:21 f9c65d52ec5e4ac19a7c758d5edd83c3
+msgid "Key Dynamics"
+msgstr ""
+
+#: ../../guide/oil.rst:23 74490cd70803499ab649a5115cea5c74
+msgid ""
+"When oil is discouraged, by taxing it, watch the red line go down in the "
+"“Global Sources of Primary Energy” graph."
+msgstr ""
+
+#: ../../guide/oil.rst:25 8cbe9642b1cc42b3b9253f7c8617835d
+msgid ""
+"When oil is taxed, notice what happens to coal and gas in response. "
+"Unless there are restrictions on coal and gas, their demand will go up in"
+" response to expensive oil. We call this the “squeeze the balloon” "
+"problem – depressing fossil fuel emissions in one area causes them to pop"
+" up in another. Renewables are also boosted slightly, but the impact is "
+"negligible. Adding a carbon price is a good solution to the “squeeze the "
+"balloon” problem, as it addresses all fossil fuels together."
+msgstr ""
+
+#: ../../guide/oil.rst:27 220bb1cd32c04b8db10fec421df0c8c8
+msgid ""
+"The net result of taxing oil is no change in overall greenhouse gas "
+"emissions and no reduction in future temperature."
+msgstr ""
+
+#: ../../guide/oil.rst:29 b831e502230e48d9b444d6ec935641df
+msgid ""
+"Notice that taxing oil results in an increase in electrification of the "
+"vehicle fleet as electric powered modes of transport become more "
+"affordable in the face of higher oil prices. See this demonstrated in the"
+" \"Electric Share of Final Energy-Transport\" graph."
+msgstr ""
+
+#: ../../guide/oil.rst:32 3844c632fc384d97a475bee95a788a43
+msgid "Potential Co-Benefits of Discouraging Oil"
+msgstr ""
+
+#: ../../guide/oil.rst:33 33f1a8728e814190aa72d5e530cb6b67
+msgid ""
+"A reduction in oil drilling could lead to fewer oil spills, helping "
+"protect wildlife habitats, biodiversity, and ecosystem services at "
+"production sites and along transportation routes."
+msgstr ""
+
+#: ../../guide/oil.rst:34 9b403401a19643839fb822a4299bbad4
+msgid ""
+"Reduced economic dependence on oil can improve national security and "
+"lower military costs."
+msgstr ""
+
+#: ../../guide/oil.rst:37 12d711294cbd45209f78c5acc5b40d9e
+msgid "Equity Considerations"
+msgstr ""
+
+#: ../../guide/oil.rst:38 b45058954e6e499c95cf1661cbc2de84
+msgid ""
+"The oil industry provides many high-paying jobs for people with technical"
+" trade backgrounds. Providing pathways for these people to find new jobs "
+"will be essential."
+msgstr ""
+
+#: ../../guide/oil.rst:39 883c9a8423ee4b11b9426882d6740ef9
+msgid ""
+"Oil companies wield enormous economic and political power locally and "
+"globally. In order to discourage oil, certain industry protections must "
+"be eliminated."
+msgstr ""
+
+#: ../../guide/oil.rst:40 d7b107a0d6084201849061f5e537ac47
+msgid ""
+"There is a history of oil refineries being located in marginalized "
+"communities and companies working to avoid or limit environmental "
+"regulations."
+msgstr ""
+
+#: ../../guide/oil.rst:43 c30720a79eca4d4db998d54097f2e010
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../guide/oil.rst:45 46bafe497dce4a61ad2292dc5ffa5ef0
+msgid ""
+"The following table highlights the numerical ranges for the labelled "
+"input levels of the Oil slider. Each of the energy supply sliders is set "
+"to reflect a similar percentage cost increase or decrease for each input "
+"level."
+msgstr ""
+
+#: ../../guide/oil.rst:48 67a41950c8ef442ea46deabfa842d296
+msgid "\\"
+msgstr ""
+
+#: ../../guide/oil.rst:48 52691562893d4758858ea9cc094ddd2a
+msgid "very highly taxed"
+msgstr ""
+
+#: ../../guide/oil.rst:48 5cd573b86c164740b6d701fac0a7c593
+msgid "highly taxed"
+msgstr ""
+
+#: ../../guide/oil.rst:48 7e73d5bf67f94e61ab7dc2f1a7d7f603
+msgid "taxed"
+msgstr ""
+
+#: ../../guide/oil.rst:48 1e835de098644a84a705d7ef326ad3db
+msgid "status quo"
+msgstr ""
+
+#: ../../guide/oil.rst:48 c980a1c6b4f546c9a88a1e888ebfd4dc
+msgid "subsidized"
+msgstr ""
+
+#: ../../guide/oil.rst:50 d191622e25704ae69eb4255a6f50f729
+msgid "Change in price per barrel of oil equivalent (boi)"
+msgstr ""
+
+#: ../../guide/oil.rst:50 99bb68c3e8d54f23a8f29c63b5883a8f
+msgid "+$100 to +$30"
+msgstr ""
+
+#: ../../guide/oil.rst:50 21ddbd9d4217489aa3a39e6fee983c58
+msgid "+$30 to +$15"
+msgstr ""
+
+#: ../../guide/oil.rst:50 79115eb5483349d492881c1c6c860355
+msgid "+$15 to +$5"
+msgstr ""
+
+#: ../../guide/oil.rst:50 2ad9bc05b19842118eeab51ca60503b5
+msgid "**+$5 to -$5**"
+msgstr ""
+
+#: ../../guide/oil.rst:50 9b1df72f2430446c941c1c06a04d8fe9
+msgid "-$5 to -$15"
+msgstr ""
+
+#: ../../guide/oil.rst:52 21880075851b4546a17d64afdaeefd2b
+msgid "Cost increase or decrease"
+msgstr ""
+
+#: ../../guide/oil.rst:52 0a6f153cb3214199832216a52451ed82
+msgid "+200% to +60%"
+msgstr ""
+
+#: ../../guide/oil.rst:52 90ecd12322394df08b21d2607387a5ce
+msgid "+60% to +30%"
+msgstr ""
+
+#: ../../guide/oil.rst:52 fdec0ad9f3564d41b7655614a2ae74b6
+msgid "+30% to +10%"
+msgstr ""
+
+#: ../../guide/oil.rst:52 8742ff2992104ab2be8019fe5fd3cf54
+msgid "**+10% to -10%**"
+msgstr ""
+
+#: ../../guide/oil.rst:52 6d49e000e8d9491baefd5036c03845ee
+msgid "-10% to -30%"
+msgstr ""
+
+#: ../../guide/oil.rst:57 e938a89866f2445689f43dd1e40f8d99
+msgid "Model Structure"
+msgstr ""
+
+#: ../../guide/oil.rst:59 90c1e18766f649459b1fea8f6c11d6bc
+msgid ""
+"The cost of oil affects three significant decisions regarding energy "
+"infrastructure:"
+msgstr ""
+
+#: ../../guide/oil.rst:61 c03b78b3ab814191bc0622d0108fa5e8
+msgid ""
+"Investment in new capacity (whether or not to build new drilling "
+"operations and refineries);"
+msgstr ""
+
+#: ../../guide/oil.rst:63 8a8ce0e71126480bb20553d38f2dfe41
+msgid "use of capacity (whether to run existing operations);"
+msgstr ""
+
+#: ../../guide/oil.rst:65 ee3c76587fcc4aa9b99f3b4c826c0020
+msgid ""
+"retirement of capacity (whether to keep infrastructure longer or shorter "
+"than the average of ~30 years)."
+msgstr ""
+
+#: ../../guide/oil.rst:68 e7b9abb4e24d4b89ba534016c8ffae21
+msgid "FAQs"
+msgstr ""
+
+#: ../../guide/oil.rst:69 90c06b929b1a4ac5b5e8fdcb88bffe65
+#, python-format
+msgid ""
+"**How can I directly force deeper reductions in oil use?** Consider "
+"selecting the “Stop building new oil infrastructure” switch in the "
+"advanced view, and changing the “% reduction in oil utilization” slider."
+msgstr ""
+

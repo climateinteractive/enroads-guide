@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/about.rst:2 6be3dac9f04547b0ae277738459aa6ae
+msgid "About En-ROADS"
+msgstr ""
+
+#: ../../guide/about.rst:4 acabd254abcf412c94c2ffc49a636006
+msgid ""
+"En-ROADS is a powerful simulation model for exploring how to address "
+"global energy and climate challenges through large-scale policy, "
+"technological, and societal shifts. With En-ROADS you can create "
+"scenarios that focus on how changes in taxes, subsidies, economic growth,"
+" energy efficiency, technological innovation, carbon pricing, fuel mix, "
+"and other factors will change global carbon emissions and temperature."
+msgstr ""
+
+#: ../../guide/about.rst:6 64765081cbef490daee24ce22885e85e
+msgid ""
+"En-ROADS is designed to be used interactively with groups where it can be"
+" the basis for scientifically rigorous conversations around addressing "
+"climate change. This makes it ideal for decision-makers in government, "
+"business, and civil society; or for anyone who is curious about the "
+"choices of our world. Climate Interactive provides extensive materials to"
+" support people in leading activities with En-ROADS that range from "
+"policy workshops to roleplaying games."
+msgstr ""
+
+#: ../../guide/about.rst:8 9c41500713aa499c9d1d777d9e08c9b6
+msgid ""
+"Relative to many global energy and climate system models, En-ROADS "
+"returns results in a few seconds, is transparent in its mathematical "
+"logic, and allows you to interactively test hundreds of factors. En-ROADS"
+" complements the other, more disaggregated models addressing similar "
+"questions, for example, those in the EMF-22 suite. These larger "
+"disaggregated models are used for data and calibrating results in En-"
+"ROADS."
+msgstr ""
+
+#: ../../guide/about.rst:10 ea59dd82698b49789404c6a9bdca419f
+msgid ""
+"En-ROADS stands for “Energy-Rapid Overview and Decision-Support.\" Led by"
+" the team at Climate Interactive, En-ROADS has benefited from a close "
+"collaboration between Climate Interactive, Tom Fiddaman of Ventana "
+"Systems, Prof. John Sterman of MIT Sloan, and Prof. Juliette Rooney-Varga"
+" of UMass Lowell's Climate Change Initiative. En-ROADS is an extension of"
+" the award-winning simulator C-ROADS, which thousands have used to assess"
+" national and regional greenhouse gas emission reduction pledges and lead"
+" climate negotiation exercises. Both tools were developed using the "
+"system dynamics modeling approach and draw on the MIT PhD theses of Dr. "
+"John Sterman and Dr. Tom Fiddaman."
+msgstr ""
+
+#: ../../guide/about.rst:12 ee9de20734ed478e8f364ccea77575c5
+msgid ""
+"The model emphasizes the system-wide interactions of policies. Behind the"
+" simulation is an extensive study of the latest research literature on "
+"factors such as delay times, progress ratios, price sensitivities, "
+"historic growth of energy sources, and energy efficiency potential. This "
+"enables En-ROADS to reveal the dynamic interactions between different "
+"levers. For example, how energy efficiency affects renewable energy, and "
+"which feedback loops are most significant."
+msgstr ""
+
+#: ../../guide/about.rst:14 fa16267d0554442a8eaf7b357137132b
+msgid ""
+"For those familiar with C-ROADS, the distinction between the two is that "
+"C-ROADS focuses on how changes in national and regional emissions could "
+"affect global carbon emissions and climate outcomes, while En-ROADS "
+"focuses on how global changes in energy, economics, and public policy "
+"could affect global carbon emissions and climate outcomes."
+msgstr ""
+
+#: ../../guide/about.rst:16 4694338a4d4c41b8a333f6af70445d63
+msgid ""
+"*Please email support@climateinteractive.org for additional inquires and "
+"support.*"
+msgstr ""
+

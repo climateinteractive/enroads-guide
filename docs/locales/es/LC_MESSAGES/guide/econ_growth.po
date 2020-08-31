@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/econ_growth.rst:2 edb2edf5dc1e4f838d8211e24f15c0ab
+msgid "|imgEconGrowthIcon| Economic Growth"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:4 7f9aed4e66424db3a741361699aac77f
+msgid ""
+"**Assume higher or lower growth in goods produced and services "
+"provided.** Economic Growth is measured in Gross Domestic Product (GDP) "
+"per person and is a key driver in energy consumption. Alternatives exist "
+"to meeting people’s needs through economic frameworks not based on "
+"constant GDP growth."
+msgstr ""
+
+#: ../../guide/econ_growth.rst:7 2579a58075c3499cab9c4cb4456c79bd
+msgid "Examples"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:9 a5305f3b449e4841a32d7b65266a8ed7
+msgid "Global efforts to reduce overconsumption and embrace voluntary simplicity."
+msgstr ""
+
+#: ../../guide/econ_growth.rst:11 86036f73db3245d6993c10e21721d68f
+msgid "Possible impacts on economic growth from the effects of climate change."
+msgstr ""
+
+#: ../../guide/econ_growth.rst:14 5774134ff4f94b4da036219dec610db0
+msgid "Big Message"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:16 fdeb3a5e3dba4399af68184195a93fce
+msgid ""
+"Slower economic growth would be a high leverage approach for avoiding "
+"future temperature increases, however, there are lots of questions about "
+"how this might occur and be done in a way that is equitable."
+msgstr ""
+
+#: ../../guide/econ_growth.rst:19 c8579ef6db36485481d211472bedb886
+msgid "Key Dynamics"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:21 0118b0a4b3384c469c8f0ca2704c70fb
+msgid ""
+"Population gets multiplied with GDP per capita to equal total global GDP,"
+" or Gross World Product. Increases in this variable accelerate the "
+"exponential growth of GDP, arguably the most important driver of future "
+"carbon dioxide emissions."
+msgstr ""
+
+#: ../../guide/econ_growth.rst:23 dfc888cd6f6541dcba57519aee96531c
+msgid "Watch all the sources of energy change as you change economic growth."
+msgstr ""
+
+#: ../../guide/econ_growth.rst:26 78513160c70642589ef3a71f33ca07cc
+msgid "Potential Co-Benefits of Lower Growth"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:27 0b7578e9b5824562b56eeb875bb50c94
+msgid ""
+"Focus may be shifted to alternative measures of prosperity that enhance "
+"people’s wellbeing, such as gross national happiness."
+msgstr ""
+
+#: ../../guide/econ_growth.rst:28 7032fc75c0814cfd9919b94990684705
+msgid ""
+"Greater focus on resource conservation and less on material consumption "
+"can lead to less waste."
+msgstr ""
+
+#: ../../guide/econ_growth.rst:31 b6f336132e984cf89ede30db0f19e98b
+msgid "Equity Considerations"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:32 2a551de6b69e4d898791597cbe1dc4f8
+msgid ""
+"Economic growth is tied to pulling people out of poverty worldwide. "
+"Although, in recent decades, many gains in economic growth have gone to "
+"the world’s wealthiest. Regardless, policies must be tailored to specific"
+" local and regional circumstances."
+msgstr ""
+
+#: ../../guide/econ_growth.rst:33 929d0961100f4e1687c68f53b59d3f17
+msgid ""
+"When GDP growth slows or contracts, governments can incur higher budget "
+"deficits, often implementing austerity measures—cutting spending and "
+"raising taxes—to offset the difference. These reforms can severely impact"
+" the poor and working class causing job losses and all the inequities "
+"that come with loss of livelihood. [#econgrowthfn1]_"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:36 373b16e454e44c3e892d6a7e1d555a87
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:39 02ed98a2f4ab41fe88fe759d7ce5811f
+msgid "\\"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:39 60793e4551bb4169aa0486f61731399f
+msgid "low growth"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:39 711449a2144a42b781233a6f4a6b213b
+msgid "**status quo**"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:39 bf4bd39e09b7469ba0b122e732cfd6c0
+msgid "high growth"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:41 e8dbcf836d4e4bcabbcebb325f6899cc
+msgid "GDP growth per year"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:41 899249c1ed8746969b1507051f1efd13
+msgid "1.7% to 2.1%"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:41 c915156f90454a5eba4937d5a6ac8621
+msgid "**2.2% to 2.9%**"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:41 297d2913e4344068b450ff0383587e8a
+msgid "3.0% to 3.7%"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:45 5ed491e6441f4f4783fcb2e516518e23
+msgid "Model Structure"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:47 5b94b52ba0a54de7a68fd36b7522b796
+msgid ""
+"Whereas, in the real world, there would be feedbacks to economic growth "
+"from energy prices, various taxes, and the impacts of climate change, the"
+" model does not include these effects. The user could explore such "
+"feedbacks by changing this input manually."
+msgstr ""
+
+#: ../../guide/econ_growth.rst:50 dc09ff2ac65b42e392beba00c281302f
+msgid "Footnotes"
+msgstr ""
+
+#: ../../guide/econ_growth.rst:51 f49b3f07007d4f08819f18cccf48c32f
+msgid ""
+"Ruckert, A., & Labonté, R. (2017). Health inequities in the age of "
+"austerity: The need for social protection policies. *Social Science & "
+"Medicine, 187*, 306–311. https://doi.org/10.1016/j.socscimed.2017.03.029"
+msgstr ""
+

@@ -1,0 +1,232 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/bioenergy.rst:2 6a49889c21d44144a4b5595c4807c4e1
+msgid "|imgBioenergyIcon| Bioenergy"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:4 88fb43f721ca43edb30d5ef7ba8c6308
+msgid ""
+"**Discourage or encourage the use of trees, forest waste, and "
+"agricultural crops to create energy.** Bioenergy is energy produced from "
+"the burning, or combustion, of living organic material such as wood, "
+"algae, or agricultural crops. There are a variety of bioenergy sources, "
+"some of which can be sustainable and others which can be worse than "
+"burning coal."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:7 aaa9ae009cfc4f14acd59690c73d284b
+msgid "Examples"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:9 548338d6cdb64ece903adb623e2078d5
+msgid ""
+"Government incentives and/or targets to convert land into growing biofuel"
+" feedstocks and drive bioenergy development."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:11 ee96b6d13b95448f84d43971cd604cf1
+msgid ""
+"Research, development, and investment into new technologies that can "
+"produce new forms of biofuels, and vehicles and industry that can use or "
+"support these biofuels."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:14 8c7e192e20e6464887474dc5e19f0b30
+msgid "Big Message"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:16 1d0925bfb9e64c6a99a30ecbc9f59f42
+msgid ""
+"Bioenergy is not a high leverage response to climate change – while it "
+"uses a renewable resource, it still emits large amounts of carbon dioxide"
+" and faces supply constraints with scale up."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:19 5e0b0da060f6445195bcad9e38fd2548
+msgid "Key Dynamics"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:21 6982d64d00a6490d8b494b90d95b8192
+msgid ""
+"As bioenergy is subsidized or taxed, notice that the temperature changes "
+"very little. Changes in bioenergy shift the amount of other energy "
+"sources, which can mean things like more coal if bioenergy is taxed or "
+"less renewables if bioenergy is subsidized."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:23 07e59a67e1bd464292981fc85e28a4fa
+msgid ""
+"Bioenergy is only zero carbon if the feedstock is regrown to account for "
+"the carbon emitted. In some areas, trees are being used for bioenergy, "
+"which will take decades to regrow to make up for the carbon released when"
+" burned."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:26 24802d7e38fd4edd8ad64d3571fe3f1e
+msgid "Potential Co-Benefits of Discouraging Bioenergy"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:27 92ac45501ba8483f8eaa3d91d21a7cab
+msgid ""
+"Crops and arable land are freed for other uses, such as food production "
+"when bioenergy is discouraged."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:28 0d624c28fd1b44898d62f0ad51e06150
+msgid ""
+"Leaving sources of biomass, like forests, intact enables biodiversity to "
+"be preserved."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:29 90676c088cbe410494e211204f8c7496
+msgid ""
+"A reduction in biomass burning can improve indoor and outdoor air quality"
+" from reduced soot and particulates."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:30 17a95ee07f6f43dd9a4e99d7534ad239
+msgid ""
+"Bioenergy can accelerate deforestation through dependence on wood for "
+"fuels or through the expansion of bioenergy crops, particularly in the "
+"tropics. Less deforestation has many benefits including additional carbon"
+" sequestration."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:33 9ac87d35ae424a548e1c1f5ea8fd772c
+msgid "Equity Considerations"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:34 36825d16e596462daa0e183b8619e9dd
+msgid ""
+"Land used for bioenergy crops can reduce land availability for food "
+"production and compromise food security."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:35 766a9aaeb6774d408c3c06fd015a1e30
+msgid ""
+"Farmer livelihoods can be severely impacted by shifting agriculture "
+"markets, so steps  should be taken to help workers and farmers transition"
+" to shifting crop demands."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:38 c2b74a98714843e1b7ed123f1763ccad
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:40 b5038a0e519149008e28cf1f10c90c01
+msgid ""
+"The following table highlights the numerical ranges for the labelled "
+"input levels of the Bioenergy slider. Each of the energy supply sliders "
+"is set to reflect a similar percentage cost increase or decrease for each"
+" input level."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:43 56e3b70f80ec4ff980bb19675ce753a7
+msgid "\\"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:43 1bfffc0e626649318fb610a417b85ee9
+msgid "highly taxed"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:43 8b1b9df14b1b455f912f48162c542fa2
+msgid "taxed"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:43 bcf10f1c0f8c4fb29f5eb36723643bb8
+msgid "status quo"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:43 0b73a24069224b32810bf8da9e859496
+msgid "subsidized"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:43 5a465414146a463eaae6b5b752e11ec6
+msgid "highly subsidized"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:45 6011111a9fcd4f6dbf3344eed32a0efa
+msgid "Change in price per barrel of oil equivalent (boe)"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:45 c6b33b0d4d3a4e50a478c0cea2646f63
+msgid "+$30 to +$15"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:45 6276d998a1864a70892b07d21192d4e2
+msgid "+$15 to +$5"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:45 376f1df68b2d4eddb3b490658a79310b
+msgid "**+$5 to -$5**"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:45 dbfedf8217f141bbb8df2586d5fd8d66
+msgid "-$5 to -$15"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:45 19ddbc0f40644a459e90054142aa4592
+msgid "-$15 to -$30"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:47 7281d3bb9d554e5891e9cb0b49ee6603
+msgid "Cost increase or decrease"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:47 d50d2e3a805c43dc9be8b788d9330c1a
+msgid "+60% to +30%"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:47 75fc82725acb4e9395e9ee4348cfa116
+msgid "+30% to +10%"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:47 8801f1785c0c40d5a0c6dcb0f759360e
+msgid "**+10% to -10%**"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:47 0fd1f8d1c1e742c9a0de78946862a536
+msgid "-10% to -30%"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:47 45f521dfca4e43dbb388dfdbbb794778
+msgid "-30% to -60%"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:52 4239fba097ef44c78ee463094015415f
+msgid "Model Structure"
+msgstr ""
+
+#: ../../guide/bioenergy.rst:54 54b256ced91a441ab9a19513a98592df
+msgid ""
+"This sector tracks several stages of bioenergy installations, or energy "
+"supply capacity including: capacity under development, under "
+"construction, and actually producing energy, as well as the delays "
+"between each stage."
+msgstr ""
+
+#: ../../guide/bioenergy.rst:55 f8cd75706bd443b28046496971588166
+msgid ""
+"Future modeling in this sector will add more refinement to the ways the "
+"bioenergy supply is characterized and include stronger links to the "
+"amount of available land."
+msgstr ""
+

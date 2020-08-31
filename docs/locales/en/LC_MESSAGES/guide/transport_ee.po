@@ -1,0 +1,243 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/transport_ee.rst:2 c41b7a7160564940a6e30912594c05ff
+msgid "|imgTransEEIcon| Transport – Energy Efficiency"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:4 61016f61e0804fd9bbba9eb95307f2cf
+msgid ""
+"**Increase or decrease the energy efficiency of vehicles, shipping, air "
+"travel, and transportation systems.** Energy efficiency includes things "
+"like hybrid cars, expanded public transport, and ways that people can get"
+" around using less energy. Adopting more energy efficient practices, such"
+" as cycling and walking, can improve public health and save money."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:7 f06c5d47aedf45d58933b7b1d92cf053
+msgid "Examples"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:9 288a7c6a706f40d38d3d5e63c59fff4b
+msgid ""
+"Individuals changing their personal behavior to increase walking, biking,"
+" using public transit, carpooling, living in higher density "
+"neighborhoods, purchasing more efficient vehicles, reducing flying, or "
+"telecommuting."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:11 3e1ac3168cf146238f5fa22c5c50606c
+msgid ""
+"Public or corporate policies such as increasing parking prices, investing"
+" in public transit, offering tax breaks for efficient vehicles, rewarding"
+" carpooling, building bike lanes, creating high density pedestrian "
+"friendly urban areas, or performance standards that mandate specific fuel"
+" efficiency."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:13 9efc3b51b1bd426db9c6f9e70def4e64
+msgid ""
+"Research and development into high efficiency technologies for shipping, "
+"vehicles, and air travel."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:16 5deb22b0e7e64c1d8b44255f3288e80c
+msgid "Key Dynamics"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:18 0cb17adc255a48bc89cfac10f4d4d862
+msgid ""
+"Watch Oil (red line) bend down in the “Global Sources of Primary Energy” "
+"graph as the world increases the efficiency of its transport. Less oil is"
+" burned, and coal and gas fall as well as electrified transport becomes "
+"more efficient."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:19 1713f97ce335446ea3fc0d80a8f627fe
+msgid ""
+"View the “Final Energy Consumption” graph to see the fall in energy "
+"demand."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:20 abafd544df01436ea5062b878685c505
+msgid ""
+"To see another benefit, look at the “Cost of Energy” graph. Less demand "
+"for energy means prices are lower."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:23 09d5ebc54599438badc8923ab354a037
+msgid "Potential Co-Benefits of Encouraging Energy Efficiency"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:24 cc3e84adff334a35942f3ac53e4708c0
+msgid ""
+"Improved air quality as a result of less burning of fossil fuels "
+"increases healthcare savings and worker productivity."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:25 2bfb4e9f929749f583a514dea807fbb8
+msgid "Better fuel efficiency means energy costs are lower."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:26 83121f62552e48238c217290dabd7eff
+msgid ""
+"Mass transit, like buses and trains, can reduce traffic congestion and "
+"noise."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:27 906b096db1bb491d9b4443713fa43b80
+msgid ""
+"Improved biking and walking infrastructure increases physical activity "
+"and safety, which results in sizeable health savings."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:30 a814ce7d287d4e648fc8d7743bf27c0c
+msgid "Equity Considerations"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:31 b981e4108f97495ca0332c784c212991
+msgid ""
+"In some developed countries, such as the United States, pedestrian and "
+"cycle-friendly infrastructure has been concentrated in wealthy "
+"communities, leaving out low-income families and people of color. "
+"[#transeefn1]_"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:32 f9e754493d09419993c695542cf6298e
+msgid ""
+"When mass transit options improve or operating costs decrease with fuel "
+"efficient vehicle use, social equality may improve, as low-income "
+"individuals have more transportation options to meet their needs."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:35 4e6f6678bfef4be1bdcbe4b91fdc6d45
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:37 33c9b6756726429f89604cdf119e40f5
+msgid ""
+"The variable being changed is the annual improvement rate in the energy "
+"intensity of new transport capital such as vehicles, trains, and ships."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:40 3b189c0c18ec4062b72d44d53a2f27ec
+msgid "\\"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:40 a324608373134a5aaabd2468009d4235
+msgid "discouraged"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:40 675513e02fb04c10a9e6bbffe4543b7c
+msgid "**status quo**"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:40 26002b0bcd614147887c83ec3aa261ab
+msgid "increased"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:40 39a930c2ef42436dac79e24dc132fb7c
+msgid "highly increased"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:42 27dd347259f4404f85e94340e7157eba
+msgid "Annual rate"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:42 ba67026a327d4ee0ac519ae16165b2ec
+msgid "-1% to 0%"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:42 e770815ca4e54b48be016203984dc466
+msgid "**0% to +1%**"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:42 c264320d76c74d05b2446aa309fc843c
+msgid "+1% to +3%"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:42 36671beb973346f783a8b1f0c31b7806
+msgid "+3% to +5%"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:46 66b807c81f94445a9e94b0b549ed32c1
+msgid "Model Structure"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:48 e9a9b93070c74d95b6d3ea5046c56ea0
+msgid ""
+"Increasing the improvement rate in energy use for new vehicles and other "
+"infrastructure helps drive reductions in greenhouse gas emissions across "
+"the transport sector. There is some delay in how fast this accelerates "
+"because energy use is driven by the overall average of all capital (not "
+"just the new things). The model structure tracks overall efficiency, "
+"which includes retrofitting of existing capital."
+msgstr ""
+
+#: ../../guide/transport_ee.rst:51 39749362735243e28ca74bac33c25e9b
+msgid "Case Studies"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:53 401277cf2a07416a9d3a6a2c137b7ac6
+msgid ""
+"New York City: A program that supports students walking and biking to "
+"school spent $10 million and saved $230 million from increased physical "
+"activity, reduced air pollution, and decreased injury rates. "
+"[#transeefn2]_"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:55 f4f5a9f3b7dc43418f0a0d848853bbfb
+#, python-format
+msgid ""
+"Barcelona, Spain: Replacing 20% of Barcelona's car trips with bikes could"
+" save 38 lives per year from decreased air pollution and increased "
+"physical activity, while also reducing 21,000 tons of CO2 per year. "
+"[#transeefn3]_"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:58 c45ae038122640e8bcdfa23b40c1a5d6
+msgid "Footnotes"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:59 d533aaf699084c7aa5c11847b7e33bf6
+msgid ""
+"Lusk, A. (2019, August 23). Stop Designing Bike-Friendly Cities Only for "
+"Wealthy White Cyclists. *City Lab*. "
+"https://www.citylab.com/transportation/2019/02/bike-friendly-cities-"
+"should-be-designed-everyone/582409/"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:60 a2dff71211d947e4b51ec562b9f11ff3
+msgid ""
+"Muennig, P. A., Epstein, M., Li, G., & Dimaggio, C. (2014). The Cost-"
+"Effectiveness of New York City’s Safe Routes to School Program. *American"
+" Journal of Public Health*, 104(7), 1294–1299. "
+"https://doi.org/10.2105/AJPH.2014.301868"
+msgstr ""
+
+#: ../../guide/transport_ee.rst:61 455486c3adf54a7f83e72d14fbfaed88
+msgid ""
+"Rojas-Rueda, D., Nazelle, A. D., Teixidó, O., & Nieuwenhuijsen, M. "
+"(2012). Replacing car trips by increasing bike and public transport in "
+"the greater Barcelona metropolitan area: A health impact assessment "
+"study. *Environment International*, 49, 100–109. "
+"https://doi.org/10.1016/j.envint.2012.08.009"
+msgstr ""
+

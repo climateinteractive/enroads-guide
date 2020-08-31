@@ -1,0 +1,255 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/nuclear.rst:2 62ad7e7e60244677b6c34eeacdb6909e
+msgid "|imgNuclearIcon| Nuclear"
+msgstr ""
+
+#: ../../guide/nuclear.rst:4 a7dd864a91e24cb792f4ed8998b9ddcf
+msgid ""
+"**Encourage or discourage building nuclear power plants.** Nuclear power "
+"production does not release carbon dioxide, but it produces harmful "
+"nuclear waste."
+msgstr ""
+
+#: ../../guide/nuclear.rst:7 c896c32433d64f22aea2bf9eb55c4f5d
+msgid "Examples"
+msgstr ""
+
+#: ../../guide/nuclear.rst:9 89d9f0b0db534059bdb88aba381a5a98
+msgid "Discouraging"
+msgstr ""
+
+#: ../../guide/nuclear.rst:11 af0658a4bfc64a848bd5a4919a9b8b05
+msgid ""
+"Public information campaigns to raise public concerns about the risks of "
+"nuclear power."
+msgstr ""
+
+#: ../../guide/nuclear.rst:13 89a92ba0bacc42f190f336c2855d4ac4
+msgid "Policies to retire existing nuclear power plants."
+msgstr ""
+
+#: ../../guide/nuclear.rst:15 2dce2dbf7f1741d1b4459932489bcc7c
+msgid "Encouraging"
+msgstr ""
+
+#: ../../guide/nuclear.rst:17 a4ffaf92dd7c43d289d7cb42f17c7c5a
+msgid ""
+"Government policies aimed at handling nuclear waste and reducing costs of"
+" nuclear power."
+msgstr ""
+
+#: ../../guide/nuclear.rst:19 eea02e0ad99742c38633fbdaf1ca3bd1
+msgid "Corporate efforts to promote public acceptance of nuclear power plants."
+msgstr ""
+
+#: ../../guide/nuclear.rst:22 32443c3338f640a3939da9aaf48f7672
+msgid "Big Message"
+msgstr ""
+
+#: ../../guide/nuclear.rst:24 e00332528f78473d95138431185cbbd9
+msgid ""
+"Nuclear is not a huge driver of future temperature and competes with the "
+"growth of renewables and new technology."
+msgstr ""
+
+#: ../../guide/nuclear.rst:26 79275fbc56924f08a4eda6725705eaf0
+msgid ""
+"It could be part of a suite of climate action if one is willing to accept"
+" the environmental costs – e.g., handling waste materials and the risk of"
+" radiation damage near the plants."
+msgstr ""
+
+#: ../../guide/nuclear.rst:29 be9f8ef174944806a56363a4fb070de2
+msgid "Key Dynamics"
+msgstr ""
+
+#: ../../guide/nuclear.rst:31 1ed0b079de854e97949c3a7c8edfd61b
+msgid ""
+"As you subsidize nuclear, watch Nuclear (light blue line) move up, and "
+"Coal (brown line) and Natural Gas (dark blue line) move down in the "
+"“Global Sources of Primary Energy” graph. Nuclear displaces some fossil "
+"fuel sources, which keeps more carbon in the ground and helps reduce "
+"temperature modestly."
+msgstr ""
+
+#: ../../guide/nuclear.rst:33 11e058520bfc47f28cad22f20040f4e1
+msgid ""
+"Nuclear competes with all energy sources available, so notice also what "
+"happens to Renewables (green line) when nuclear is incentivized —it goes "
+"down too."
+msgstr ""
+
+#: ../../guide/nuclear.rst:36 6e751cac39e34114b2d2ebf6a4386c62
+msgid "Potential Co-Benefits of Discouraging Nuclear"
+msgstr ""
+
+#: ../../guide/nuclear.rst:37 9185a0d56d684cddb6e4ac0092764684
+msgid ""
+"Risk of exposure to radiation from a nuclear meltdown or hazardous waste "
+"is reduced."
+msgstr ""
+
+#: ../../guide/nuclear.rst:38 b8190e7947ba41ad823f42df00d70a77
+msgid ""
+"Nuclear energy can use more water than coal for electricity production, "
+"so discouraging nuclear power can increase water security and help "
+"protect wildlife habitats, biodiversity, and ecosystem services. "
+"[#nuclearfn1]_"
+msgstr ""
+
+#: ../../guide/nuclear.rst:39 4fda8ca3aa33400eb9f3289cde9ec4d9
+msgid ""
+"Nuclear energy is fueled by uranium which can be harmful to mine, so "
+"discouraging nuclear energy can reduce risks to miners."
+msgstr ""
+
+#: ../../guide/nuclear.rst:42 126750d32f8546cab0604e498f27c73b
+msgid "Equity Considerations"
+msgstr ""
+
+#: ../../guide/nuclear.rst:43 f2757f34feca436d9f30cee5df011baa
+msgid ""
+"Nuclear power plants, uranium mines (which provide the fuel for nuclear "
+"power), and waste sites are often located in low-income, marginalized "
+"communities that often lack resources to advocate for stricter "
+"environmental regulations and oversight. [#nuclearfn2]_"
+msgstr ""
+
+#: ../../guide/nuclear.rst:44 589e8e936b4543d884fe931c229a7c93
+msgid ""
+"Mining uranium poses significant health risks to miners as well as "
+"surrounding communities due to water contamination and toxic waste."
+msgstr ""
+
+#: ../../guide/nuclear.rst:47 b24797140b80485693523d0a39ac7d10
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../guide/nuclear.rst:49 e8c2efbc73184d7c8d368398dd3d787b
+msgid ""
+"The following table highlights the numerical ranges for the labelled "
+"input levels of the Nuclear slider. Each of the energy supply sliders is "
+"set to reflect a similar percentage cost increase or decrease for each "
+"input level."
+msgstr ""
+
+#: ../../guide/nuclear.rst:52 34ee110296a4465ea654ccf6cb947e40
+msgid "\\"
+msgstr ""
+
+#: ../../guide/nuclear.rst:52 d9988cdfbf8d4e448621e416cef47025
+msgid "highly taxed"
+msgstr ""
+
+#: ../../guide/nuclear.rst:52 ceedcbe90a8b4c6e9fc8af7ccf38ca7f
+msgid "taxed"
+msgstr ""
+
+#: ../../guide/nuclear.rst:52 915adc2e6a9b41b2ae6e25966a7003ca
+msgid "status quo"
+msgstr ""
+
+#: ../../guide/nuclear.rst:52 3e145774e6544c8383d29877c006d5da
+msgid "subsidized"
+msgstr ""
+
+#: ../../guide/nuclear.rst:52 6aa386a48240411f96d458bac80417ef
+msgid "highly subsidized"
+msgstr ""
+
+#: ../../guide/nuclear.rst:54 58db7445b5c740fbaf73f4dcfdead454
+msgid "Change in price per kilowatt hour (kWh)"
+msgstr ""
+
+#: ../../guide/nuclear.rst:54 559f2b2227e34c13b3c5277ef5ef146d
+msgid "+$0.07 to +$0.04"
+msgstr ""
+
+#: ../../guide/nuclear.rst:54 645b99aa80c84d369c72c4f826ff06d0
+msgid "+$0.04 to +$0.01"
+msgstr ""
+
+#: ../../guide/nuclear.rst:54 405c7b2efc074b1ab365fde2f59f996f
+msgid "**+$0.01 to -$0.01**"
+msgstr ""
+
+#: ../../guide/nuclear.rst:54 6441316b998f469ab2a3cf1c05f4100f
+msgid "-$0.01 to -$0.04"
+msgstr ""
+
+#: ../../guide/nuclear.rst:54 269606d472f94ccdb0c22891c68c53f1
+msgid "-$0.04 to -$0.07"
+msgstr ""
+
+#: ../../guide/nuclear.rst:56 3122d3e931af4d85939511eeb627ca45
+msgid "Cost increase or decrease"
+msgstr ""
+
+#: ../../guide/nuclear.rst:56 8c2bfcfc8a2e4e5c9a850150c72c163a
+msgid "+60% to +30%"
+msgstr ""
+
+#: ../../guide/nuclear.rst:56 c33debcb1bb746d7b5d0670eff483db1
+msgid "+30% to +10%"
+msgstr ""
+
+#: ../../guide/nuclear.rst:56 75f6a5c3b9e84130bbf0730674e1a5f8
+msgid "**+10% to -10%**"
+msgstr ""
+
+#: ../../guide/nuclear.rst:56 a2587b529165420f8b6032d6bf624d54
+msgid "-10% to -30%"
+msgstr ""
+
+#: ../../guide/nuclear.rst:56 7da8c0c6ab6f49ba82ca35265ea4de6d
+msgid "-30% to -60%"
+msgstr ""
+
+#: ../../guide/nuclear.rst:61 9b46ba1e579a44b9a032be16642b8d82
+msgid "Model Structure"
+msgstr ""
+
+#: ../../guide/nuclear.rst:63 3cc0198af4cc48119f7a11e04350c20e
+msgid ""
+"This sector tracks several stages of nuclear power plants, or energy "
+"supply capacity: capacity under development, under construction, and "
+"actually producing energy, including delays between each stage."
+msgstr ""
+
+#: ../../guide/nuclear.rst:66 15805181abe54404a9e21eb0c307d9b5
+msgid "Footnotes"
+msgstr ""
+
+#: ../../guide/nuclear.rst:67 ddfcf2318d4d41ec9d0c28d4cf2fdf65
+msgid ""
+"Union of Concerned Scientists. (2013, July). How it Works: Water for "
+"Nuclear. https://www.ucsusa.org/resources/water-nuclear"
+msgstr ""
+
+#: ../../guide/nuclear.rst:68 468e256287ca4ee48e1ae58138252eb5
+msgid ""
+"Kyne, D., & Bolin, B. (2016). Emerging Environmental Justice Issues in "
+"Nuclear Power and Radioactive Contamination. *International Journal of "
+"Environmental Research and Public Health*, 13(7), 700. "
+"https://doi.org/10.3390/ijerph13070700"
+msgstr ""
+

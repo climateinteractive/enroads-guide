@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/tutorial.rst:2 22997842a8a2438aabacb61fc89aa606
+msgid "En-ROADS Tutorial"
+msgstr ""
+
+#: ../../guide/tutorial.rst:4 c3c92649bb494bdab73ee0aa7ce9141c
+msgid ""
+"En-ROADS is designed to be easy to use. You can watch this 20-minute "
+"`introductory video tour <https://www.youtube.com/watch?v=7Muh-eoPd3g>`_ "
+"of En-ROADS. We encourage you to explore all the features of En-ROADS by "
+"clicking around. Here are some key features of En-ROADS:"
+msgstr ""
+
+#: ../../guide/tutorial.rst:7 6b919f79a1ec4a199b0d9b306bad76f5
+msgid "Graphs"
+msgstr ""
+
+#: ../../guide/tutorial.rst:8 bf6fb31674764a6fbc813162c19053a8
+msgid ""
+"There are almost 100 output graphs available in En-ROADS. They show data "
+"from different parts of the global energy and climate system, and update "
+"as you move sliders within En-ROADS."
+msgstr ""
+
+#: ../../guide/tutorial.rst:10 ab91a8ddcffb4fb2b382e8af1aa2a2eb
+msgid ""
+"**Select graphs** – When you first open En-ROADS, you see the two default"
+" graphs. You can select from the full list of graphs by clicking the "
+"title of the left or right graph. You can also select from the Graphs "
+"menu from the top toolbar."
+msgstr ""
+
+#: ../../guide/tutorial.rst:12 dbc374de7ffe449cbad25af59bc4a30a
+msgid ""
+"**More info** – For more information about a graph and what it shows, "
+"select the triangle icon to the left of the graph title."
+msgstr ""
+
+#: ../../guide/tutorial.rst:14 9ff442da7d984d678842b85bc2f6281d
+msgid ""
+"**Copy graph data** – Copy the graph data to your clipboard using the "
+"copy icon on the top right side of a graph."
+msgstr ""
+
+#: ../../guide/tutorial.rst:16 17475de16a7345b89d84b95ca86131e3
+msgid ""
+"**Shortcut to popular graphs** – You can quickly jump to a selection of "
+"the most commonly used graphs from the “Show miniature graphs” icon on "
+"the top toolbar. You can click any of these miniature graphs to switch to"
+" that graph in the main graph view."
+msgstr ""
+
+#: ../../guide/tutorial.rst:18 9a0e2e10f18444b288082d52de1c611c
+msgid ""
+"**View larger graphs** – If you want to expand one of the graphs into a "
+"separate window, you can access our “Large Left Graph” or “Large Right "
+"Graph” feature from the View menu in the top toolbar."
+msgstr ""
+
+#: ../../guide/tutorial.rst:25 34d7dcb16956407f9a9f5e159e00a751
+msgid "Sliders/Actions"
+msgstr ""
+
+#: ../../guide/tutorial.rst:27 ac205ebbae7d40789de3d76828711821
+msgid ""
+"There are 18 sliders representing actions you can test in the En-ROADS "
+"simulator. Click the three dots on the right of each slider to access "
+"detailed slider settings. Here is what you will find in the detailed "
+"slider view:"
+msgstr ""
+
+#: ../../guide/tutorial.rst:29 4b1334a9bee54843a4e362abdfc0b769
+msgid "Description of the slider"
+msgstr ""
+
+#: ../../guide/tutorial.rst:31 53703f101c0848d1aab91f908a7b5847
+msgid ""
+"In the left panel, on top you can have more control of the main slider. "
+"You can see the numeric values associated with points on the slider and "
+"directly input numeric values to set the slider level. Scroll down to "
+"change and explore the related sliders. Click on the triangle to the left"
+" of each slider title to see a brief description of the slider."
+msgstr ""
+
+#: ../../guide/tutorial.rst:33 1a962ae9ae49405a9f083d252ed44b94
+msgid ""
+"In the right panel, you can see a graph relevant to the main slider for "
+"the group and selected among other Related Graphs. These are useful to "
+"reference in order to examine the changes that occur from moving the "
+"sliders in this view. Select from the dropdown list of Related Graphs on "
+"top."
+msgstr ""
+
+#: ../../guide/tutorial.rst:35 e4c1cf62d1a54830afac9251462986ea
+msgid ""
+"You can access more detailed information about the slider through the "
+"information button. This is the same information that is found for this "
+"topic here in the En-ROADS User Guide."
+msgstr ""
+
+#: ../../guide/tutorial.rst:42 f06adf5f040346b3b7d98fe782b01245
+msgid "Top Toolbar Features"
+msgstr ""
+
+#: ../../guide/tutorial.rst:44 3651e113d07948189be9e16bce094116
+msgid ""
+"Many useful features are just a click away from the top toolbar on En-"
+"ROADS. Here are some of the features that you can access."
+msgstr ""
+
+#: ../../guide/tutorial.rst:46 3c901c0e19954094a9cc5b52f83d8a63
+msgid ""
+"**Share Your Scenario** – You can share your unique scenario link to "
+"others. Others can open your En-ROADS scenario with all the settings you "
+"have chosen and the last main graphs you viewed. You can then share your "
+"scenario to social media channels. Grabbing the link from your browser’s "
+"URL bar will also work, however, your last viewed graphs will not be "
+"captured."
+msgstr ""
+
+#: ../../guide/tutorial.rst:48 ff00375fc25c4ff29b939230faa605c1
+msgid ""
+"**Replay Last Change** – This is a fun feature to rapidly replay your "
+"last change several times. This feature assists you in examining how the "
+"different parts of the system responded to your action by giving you more"
+" time to look for changes across related graphs. You can also use the "
+"other controls to Undo or Redo your last action (located left of the "
+"“replay last change” control on the top toolbar)."
+msgstr ""
+
+#: ../../guide/tutorial.rst:50 b8e747a142e24104b627fa81ef14bdb0
+msgid ""
+"**Assumptions** [under the “Simulation” menu] – Access and change "
+"important assumptions driving the En-ROADS model."
+msgstr ""
+
+#: ../../guide/tutorial.rst:52 cf657c0f8b094eed87b35a08cb261f6c
+msgid "**U.S. Units** [under the “View” menu] – Change from metric to U.S. units."
+msgstr ""
+
+#: ../../guide/tutorial.rst:54 3c6f74a276844a7881b883d11d305756
+msgid ""
+"**Actions and Outcomes** [under the “View” menu] – This list summarizes "
+"the total actions and key climate outcomes from your scenario."
+msgstr ""
+
+#: ../../guide/tutorial.rst:56 aa9652288c6e421eb6034f36481d2686
+msgid ""
+"**Related Examples** [under the “Help” menu] – This list shares common "
+"examples of topics and solutions related to each of the 18 sliders. This "
+"is helpful when you need to quickly pull up a list of examples which "
+"relate to each of the sliders."
+msgstr ""
+

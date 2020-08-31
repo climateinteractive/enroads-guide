@@ -1,0 +1,234 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Climate Interactive
+# This file is distributed under the same license as the En-ROADS Guide
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: En-ROADS Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 13:46-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../guide/buildings_ee.rst:2 a5ef8ff388ee4a3f853fd7961024deaa
+msgid "|imgBuildingsEEIcon| Buildings and Industry - Energy Efficiency"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:4 209d1ea3ff394540a266098583c70674
+msgid ""
+"**Increase or decrease the energy efficiency of buildings, appliances, "
+"and other machines.** Energy efficiency includes things like building "
+"well-insulated homes and reducing the amount of energy factories use. "
+"Energy efficient practices can save money through reduced energy needs as"
+" well as improve the health of people in those buildings."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:7 82d8919c72f945efbb28668335bfad4a
+msgid "Examples"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:9 ecbb597cffdc47cf83564c94e2bc442e
+msgid ""
+"Individuals and businesses insulating buildings, purchasing energy "
+"efficient technologies (motors, lighting, appliances, servers, HVAC "
+"systems), and conserving energy."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:11 d9caa87e10cc43f49e365bd53d3a2b8d
+msgid ""
+"Government policies such as tax breaks and performance standards to "
+"incentivize energy efficient products and practices."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:13 d67d14fcb747408abbd0de91dcbcfc52
+msgid "Research and development into high efficiency technologies."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:16 43abed273a4748e592d8d53b9b118163
+msgid "Big Message"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:18 763c026e11e14180ac07f1f623369ac9
+msgid ""
+"Energy efficiency of buildings and industry is high leverage. It leads to"
+" less energy use, which leads to coal, oil, and gas being used. It also "
+"saves families, business, and communities money."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:21 32ab003e9f354230bbc504c63aa7bd23
+msgid "Key Dynamics"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:23 5a578ba668104f66a2a2f7d3db895e3c
+msgid ""
+"As less energy is used for buildings and industry, notice how all the "
+"energy sources decline in the “Global Sources of Primary Energy” graph - "
+"particularly coal and gas when they are the main sources of electricity. "
+"Less fossil fuels are burned so CO\\ :sub:`2` emissions go down and "
+"global temperature change is lowered dramatically."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:24 779e8c1208d44b498f71afc3beda518a
+msgid ""
+"Improvements in energy intensity of new capital also reduce energy "
+"demand. Explore this in the “Final Energy Consumption” graph, where the "
+"Current Scenario (blue line) is lower than Business as Usual (black "
+"line)."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:27 bfa11ccca9ef4c2288d019383c75fd22
+msgid "Potential Co-Benefits of Encouraging Energy Efficiency"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:28 764699c29e6b44f594bc8f4381c55486
+msgid ""
+"Increased industrial efficiency and reduced energy demand can reduce air "
+"pollution, which increases healthcare savings and worker productivity."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:29 e27927db40d54886a1434802dac5b47f
+msgid ""
+"Lowering electricity bills for households, businesses, and governments "
+"increases energy security."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:30 118f594bdc0143a0bcf679c652eb6047
+msgid ""
+"Insulated homes remain cooler in the summer and warmer in the winter, "
+"when weather events and grid-overload cause outages."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:31 68a38fe23bea455d9cbbdb863f0c3b94
+msgid ""
+"Retrofitting buildings and homes to be more efficient can create many "
+"jobs."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:34 f7161656585841fd8d423d48dc085b98
+msgid "Equity Considerations"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:35 78c3928980fd46c3a198f98c8a25b862
+msgid ""
+"The up-front capital costs of efficiency improvements may not be "
+"accessible to lower income individuals and small businesses."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:36 9503e787db1149f0bad32ea3400c8098
+msgid ""
+"In some places, policies are directed at property owners, inhibiting "
+"renters, who are often lower income, from accessing the benefits."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:39 665bc06f10eb49c297ffbd1a5543db83
+msgid "Slider Settings"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:41 4720596226ad40f4b487ca9aacd1357a
+msgid ""
+"The variable being changed is the annual improvement rate in the energy "
+"intensity of new capital for buildings and industry."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:44 67b89052fb5a4bc68bade3d2c87c188b
+msgid "\\"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:44 7e77faa28b544bbb93cb29a12cb105d6
+msgid "discouraged"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:44 8afbbeff056648e2b35c99d35900f49c
+msgid "**status quo**"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:44 9c126d116282407ea26d924aa811d7d8
+msgid "increased"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:44 3dd7601b44e84f129fdac9e60b855821
+msgid "highly increased"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:46 44d427a2fafc412285d6e9c2c3bf0472
+msgid "Annual rate"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:46 3a6bc1146b6a4ea4b94b659a8fd50769
+msgid "-1% to 0%"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:46 2c48c92d2e1649d2aba11ba1544ea751
+msgid "**0% to +1.5%**"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:46 59f626ce08ac4087977d599f2c85ac11
+msgid "+1.5% to +3%"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:46 d231a15585ac47eca806ade704f5acf9
+msgid "+3% to +5%"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:50 785e8162f4254420ad8146ea10f9217f
+msgid "Model Structure"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:52 2c93287070864878ba454e0c4bc106c2
+msgid ""
+"Increasing the rate of improvement in energy use for buildings and "
+"industry lowers emissions gradually, because energy use is driven by the "
+"overall average of all infrastructure in this area, which is delayed from"
+" this intervention because improvement only come to new things and many "
+"buildings and industrial facilities last decades."
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:55 a694f9f98f1649e3b23b453db1ba1fb0
+msgid "Case Studies"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:56 e0ebce897dc4461f8f34cc865015ea3e
+msgid ""
+"Global: Through LEED-certified energy efficient buildings, a group of six"
+" major economies saved $13.3 billion in energy, health, and climate "
+"benefits and avoided emitting dozens of air pollutants. "
+"[#buildings_eefn1]_"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:58 5db98329c27c4a698f80c751fa33cc69
+msgid ""
+"United Kingdom: If the UK were to reduce its household energy "
+"expenditures by one-quarter using energy efficiency measures, households "
+"could save £270 per year. The net present value of this investment is "
+"£7.5 billion, and the wider health, economic, and energy benefits could "
+"reach £47 billion. [#buildings_eefn2]_"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:61 96bb469c594c4b8f9ab357900b7626f1
+msgid "Footnotes"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:62 d8edab6696d04c9a8556b984749b99de
+msgid ""
+"P., M., X., C., J., B., J., C.-L., J., S., A., B., & J., A. (2018). "
+"Energy savings, emission reductions, and health co-benefits of the green "
+"building movement. *Journal of Exposure Science & Environmental "
+"Epidemiology*, 28(4), 307–318. https://doi.org/10.1038/s41370-017-0014-9"
+msgstr ""
+
+#: ../../guide/buildings_ee.rst:63 0e24dca96181482eaa324785837f5150
+msgid ""
+"Rosenow, J., Eyre, N., Sorrell, S., & Guertler, P. (2017). Unlocking "
+"Britain’s First Fuel: The potential for energy savings in UK housing. "
+"Retrieved from "
+"https://www.e3g.org/docs/17_9_6_UKERC_CIED_briefing_final.pdf"
+msgstr ""
+
