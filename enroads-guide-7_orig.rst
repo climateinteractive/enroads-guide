@@ -150,7 +150,7 @@ Perhaps the biggest challenge to limiting future warming in this simulation is t
 
 -  “We’ve done a lot in energy efficiency and clean energy – why haven’t we solved the climate crisis?”
 
-**To illustrate this point:** See the ‘Kaya Graphs’ View. Even though Energy Intensity of GDP improves a lot (the blue line falls faster) and the C intensity of Primary Energy decreases as well, CO2 Emissions from Energy continues to grow until 2060 and then, only then, falls. The reasons are on the left side of the view – steadily growing Global Population and GDP per Capita.
+**To illustrate this point:** See the ‘Kaya Graphs’ View. Even though Energy Intensity of GDP improves a lot (the blue line falls faster) and the C Intensity of Final Energy decreases as well, CO2 Emissions from Energy continues to grow until 2060 and then, only then, falls. The reasons are on the left side of the view – steadily growing Global Population and GDP per Capita.
 
 |image28|
 

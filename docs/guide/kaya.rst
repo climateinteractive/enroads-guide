@@ -15,7 +15,7 @@ Here is one way to understand its trends over time:
 
 **Energy Intensity of GDP** is decreasing over time, due to the world economy becoming more efficient, or using less energy per unit of economic output. Technologies are improving—for example, more efficient cars, buildings, and machines—and economies are shifting from manufacturing to services. The product of global population, GDP per capita, and the energy intensity of GDP is the total amount of energy used by the global economy. 
 
-**Carbon Intensity of Primary Energy**, the amount of carbon dioxide emitted by energy use, is expected to slightly decline over time. Overall, this downward trend in carbon intensity is attributed to the gradual shifting away from fossil fuels and towards low-carbon energy sources.
+**Carbon Intensity of Final Energy**, the amount of carbon dioxide emitted by energy use, is expected to slightly decline over time. Overall, this downward trend in carbon intensity is attributed to the gradual shifting away from fossil fuels and towards low-carbon energy sources.
 
 **Carbon Dioxide Emissions from Energy** is the result of all four factors multiplied together, and you can see that in the Business as Usual scenario emissions are growing. As the level of carbon dioxide in the atmosphere correlates with temperature, an increased concentration of carbon dioxide in the atmosphere leads to an increase in global temperatures. 
 
