@@ -68,7 +68,9 @@ language = 'en'
 #   https://docs.readthedocs.io/en/stable/guides/manage-translations.html#create-translatable-files
 # See:
 #   https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-gettext_compact
-gettext_compact = True
+# This means we will generate a separate `.pot` file for each `.rst` file.  We can merge
+# the `.po[t]` files as a separate post-build step.
+gettext_compact = False
 
 # Recommended by RTD:
 #   https://docs.readthedocs.io/en/stable/guides/manage-translations.html#create-translatable-files
