@@ -117,7 +117,7 @@ A challenge to limiting future warming in this simulation is the powerful growth
 
 -  “We’ve done a lot in energy efficiency and clean energy – why haven’t emissions reduced substantially enough?”
 
-**To illustrate this point:** See the Kaya Graphs view below for a low emissions scenario with increased energy efficiency and a transition to low carbon energy sources. Even though Energy Intensity of GDP improves and the C Intensity of Energy decreases as well, CO\ :sub:`2` Emissions from Energy doesn't see as dramatic a drop as expected due to the continued growth in Global Population and GDP per Capita.
+**To illustrate this point:** See the Kaya Graphs view below for a low emissions scenario with increased energy efficiency and a transition to low carbon energy sources. Even though Energy Intensity of GDP improves and the C Intensity of Final Energy decreases as well, CO\ :sub:`2` Emissions from Energy doesn't see as dramatic a drop as expected due to the continued growth in Global Population and GDP per Capita.
 
 |image28|
 
