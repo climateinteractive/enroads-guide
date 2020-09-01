@@ -12,7 +12,7 @@ September 2020 Release
 
 In addition to the details listed below, we've made a video highlighting the important new features.
 
-Check it out: `September 2020 Release Video <https://youtu.be/cBz84K8DbXw>`_
+Check it out: `September 2020 Release Video <https://youtu.be/ckdXaptTYuM>`_
 
 Interface Changes
 ~~~~~~~~~~~~~~~~~
@@ -34,7 +34,7 @@ Control Slider Related Changes
 
 Updated
 ^^^^^^^
-- Improved the range and behavior of the Population slider.
+- Changed the population slider units to be on -1 to 1 indexed scale with "status quo" equal to zero.
 - Fixed the units of the Carbon Price slider to read "$/ton CO\ :sub:`2`" instead of "$/ton".
 
 Other Interface Changes
