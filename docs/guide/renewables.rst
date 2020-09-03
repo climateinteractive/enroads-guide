@@ -91,6 +91,8 @@ FAQs
 
 * The cost of storage for renewables is explicitly modeled in En-ROADS, and as renewables become a significant part of energy supply, storage must be cost effective to enable further expansion.
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#renewablesfn1] Eisenberg, A. (2018). Just Transitions. *Southern California Law Review*, Vol. 92, No. 101, 2019. https://ssrn.com/abstract=3281846  

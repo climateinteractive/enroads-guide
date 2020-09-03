@@ -68,6 +68,8 @@ FAQs
 -------
 **How can I directly force deeper reductions in oil use?** Consider selecting the “Stop building new oil infrastructure” switch in the advanced view, and changing the “% reduction in oil utilization” slider.
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. SUBSTITUTIONS SECTION
 
 .. |imgOilIcon| image:: ../images/icons/oil_icon.png

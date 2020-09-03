@@ -72,6 +72,8 @@ FAQs
 
 **How can I directly force deeper reductions in coal use?** Consider selecting the “Stop building new coal infrastructure” switch in the advanced view, and changing the “% reduction in coal utilization” slider.  
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#coalfn1] Prehoda, E. W., & Pearce, J. M. (2017). Potential lives saved by replacing coal with solar photovoltaic electricity production in the U.S. *Renewable and Sustainable Energy Reviews*, 80, 710–715. http://dx.doi.org/10.1016/j.rser.2017.05.119 

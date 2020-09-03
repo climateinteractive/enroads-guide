@@ -62,6 +62,8 @@ Model Structure
 
 This sector tracks several stages of nuclear power plants, or energy supply capacity: capacity under development, under construction, and actually producing energy, including delays between each stage.
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#nuclearfn1] Union of Concerned Scientists. (2013, July). How it Works: Water for Nuclear. https://www.ucsusa.org/resources/water-nuclear  

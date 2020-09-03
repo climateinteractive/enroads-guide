@@ -60,6 +60,8 @@ Case Studies
 --------------
 Carrboro, NC, USA: Participation in a community gardening program in Carrboro, NC showed improvements in childhood obesity levels and resulted in families with children in the program eating one-third more fruits and vegetables every day. [#methanefn1]_
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#methanefn1] Castro, D. C., Samuels, M., & Harman, A. E. (2013). Growing Healthy Kids. *American Journal of Preventive Medicine*, 44(3). https://doi.org/10.1016/j.amepre.2012.11.024

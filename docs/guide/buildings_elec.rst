@@ -54,6 +54,7 @@ This input affects climate outcomes through two pathways:
 
 #. Changing fuel mix. Increased electrification decreases use of oil but then increases use of coal, natural gas, and renewables in electricity generation.
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
 
 .. rubric:: Footnotes
 

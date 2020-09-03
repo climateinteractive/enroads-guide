@@ -49,6 +49,8 @@ Model Structure
 
 The path to deployment will take some time after the success of the technology in the laboratory: commercialization (set at 10 years, roughly the same amount of time that Uranium-based fission took), planning (2 years), and construction (5 years). Then the new energy source must compete with other energy sources.
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. SUBSTITUTIONS SECTION
 
 .. |imgNewTechIcon| image:: ../images/icons/newtech_icon.png

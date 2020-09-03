@@ -67,6 +67,8 @@ Case Studies
 
 United States: Increasing fuel economy standards in the United States could save consumers tens of billions of dollars per year, reduce gas consumption by tens of billions of gallons per year, and create over 300,000 jobs by 2030 while also reducing greenhouse gas emissions by millions of tons per year. [#transelecfn2]_ 
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#transelecfn1] Lombrana, L. M. (2019, June 11). Saving the Planet With Electric Cars Means Strangling This Desert. *Bloomberg Green*. https://www.bloomberg.com/news/features/2019-06-11/saving-the-planet-with-electric-cars-means-strangling-this-desert 
