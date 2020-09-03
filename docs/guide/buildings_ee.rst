@@ -57,6 +57,8 @@ Global: Through LEED-certified energy efficient buildings, a group of six major 
 
 United Kingdom: If the UK were to reduce its household energy expenditures by one-quarter using energy efficiency measures, households could save £270 per year. The net present value of this investment is £7.5 billion, and the wider health, economic, and energy benefits could reach £47 billion. [#buildings_eefn2]_ 
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#buildings_eefn1] P., M., X., C., J., B., J., C.-L., J., S., A., B., & J., A. (2018). Energy savings, emission reductions, and health co-benefits of the green building movement. *Journal of Exposure Science & Environmental Epidemiology*, 28(4), 307–318. https://doi.org/10.1038/s41370-017-0014-9 

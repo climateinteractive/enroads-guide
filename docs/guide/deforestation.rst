@@ -49,6 +49,8 @@ Model Structure
 
 Emissions from deforestation stay level in the Business as Usual scenario to reflect trends that indicate deforestation continues to be insufficiently addressed worldwide. 
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#deforestationfn1] Salopek, P. (2019, May 16). Millions of indigenous people face eviction from their forest homes. *National Geographic*. https://www.nationalgeographic.com/culture/2019/05/millions-india-indigenous-people-face-eviction-from-forests/ 

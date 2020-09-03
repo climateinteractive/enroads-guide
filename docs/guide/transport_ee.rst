@@ -54,6 +54,8 @@ New York City: A program that supports students walking and biking to school spe
 
 Barcelona, Spain: Replacing 20% of Barcelona's car trips with bikes could save 38 lives per year from decreased air pollution and increased physical activity, while also reducing 21,000 tons of CO2 per year. [#transeefn3]_ 
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#transeefn1] Lusk, A. (2019, August 23). Stop Designing Bike-Friendly Cities Only for Wealthy White Cyclists. *City Lab*. https://www.citylab.com/transportation/2019/02/bike-friendly-cities-should-be-designed-everyone/582409/ 

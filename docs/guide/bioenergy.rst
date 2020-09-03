@@ -54,6 +54,7 @@ Model Structure
 - This sector tracks several stages of bioenergy installations, or energy supply capacity including: capacity under development, under construction, and actually producing energy, as well as the delays between each stage.
 - Future modeling in this sector will add more refinement to the ways the bioenergy supply is characterized and include stronger links to the amount of available land. 
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
 
 .. SUBSTITUTIONS SECTION
 

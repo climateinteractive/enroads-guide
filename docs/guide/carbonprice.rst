@@ -48,6 +48,8 @@ Case Studies
 
 Northeast United States: A 2016 MIT study examined a scenario where the Northeast United States implemented a carbon cap and trade program and found that the annual health savings to the region could be five times greater than the costs of the changes needed to satisfy the policy. [#cpricefn1]_
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#cpricefn1] Thompson, T. M., Rausch, S., Saari, R. K., & Selin, N. E. (2016). Air quality co-benefits of subnational carbon policies. *Journal of the Air & Waste Management Association*, 66(10), 988–1002. https://doi.org/10.1080/10962247.2016.1192071

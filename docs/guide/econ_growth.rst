@@ -46,6 +46,8 @@ Model Structure
 
 Whereas, in the real world, there would be feedbacks to economic growth from energy prices, various taxes, and the impacts of climate change, the model does not include these effects. The user could explore such feedbacks by changing this input manually.
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#econgrowthfn1] Ruckert, A., & Labonté, R. (2017). Health inequities in the age of austerity: The need for social protection policies. *Social Science & Medicine, 187*, 306–311. https://doi.org/10.1016/j.socscimed.2017.03.029 

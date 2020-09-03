@@ -53,6 +53,8 @@ Model Structure
 
 Population gets multiplied with economic growth (GDP per capita) to equal total global GDP, or Gross World Product.
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#popgrowthfn1] Bi, S. (2015). Forced Sterilizations of HIV-Positive Women: A Global Ethics and Policy Failure. *AMA Journal of Ethics*, 17(10), 952–957. doi: 10.1001/journalofethics.2015.17.10.pfor2-1510

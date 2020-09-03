@@ -58,6 +58,8 @@ Case Studies
 
 New York City, USA: Increasing urban tree density by 343 trees per square kilometer was shown to reduce the rate of childhood asthma by 29% in New York City. [#afforestationfn1]_
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#afforestationfn1] Lovasi, G. S., Quinn, J. W., Neckerman, K. M., Perzanowski, M. S., & Rundle, A. (2008). Children living in areas with more street trees have lower prevalence of asthma. *Journal of Epidemiology & Community Health*, 62(7), 647–649. http://dx.doi.org/10.1136/jech.2007.071894

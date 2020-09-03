@@ -62,6 +62,8 @@ FAQs
 ------
 **How can I directly force deeper reductions in natural gas use?** Consider selecting the “Stop building new natural gas infrastructure” switch in the advanced view, and changing the “% reduction in natural gas utilization” slider.
 
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 .. rubric:: Footnotes
 
 .. [#gasfn1] Bamberger, M., & Oswald, R. E. (2012). Impacts of Gas Drilling on Human and Animal Health. *NEW SOLUTIONS: A Journal of Environmental and Occupational Health Policy*, 22(1), 51–77. https://doi.org/10.2190/NS.22.1.e 

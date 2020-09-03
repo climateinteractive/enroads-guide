@@ -94,7 +94,7 @@ Many assume that if the world promoted several long term zero-carbon energy supp
 
 -  “Why didn’t it help to add nuclear to this renewable-dominant scenario?”
 
-**To illustrate this point:** See the "Global Sources of Primary Energy" graph in the three scenarios below. In the first graph, we subsidize a new technology alone; in the second, renewables alone are subsidized; in the third graph, we subsidize both. 
+**To illustrate this point:** See the "Global Sources of Primary Energy" graph in the three scenarios below. In the first graph, we subsidize renewables alone; in the second, new technology is subsidized on its own; in the third graph, we subsidize both. 
 
 In the following scenario, a renewables subsidy leads to a 0.3 degrees Celsius reduction in temperature: 
 
@@ -156,6 +156,9 @@ To understand more about stocks, flows, and the bathtub framing below, watch `ou
 .. image:: ../images/background_images/bathtub.png
    :scale: 75
    :align: center
+
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 
 .. SUBSTITUTIONS SECTION
 
