@@ -52,6 +52,8 @@ FAQs
 
 **Why aren’t coal and gas carbon capture and storage (CCS) included here, and how can I increase them?** We think of coal and gas CCS as reducing CO\ :sub:`2` emissions from coal and gas, not actually as removing CO\ :sub:`2` from the atmosphere. Both can be changed in the Advanced View that supports the Coal and Natural Gas sliders.  
 
+**Where can I learn more about the different CDR types?** Follow the links to find detailed fact sheets on these CDR types: `Agroforestry <https://www.american.edu/sis/centers/carbon-removal/fact-sheet-agroforestry.cfm>`_ & `Forestation <https://american.us19.list-manage.com/track/click?u=aefcb76ff1d91744e5f20bb45&id=f7ac7b57d2&e=b9acf0ae8b>`_, `BECCS <https://www.american.edu/sis/centers/carbon-removal/fact-sheet-bioenergy-with-carbon-capture-and-storage-beccs.cfm>`_, `Biochar <https://www.american.edu/sis/centers/carbon-removal/fact-sheet-biochar.cfm>`_, `Direct Air Capture <https://www.american.edu/sis/centers/carbon-removal/fact-sheet-direct-air-capture.cfm>`_, `Enhanced Mineralization <https://www.american.edu/sis/centers/carbon-removal/fact-sheet-enhanced-mineralization.cfm>`_, and `Agricultural Soil Carbon Sequestration <https://www.american.edu/sis/centers/carbon-removal/fact-sheet-soil-carbon-sequestration.cfm>`_. 
+
 Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
 
 .. SUBSTITUTIONS SECTION
