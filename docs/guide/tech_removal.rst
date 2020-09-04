@@ -45,7 +45,7 @@ Model Structure
 
 The five methods of CO\ :sub:`2` removal included are modeled independently. They each vary in their maximum sequestration potential, the year they might start to scale up, how long it takes them to be phased in, and the carbon leakage rate over time (stored carbon is not always permanent).
 
-The default settings for the maximum potential of technological carbon removal (“% of max potential”) are sourced from the low range of the 2018 ‘Greenhouse gas removal’ report by the Royal Society (Table 2, chapter 2). For example, moving the simulator’s biochar slider to “100% of max potential” increases removals up to 2 Gton/yr, which was taken from the report’s range of 2-5 Gton/yr. For higher removal, one can adjust the “Carbon dioxide removal maximum” settings within the “Assumptions” view, up to the highest end of the range sourced from the same report. For example, the biochar maximum can be increased to 5 Gton/yr. 
+The default settings for the maximum potential of technological carbon removal (“% of max potential”) are sourced from the low range of the `2018 ‘Greenhouse gas removal’ report by the Royal Society <https://royalsociety.org/-/media/policy/projects/greenhouse-gas-removal/royal-society-greenhouse-gas-removal-report-2018.pdf>`_ (Table 2, Chapter 2). For example, moving the simulator’s biochar slider to “100% of max potential” increases removals up to 2 Gton/yr, which was taken from the report’s range of 2-5 Gton/yr. For higher removal, one can adjust the “Carbon dioxide removal maximum” settings within the “Assumptions” view, up to the highest end of the range sourced from the same report. For example, the biochar maximum can be increased to 5 Gton/yr. 
 
 FAQs
 -------
