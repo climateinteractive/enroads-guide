@@ -7,6 +7,26 @@ En-ROADS Model Version History
    H2 = ~~~~~~   For main areas
    H3 = ^^^^^^   For sub areas
 
+October 2020 Release
+--------------------
+
+Model Upgrade
+~~~~~~~~~~~~~
+
+Updated
+^^^^^^^
+- En-ROADS model to version 2.7.29b
+- Corrected the "New Tech" plot in the "Marginal Cost of Electricity Production" graph when the "New Technology" advanced sliders are adjusted.
+
+Interface Changes
+~~~~~~~~~~~~~~~~~
+
+Fixed
+^^^^^
+- Added a short description at the top of the Assumptions panel to clarify how the sliders behave relative to the "Current" and "Business as Usual" scenarios.
+- Fixed descriptions of transport electrification sliders to remove mention of ships and airplanes.
+
+
 September 2020 Release
 ----------------------
 

@@ -78,6 +78,9 @@ gettext_compact = False
 #   https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-gettext_uuid
 gettext_uuid = True
 
+# TODO: Disable automatic building of `mo` files until we figure out translation plan
+gettext_auto_build = False
+
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
