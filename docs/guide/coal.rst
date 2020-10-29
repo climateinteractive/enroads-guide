@@ -66,6 +66,8 @@ United States: Replacing all coal-powered electricity in the US with solar power
 
 United States: The total cost of reliance on coal to the US economy is estimated to be $344 billon per year. Of that cost, $187B is from air pollution, $74.6B is from public health affects in Appalachia, and $61.7B from climate damages. [#coalfn2]_
 
+India: A one gigawatt increase in coal-fired capacity corresponds to a nearly 15% increase in infant mortality in areas close to coal power plants. The effect was largest for older plants, plants in areas with relatively higher pollution levels, and plants burning domestic rather than imported coal. [#coalfn3]_
+
 FAQs
 -----------
 **In the second half of the century, why does the world burn so much coal in your Business as Usual future, while oil and gas usage slowly declines?** The abundant availability of coal in the world keeps coal prices relatively low through the century. While, in contrast, limited oil and gas resources push prices up and usage down after 2050. 
@@ -78,6 +80,7 @@ Please visit `support.climateinteractive.org <https://support.climateinteractive
 
 .. [#coalfn1] Prehoda, E. W., & Pearce, J. M. (2017). Potential lives saved by replacing coal with solar photovoltaic electricity production in the U.S. *Renewable and Sustainable Energy Reviews*, 80, 710–715. http://dx.doi.org/10.1016/j.rser.2017.05.119 
 .. [#coalfn2] Epstein, P. R., Buonocore, J. J., Eckerle, K., Hendryx, M., Iii, B. M. S., Heinberg, R., … Glustrom, L. (2011). Full cost accounting for the life cycle of coal. *Annals of the New York Academy of Sciences*, 1219(1), 73–98. https://doi.org/10.1111/j.1749-6632.2010.05890.x 
+.. [#coalfn3] Barrows, G., Garg, T., & Jha, A. (2019). The Health Costs of Coal-Fired Power Plants in India. SSRN. http://dx.doi.org/10.2139/ssrn.3281904
 
 .. SUBSTITUTIONS SECTION
 

@@ -9,7 +9,7 @@ En-ROADS User Guide
 
 **By Andrew Jones, Yasmeen Zahar, Ellie Johnston, John Sterman, Lori Siegel, Cassandra Ceballos, Travis Franck, Florian Kapmeier, Stephanie McCauley, Rebecca Niles, Caroline Reed, Juliette Rooney-Varga, and Elizabeth Sawin**
 
-*Last updated September 2020*
+*Last updated October 2020*
 
 The `En-ROADS Climate Solutions Simulator <https://en-roads.climateinteractive.org>`_ is a fast, powerful climate simulation tool for understanding how we can achieve our climate goals through changes in energy, land use, consumption, agriculture, and other policies. The simulator focuses on how changes in global GDP, energy efficiency, technological innovation, and carbon price influence carbon emissions, global temperature, and other factors. It is designed to provide a synthesis of the best available science on climate solutions and put it at the fingertips of groups in policy workshops and roleplaying games. These experiences enable people to explore the long-term climate impacts of global policy and investment decisions.
 

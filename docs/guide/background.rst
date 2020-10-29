@@ -1,163 +1,163 @@
 Background on En-ROADS Dynamics
 ===============================
 
+As you use En-ROADS, pay attention to when and how much slider adjustments result in departures from the Business as Usual scenario. Ask your audience to reflect on why this happened to illuminate thinking about the dynamics of the climate and energy system that En-ROADS simulates.
+
 Most of the dynamics in En-ROADS can be answered by these explanations:
 
-Delays and capital stock turnover
----------------------------------
+1. Drivers of the Business as Usual Scenario
+----------------------------------------------
 
-New energy sources (e.g., renewables and new technology) take decades (not years) to scale up to sufficiently compete with coal, oil, and gas. There are two main sources of these delays. New supply capacity doesn’t show up until old, long-lived capacity is retired (e.g., coal-fired power plants and oil refineries, which can survive for ~30 years). Only 6% of the total stock gets added every year. New zero-carbon energy may secure 20-50% of that market share, but even then, it adds only 1-3% to the total stock. The climate is only helped when coal, oil, and gas is retired away, and in the absence of other interventions, that amount is relatively small – approximately 3% per year.
+To gain a deeper understanding of the model’s behaviors, it is important to comprehend what factors drive the Business as Usual scenario. 
 
-.. image:: ../images/background_images/slowcapitalstockturnover.png
-    :scale: 40
-    :align: center
+**Drivers of Growth**
 
+A challenge to limiting future warming in this simulation is the powerful growth in global GDP, which is population multiplied by GDP per person. Energy efficiency and changes to the fuel mix can help reduce energy emissions, but their success is dampened by the steady growth in GDP. Recognizing this fact leads many participants to explore different futures for population (for example, by empowering women in developing countries, which could lower population growth) and economic growth measured in GDP per person (for example, by finding ways to meet economic needs without increasing consumption).
 
-**This addresses questions such as:**
+*This addresses questions such as*:
 
--  “Why doesn’t subsidizing renewables, nuclear or a new technology help avoid more warming?”
-
-With the delays in increasing the energy efficiency of energy-using capital such as vehicles, buildings, and industry, the average lifetime is much shorter (10-15 years), but the effect is similar. One can promote increases to energy efficiency of new cars immediately, for example, but the average takes decades to increase.
-
-|image20|
-
-**To illustrate this point:** Move the New Technology slider to huge breakthrough. Examine the “Global Sources of Primary Energy” graph and notice that, even as low-carbon sources grow, it takes several decades before enough fossil fuel capacity retires away to make much of an impact. Notice, in the graph above, that coal, oil, and natural gas grow steadily through the 2020s and 2030s and greenhouse gas emissions do not depart from the Business as Usual line until mid-century.
-
-**Implications of this dynamic:** Policies that merely promote alternatives to fossil fuels take several decades to reduce carbon dioxide emissions – the existing infrastructure takes a long time to retire away. Thus, meeting climate goals also requires direct disincentives to building and using fossil fuel infrastructure.
-
-Price, demand, and supply are linked 
--------------------------------------
-
-Energy demand falls if energy prices rise, and demand increases if prices fall. The first is evident when carbon prices increase. The second, when zero-carbon energy such as renewables or new technology are either subsidized or experience a breakthrough in cost improvement. This is often called the ‘rebound effect’ or the Jevons paradox.
-
-While subsidizing low carbon energy supplies such as Renewables, watch Final Energy Consumption increase. Inexpensive wind and solar spreading around the world decreases overall energy prices and boosts energy demand up:
+•	“We’ve done a lot in energy efficiency and clean energy – why haven’t emissions reduced substantially enough?”
 
 
-|image22|
+*To illustrate this point*: See the Kaya Graphs view below for a low emissions scenario with increased energy efficiency and a transition to low carbon energy sources. Even though Energy Intensity of GDP improves, and the Carbon Intensity of Energy decreases as well, CO\ :sub:`2` Emissions from Energy doesn’t see as dramatic a drop as might be expected due to the continued growth in Global Population and GDP per person.
 
-While increasing carbon price, watch Final Energy Consumption decrease. If you want to see an intermediate variable, look at the "Cost of Energy" graph – costs increase so demand decreases:
+|image28|
 
+**Long-Term Limits to Fossil Fuels**
 
-|image23|
+Rising costs due to the scarcity of oil and gas supplies limits the pace of growth for those energy sources. This creates a balancing effect that is evident in the 2060s-2080s for oil and gas in the Business as Usual scenario when they begin to level off. Oil peaks and falls, while the growth rate of natural gas begins decreasing.
 
+*This addresses questions such as*:
 
-Success builds success
-----------------------
+•	“Why do the curves for gas and oil level out?”
 
-Increasing the new capacity and installations of energy sources leads to a decrease in price, and therefore even greater capacity and installations. Costs of energy supplies such as renewables fall as cumulative experience is gained through the learning feedback loop, also known as "economies of scale." Every doubling of cumulative installed capacity of renewables reduces costs by around 20%, creating a reinforcing loop.
+*To illustrate this point*: See the “Global Sources of Primary Energy” graph post 2060 for oil and gas. Supplies of oil and gas are becoming scarce, pushing up their prices and curtailing investment in new capacity. You may also notice that the effect is not present with coal because there are more abundant supplies of coal reserves in the world.
+
+|image26|
+
+Assumptions for available reserves of coal, oil, and gas can be reviewed and adjusted in the “Assumptions” view.
+
+**Non-CO2 Emissions Affect Temperature Significantly**
+
+Methane, N2O and the F-gases are controlled by the Methane & Other slider. Adjusting this has a large impact on temperature. This implies significant changes in livestock management and consumption, waste management, fertilizer use, and industry. These emissions make up around 26% of total greenhouse gas emissions.
+
+*Addresses questions such as*:
+
+•	“We’ve done a lot in energy – why haven’t we solved the climate crisis?”
+
+*To illustrate this point*: See the “Greenhouse Gas Net Emissions by Gas – Area” graph and adjust the Methane & Other slider. See the scenario below – moderately reducing Methane & Other emissions achieves a large reduction in 2100 temperature.
+
+.. image:: ../images/media/image55.png
+
+2. Complex Interactions Between Competing Energy Supplies and Demand
+----------------------------------------------------------------------
+
+**Economies of Scale and Learning**
+
+Increasing the capacity and installation of new energy sources leads to a decrease in price, and therefore even greater capacity and installations. Costs of energy supplies such as renewables fall as cumulative experience is gained through a learning feedback loop, also known as “economies of scale.” Every doubling of cumulative installed capacity of renewables reduces costs by around 20%, creating a reinforcing loop (this is known as the “progress ratio”):
 
 .. image:: ../images/background_images/learningloop.png
    :scale: 50
    :align: center
 
-This reinforcing feedback loop explains the dynamic. As relative price of renewables falls, the relative attractiveness of renewables grows, there is a greater percentage of new capacity met by renewables, more installations of renewables, further learning, and prices fall even further. 
+This reinforcing feedback loop explains the dynamic. As the price of renewables falls relative to other energy sources, the attractiveness of renewables grows. This leads to an even greater percentage of new capacity met by renewables, more installations of renewables, further learning, and prices falling even further.
 
-**This addresses questions such as:**
+*This addresses questions such as*:
 
--  “Why should we have hope?”
+•	“Why should we have hope?”
 
--  “How can we afford a transition to a low carbon economy?”
+•	“How can we afford a transition to a low carbon economy?”
 
--  “Aren’t the costs of renewables prohibitive?"
+•	“Aren’t the costs of renewables prohibitive?”
 
-**To illustrate this point:** Look at the "Renewables Primary Energy Demand" graph in a scenario in which Renewables are subsidized. It sparks exponential growth that is driven and sustained by the reinforcing learning loop figure shown above.
+*To illustrate this point*: Look at the “Renewables Primary Energy Demand” graph in a scenario in which Renewables are subsidized. It sparks exponential growth that is driven and sustained by the reinforcing learning loop figure shown above.
 
 |image25|
 
-.. _section-1:
+**Delays and Capital Stock Turnover**
 
-.. _section-2:
+New energy sources (e.g., renewables and new technology) take decades (not years) to scale up to sufficiently compete with coal, oil, and gas globally. One of the main sources of these delays is that new energy infrastructure is only built when old infrastructure retires or there is a need to meet increased energy demand. Only about 6% of all the world’s energy infrastructure changes each year, since infrastructure like coal-fired power plants and oil refineries can be used for 30 or more years. So while new zero-carbon energy sources may make up the majority of the market share of new energy capital, it will take many years for the old capital to turnover and be retired. The climate is only helped when coal, oil, and gas is retired away, and in the absence of other interventions, that amount is relatively small – approximately 3% per year.
 
-.. _section-3:
+.. image:: ../images/background_images/slowcapitalstockturnover.png
+    :scale: 40
+    :align: center
 
-Fossil fuel growth has long term constraints
---------------------------------------------
+*This addresses questions such as*:
 
-Rising costs due to the scarcity of oil and gas materials put limits on the pace of growth of many energy supplies. This creates a balancing effect that is evident in the 2060s-2080s for oil and gas in the Business as Usual scenario when they begin to level off. Oil peaks and falls, while the growth rate of Natural Gas begins decreasing. 
+•	“Why doesn’t subsidizing renewables, nuclear or a new technology help avoid more warming?”
 
-**This addresses questions such as:**
+This dynamic is also relevant to increasing energy efficiency, however, energy-using capital such as vehicles, buildings, and industry, has an average lifetime that is much shorter (10-15 years). One can promote increases to energy efficiency of new cars immediately, for example, but the average energy efficiency of all the cars takes decades to improve since it takes time for all the old inefficient cars to be taken off the road.
 
--  “Why do the curves for gas and oil level out?”
+*To illustrate this point*: Move the New Technology slider to huge breakthrough. Examine the “Global Sources of Primary Energy” graph and notice that, even as low-carbon sources grow, it takes several decades before enough fossil fuel capacity retires away to make much of an impact. Notice, in the graph above, that coal, oil, and natural gas grow steadily through the 2020s and 2030s and greenhouse gas emissions do not depart from the Business as Usual line until mid-century.
 
-**To illustrate this point:** See the "Global Sources of Primary Energy" graph post 2060 for oil and gas. Supplies of oil and gas are becoming scarce, pushing up their prices and curtailing investment in new capacity. Note – it isn’t accurate to say that the world is exactly “running out” of oil and gas. You may also notice that the effect is not present with coal because there are more abundant supplies of coal reserves in the world.
+|image20|
 
-|image26|
+*Implications of this dynamic*: Policies that merely promote alternatives to fossil fuels take several decades to reduce carbon dioxide emissions – the existing infrastructure takes a long time to retire away. Thus, meeting climate goals also requires direct disincentives to building and using fossil fuel infrastructure.
 
-Assumptions for available reserves of coal, oil, and gas are viewable and changeable in the “Assumptions” view.
+**Price and Demand Effects**
 
-Supplies compete for market share
----------------------------------
+Energy demand falls if energy prices rise, and demand increases if prices fall. The first dynamic is evident when carbon prices increase. The second, known as the rebound effect, is when zero-carbon energy such as renewables or new technology are either subsidized or experience a breakthrough in cost improvement. 
 
-Many assume that if the world promoted several long term zero-carbon energy supplies such as nuclear, wind, solar, and some new technology, their contribution to carbon mitigation would be additive. Instead, in the simulator one can see that they compete. More of one, less of the other.
+While subsidizing low carbon energy supplies such as Renewables, watch Final Energy Consumption increase. Inexpensive wind and solar spreading around the world decreases overall energy prices and boosts energy demand up:
 
-**This addresses questions such as:**
+|image22|
 
--  “Why didn’t it help to add nuclear to this renewable-dominant scenario?”
 
-**To illustrate this point:** See the "Global Sources of Primary Energy" graph in the three scenarios below. In the first graph, we subsidize renewables alone; in the second, new technology is subsidized on its own; in the third graph, we subsidize both. 
+While increasing carbon price, watch Final Energy Consumption decrease. If you want to see an intermediate variable, look at the “Cost of Energy” graph – costs increase so demand decreases:
 
-In the following scenario, a renewables subsidy leads to a 0.3 degrees Celsius reduction in temperature: 
+|image23|
+
+**Crowding Out or Squeezing the Balloon**
+
+Many assume that if the world promoted several long term zero-carbon energy sources such as nuclear, wind, and solar, their contribution to carbon mitigation would be additive. Instead, they would compete. More of one, less of the other.
+
+*This addresses questions such as*:
+
+•	“Why didn’t it help to add nuclear to this renewable-dominant scenario?”
+
+*To illustrate this point*: See the “Global Sources of Primary Energy” graph in the three scenarios below. In the first graph, we subsidize renewables alone; in the second, new technology is subsidized on its own; in the third graph, we subsidize both. 
+
+In the following scenario, a renewables subsidy leads to a 0.3 degrees Celsius reduction in temperature:
 
 .. image:: ../images/media/image52.png
 
-A huge breakthrough in New Technology also leads to the same 0.3 degree Celsius reduction on its own: 
+A huge breakthrough in New Technology also leads to the same 0.3 degree Celsius reduction on its own:
 
 .. image:: ../images/media/image54.png
 
-When combined, instead of seeing an additive 0.6 degree Celsius reduction, we only see a 0.4 degree reduction in temperature due to the energy supplies competing with each other for market share: 
+When combined, instead of seeing an additive 0.6 degree Celsius reduction, we only see a 0.4 degree reduction in temperature due to the energy supplies competing with each other for market share:
 
 .. image:: ../images/media/image53.png
 
-Population and GDP/capita growth drive emissions
-------------------------------------------------
+3. System Dynamics of the Climate 
+------------------------------------
 
-A challenge to limiting future warming in this simulation is the powerful growth in global GDP, which is population times the GDP/person. Energy efficiency and changes to the fuel mix can help reduce energy emissions, but their success is dampened by the overall ~2% per year growth in GDP. Recognizing this fact leads many game players to explore different futures for population (for example, by empowering women in developing countries, which could lower population growth) and GDP/capita (for example, by finding ways to meet economic needs without increasing consumption).
-
-**This addresses questions such as:**
-
--  “We’ve done a lot in energy efficiency and clean energy – why haven’t emissions reduced substantially enough?”
-
-**To illustrate this point:** See the Kaya Graphs view below for a low emissions scenario with increased energy efficiency and a transition to low carbon energy sources. Even though Energy Intensity of GDP improves and the C Intensity of Final Energy decreases as well, CO\ :sub:`2` Emissions from Energy doesn't see as dramatic a drop as expected due to the continued growth in Global Population and GDP per Capita.
-
-|image28|
-
-Non-CO\ :sub:`2` emissions affect temperature significantly 
-------------------------------------------------------------
-
-Methane, N\ :sub:`2`\ O and the F-gases are controlled by the Methane & Other slider. Adjusting this has a large impact on temperature. This implies changes in livestock management and consumption, waste management, fertilizer use, and industry to make a difference. These emissions make up around 26% of total greenhouse gas emissions. 
-
-**Addresses questions such as:**
-
--  “We’ve done a lot in energy – why haven’t we solved the climate crisis?”
-
-**To illustrate this point:** See the "Non-CO\ :sub:`2` Greenhouse Gas Emissions" graph and adjust the Methane & Other slider. See the scenario below – moderately reducing Methane & Other emissions achieves a large reduction in 2100 temperature.
-
-|image29|
-
-Temperature and CO\ :sub:`2` concentrations seem weakly responsive to CO\ :sub:`2` emissions 
----------------------------------------------------------------------------------------------
+**Bathtub Dynamics - Temperature and CO2 Concentrations Seem Weakly Responsive to CO2 Emissions**
 
 Emissions must fall significantly just to change the growth in temperature and CO\ :sub:`2` concentrations slightly. This counterintuitive dynamic is an important feature of the carbon and climate system. A short explanation for this dynamic would include the fact that the momentum in the carbon cycle and the climate lead to long delays between emissions and temperature.
 
-**Addresses questions such as:**
+Addresses questions such as:
 
--  “Emissions are stabilized, so why is temperature or CO\ :sub:`2` concentration still going up?”
+•	“Emissions are stabilized, so why is temperature or CO\ :sub:`2` concentration still going up?”
 
-**To illustrate this point:** See the "CO\ :sub:`2` Emissions and Removals" and "CO\ :sub:`2` Concentration" graphs in a scenario where CO\ :sub:`2` emissions stabilize. Even though CO\ :sub:`2` emissions (in red below) have flattened, CO\ :sub:`2` concentrations (in blue on the right below) continue to increase.
+To illustrate this point: See the “CO\ :sub:`2` Emissions and Removals” and “CO\ :sub:`2` Concentration” graphs in a scenario where CO\ :sub:`2` emissions stabilize. Even though CO\ :sub:`2` emissions (in red below) have flattened, CO\ :sub:`2` concentrations (in blue on the right below) continue to increase:
 
 |image30|
 
-Similarly, in a much more stringent scenario where CO\ :sub:`2` concentration stabilizes, temperature change continues to increase.
+
+Similarly, in a much more stringent scenario where CO\ :sub:`2` concentration stabilizes, temperature change continues to increase:
 
 |image31|
 
-To understand more about stocks, flows, and the bathtub framing below, watch `our video <https://www.youtube.com/watch?v=nRlYGDBGcRA>`_ as part of our `Climate Leader <https://staging.climateinteractive.org/programs/the-climate-leader/>`_ learning series. 
+
+To understand more about stocks, flows, and the bathtub framing below, check out our `Climate Leader <https://www.climateinteractive.org/programs/the-climate-leader/>`_ learning series.
 
 .. image:: ../images/background_images/bathtub.png
    :scale: 75
    :align: center
 
 Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
+
 
 
 .. SUBSTITUTIONS SECTION
