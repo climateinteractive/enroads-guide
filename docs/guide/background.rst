@@ -1,14 +1,14 @@
 Background on En-ROADS Dynamics
 ===============================
 
-As you use En-ROADS, pay attention to when and how much slider adjustments result in departures from the Business as Usual scenario. Ask your audience to reflect on why this happened to illuminate thinking about the dynamics of the climate and energy system that En-ROADS simulates.
+As you use En-ROADS, pay attention to when and how much slider adjustments result in departures from the Baseline scenario. Ask your audience to reflect on why this happened to illuminate thinking about the dynamics of the climate and energy system that En-ROADS simulates.
 
 Most of the dynamics in En-ROADS can be answered by these explanations:
 
-1. Drivers of the Business as Usual Scenario
+1. Drivers of the Baseline Scenario
 ----------------------------------------------
 
-To gain a deeper understanding of the model’s behaviors, it is important to comprehend what factors drive the Business as Usual scenario. 
+To gain a deeper understanding of the model’s behaviors, it is important to comprehend what factors drive the Baseline scenario. 
 
 **Drivers of Growth**
 
@@ -25,7 +25,7 @@ A challenge to limiting future warming in this simulation is the powerful growth
 
 **Long-Term Limits to Fossil Fuels**
 
-Rising costs due to the scarcity of oil and gas supplies limits the pace of growth for those energy sources. This creates a balancing effect that is evident in the 2060s-2080s for oil and gas in the Business as Usual scenario when they begin to level off. Oil peaks and falls, while the growth rate of natural gas begins decreasing.
+Rising costs due to the scarcity of oil and gas supplies limits the pace of growth for those energy sources. This creates a balancing effect that is evident in the 2060s-2080s for oil and gas in the Baseline scenario when they begin to level off. Oil peaks and falls, while the growth rate of natural gas begins decreasing.
 
 *This addresses questions such as*:
 
@@ -76,7 +76,7 @@ This reinforcing feedback loop explains the dynamic. As the price of renewables 
 
 **Delays and Capital Stock Turnover**
 
-New energy sources (e.g., renewables and new technology) take decades (not years) to scale up to sufficiently compete with coal, oil, and gas globally. One of the main sources of these delays is that new energy infrastructure is only built when old infrastructure retires or there is a need to meet increased energy demand. Only about 6% of all the world’s energy infrastructure changes each year, since infrastructure like coal-fired power plants and oil refineries can be used for 30 or more years. So while new zero-carbon energy sources may make up the majority of the market share of new energy capital, it will take many years for the old capital to turnover and be retired. The climate is only helped when coal, oil, and gas is retired away, and in the absence of other interventions, that amount is relatively small – approximately 3% per year.
+New energy sources (e.g., renewables and new zero carbon technology) take decades (not years) to scale up to sufficiently compete with coal, oil, and gas globally. One of the main sources of these delays is that new energy infrastructure is only built when old infrastructure retires or there is a need to meet increased energy demand. Only about 6% of all the world’s energy infrastructure changes each year, since infrastructure like coal-fired power plants and oil refineries can be used for 30 or more years. So while new zero-carbon energy sources may make up the majority of the market share of new energy capital, it will take many years for the old capital to turnover and be retired. The climate is only helped when coal, oil, and gas is retired away, and in the absence of other interventions, that amount is relatively small – approximately 3% per year.
 
 .. image:: ../images/background_images/slowcapitalstockturnover.png
     :scale: 40
@@ -84,11 +84,11 @@ New energy sources (e.g., renewables and new technology) take decades (not years
 
 *This addresses questions such as*:
 
-•	“Why doesn’t subsidizing renewables, nuclear or a new technology help avoid more warming?”
+•	“Why doesn’t subsidizing renewables, nuclear or a new zero carbon technology help avoid more warming?”
 
 This dynamic is also relevant to increasing energy efficiency, however, energy-using capital such as vehicles, buildings, and industry, has an average lifetime that is much shorter (10-15 years). One can promote increases to energy efficiency of new cars immediately, for example, but the average energy efficiency of all the cars takes decades to improve since it takes time for all the old inefficient cars to be taken off the road.
 
-*To illustrate this point*: Move the New Technology slider to huge breakthrough. Examine the “Global Sources of Primary Energy” graph and notice that, even as low-carbon sources grow, it takes several decades before enough fossil fuel capacity retires away to make much of an impact. Notice, in the graph above, that coal, oil, and natural gas grow steadily through the 2020s and 2030s and greenhouse gas emissions do not depart from the Business as Usual line until mid-century.
+*To illustrate this point*: Move the New Zero Carbon slider to huge breakthrough. Examine the “Global Sources of Primary Energy” graph and notice that, even as low-carbon sources grow, it takes several decades before enough fossil fuel capacity retires away to make much of an impact. Notice, in the graph above, that coal, oil, and natural gas grow steadily through the 2020s and 2030s and greenhouse gas emissions do not depart from the Baseline until mid-century.
 
 |image20|
 
@@ -115,13 +115,13 @@ Many assume that if the world promoted several long term zero-carbon energy sour
 
 •	“Why didn’t it help to add nuclear to this renewable-dominant scenario?”
 
-*To illustrate this point*: See the “Global Sources of Primary Energy” graph in the three scenarios below. In the first graph, we subsidize renewables alone; in the second, new technology is subsidized on its own; in the third graph, we subsidize both. 
+*To illustrate this point*: See the “Global Sources of Primary Energy” graph in the three scenarios below. In the first graph, we subsidize renewables alone; in the second, new zero carbon is subsidized on its own; in the third graph, we subsidize both. 
 
-In the following scenario, a renewables subsidy leads to a 0.3 degrees Celsius reduction in temperature:
+In the following scenario, a Renewables subsidy leads to a 0.3 degrees Celsius reduction in temperature:
 
 .. image:: ../images/media/image52.png
 
-A huge breakthrough in New Technology also leads to the same 0.3 degree Celsius reduction on its own:
+A huge breakthrough in New Zero Carbon also leads to the same 0.3 degree Celsius reduction on its own:
 
 .. image:: ../images/media/image54.png
 

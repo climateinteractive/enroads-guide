@@ -21,7 +21,7 @@ Encouraging
 Big Message
 -----------
 
-* Nuclear is not a huge driver of future temperature and competes with the growth of renewables and new technology.
+* Nuclear is not a huge driver of future temperature and competes with the growth of renewables and new zero carbon technology.
 
 * It could be part of a suite of climate action if one is willing to accept the environmental costs – e.g., handling waste materials and the risk of radiation damage near the plants.
 
