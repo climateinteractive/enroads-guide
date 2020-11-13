@@ -212,17 +212,17 @@ Typical Workflow
 Publishing with ReadTheDocs.org
 ===============================
 
-ReadTheDocs (RTD) handles publishing the documentation website automatically once you check in the latest version to the ``master`` branch in GitHub. This is really convenient, and once reason we chose to use RTD for our documentation. Once you "merge" your ``draft`` version into the ``master`` version, RTDs creates the HTML for the website, creates the PDF of the documentation, and puts it all on the web. The URL is the same for the documentation homepage.
+ReadTheDocs (RTD) handles publishing the documentation website automatically once you check in the latest version to the ``main`` branch in GitHub. This is really convenient, and once reason we chose to use RTD for our documentation. Once you "merge" your ``draft`` version into the ``main`` version, RTDs creates the HTML for the website, creates the PDF of the documentation, and puts it all on the web. The URL is the same for the documentation homepage.
 
-In the Typical Workflow section above, the ``draft`` branch should have been your active branch. When you're making edits and changes, you should avoid working in the ``master`` branch, as that is the public version of the documentation. Only after you have made your edits, verified they are correct, and tested the private website on RTD, should yo proceed to the publishing steps below.
+In the Typical Workflow section above, the ``draft`` branch should have been your active branch. When you're making edits and changes, you should avoid working in the ``main`` branch, as that is the public version of the documentation. Only after you have made your edits, verified they are correct, and tested the private website on RTD, should yo proceed to the publishing steps below.
 
 1. Finish all steps in Typical Workflow (above), including the final step of Pushing your changes to GitHub.
-2. In SourceTree, "check out"  to the ``master`` branch. You can do this by right-clicking ``master`` and choosing "Check out" or simply by double-clicking ``master`` in the sidebar. ``master`` will now be bold in the sidebar indicating you've switched branches and it is active.
-3. With ``master`` still bold (active), right-click ``draft`` and choose "Merge into master". This will merge your edits in the ``draft`` branch into the active ``master`` branch. (Note: In Git, you're always working in the active branch. So if you want to update the ``master`` branch with new changes, it has to be active and then you merge changes from another branch into it.)
+2. In SourceTree, "check out"  to the ``main`` branch. You can do this by right-clicking ``main`` and choosing "Check out" or simply by double-clicking ``main`` in the sidebar. ``main`` will now be bold in the sidebar indicating you've switched branches and it is active.
+3. With ``main`` still bold (active), right-click ``draft`` and choose "Merge into main". This will merge your edits in the ``draft`` branch into the active ``main`` branch. (Note: In Git, you're always working in the active branch. So if you want to update the ``main`` branch with new changes, it has to be active and then you merge changes from another branch into it.)
 4. Then you "push" those changes to GitHub (clicking on the Push button in the toolbar).
 5. Wait about 2-3 minutes for RTDs to automatically get the changes from GitHub. 
 6. Visit the documentation website to verify that the site updated and the changes are correct.  It is now the public site, so this is an important quality control step.
-7. Make ``draft`` active again.  This is just so, when you start your next round of edits, you don't start working on ``master`` accidentally. Double-click ``draft`` in the sidebar and make sure it becomes active (bold) again.
+7. Make ``draft`` active again.  This is just so, when you start your next round of edits, you don't start working on ``main`` accidentally. Double-click ``draft`` in the sidebar and make sure it becomes active (bold) again.
 
 
 reStructuredText Guide
@@ -595,5 +595,4 @@ If you're doing lots of reST editing, this might be a good app to have installed
       echo "NOCUSTOM"
     fi
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 

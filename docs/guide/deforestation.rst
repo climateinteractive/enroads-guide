@@ -47,7 +47,7 @@ Percent per year reduction or increase           -10% to        -4% to -1%      
 Model Structure
 -----------------
 
-Emissions from deforestation stay level in the Business as Usual scenario to reflect trends that indicate deforestation continues to be insufficiently addressed worldwide. 
+Emissions from deforestation stay level in the Baseline scenario to reflect trends that indicate deforestation continues to be insufficiently addressed worldwide. 
 
 Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
 

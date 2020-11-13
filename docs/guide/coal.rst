@@ -70,7 +70,7 @@ India: A one gigawatt increase in coal-fired capacity corresponds to a nearly 15
 
 FAQs
 -----------
-**In the second half of the century, why does the world burn so much coal in your Business as Usual future, while oil and gas usage slowly declines?** The abundant availability of coal in the world keeps coal prices relatively low through the century. While, in contrast, limited oil and gas resources push prices up and usage down after 2050. 
+**In the second half of the century, why does the world burn so much coal in your Baseline future, while oil and gas usage slowly declines?** The abundant availability of coal in the world keeps coal prices relatively low through the century. While, in contrast, limited oil and gas resources push prices up and usage down after 2050. 
 
 **How can I directly force deeper reductions in coal use?** Consider selecting the “Stop building new coal infrastructure” switch in the advanced view, and changing the “% reduction in coal utilization” slider.  
 

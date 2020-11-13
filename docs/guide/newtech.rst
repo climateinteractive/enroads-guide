@@ -1,4 +1,4 @@
-|imgNewTechIcon| New Technology
+|imgNewTechIcon| New Zero Carbon 
 ==================================
 
 **Discover a brand-new cheap source of electricity that does not emit greenhouse gases.** Some speculate that such a breakthrough could be nuclear fusion or thorium-based nuclear fission. Decide when the breakthrough occurs, its initial cost relative to coal, and how long the delays in commercialization and scale up would be.
@@ -18,13 +18,13 @@ Big Message
 Key Dynamics
 ------------
 
-* Watch New Technology (orange line) go up as a breakthrough in a new zero carbon energy supply occurs in the “Global Sources of Primary Energy” graph. Notice that temperature drops only modestly. There are two reasons why:
+* Watch New Zero Carbon (orange line) go up as a breakthrough in a new zero carbon energy supply occurs in the “Global Sources of Primary Energy” graph. Notice that temperature drops only modestly. There are two reasons why:
 
    * First, notice it takes a long time for the new technology to grow and become a large part of the global energy mix. There is a long delay between discovery of the zero-carbon energy technology and its dominance in the market – 10 years to commercialize, several years to plan and build, and then growing only as existing coal and natural gas plants (which have a lifetime of 30 years) are retired. Watch how little Coal (brown line) and Natural Gas (dark blue line) go down before 2040. Because of this, very little carbon is kept underground during a critical period. 
 
-   * Second, look at the “Final Energy Consumption” graph. The reason new technology grows quickly is that it is cheaper than all other energy supplies, so the abundance of inexpensive energy increases demand to higher than it would be otherwise.
+   * Second, look at the “Final Energy Consumption” graph. The reason the new zero-carbon technology grows quickly is that it is cheaper than all other energy supplies, so the abundance of inexpensive energy increases demand to higher than it would be otherwise.
 
-Potential Co-Benefits of a Breakthrough in New Technology
+Potential Co-Benefits of a Breakthrough in New Zero Carbon
 -----------------------------------------------------------
 - A breakthrough in a new energy sources would create jobs along the supply chain from research and development to construction to operations. 
 - Research advancements in new technologies may be useful for other applications.
