@@ -197,16 +197,16 @@ You should now be able to render (preview) the RST file by clicking the side-by-
 Typical Workflow
 ====================
 
-1. Open SourceTree and Pull; the `draft` branch should be active
+1. Open Tower/GitHub Desktop/SourceTree; make sure the `draft` branch should be active (HEAD) and do a ``Pull``
 2. Open Visual Studio Code
 3. Open the folder of the repository
 4. Make edits
 5. Save edits (which is required to update the VSC preview)
 6. Review Preview in VSC to to make sure edits are correct
 7. If corrections are needed, and go back to Step 4.
-8. When done, go back to SourceTree.
+8. When done, go back to Tower/GitHub Desktop/SourceTree.
 9. Click Commit to save the changes as a single set of edits.  You'll need to include a useful commit message to explain what task was accomplished.
-10. In SourceTree, click Push to upload the change to GitHub for the rest of the team to see.  This will also signal to ReadTheDocs to publish a new updated website, making them available on the web.
+10. In Tower/GitHub Desktop/SourceTree, click ``Push`` to upload the change to GitHub for the rest of the team to see. This will also signal to ReadTheDocs to publish a new updated website, making them available on the web.
 
 
 Publishing with ReadTheDocs.org
@@ -216,13 +216,13 @@ ReadTheDocs (RTD) handles publishing the documentation website automatically onc
 
 In the Typical Workflow section above, the ``draft`` branch should have been your active branch. When you're making edits and changes, you should avoid working in the ``main`` branch, as that is the public version of the documentation. Only after you have made your edits, verified they are correct, and tested the private website on RTD, should yo proceed to the publishing steps below.
 
-1. Finish all steps in Typical Workflow (above), including the final step of Pushing your changes to GitHub.
-2. In SourceTree, "check out"  to the ``main`` branch. You can do this by right-clicking ``main`` and choosing "Check out" or simply by double-clicking ``main`` in the sidebar. ``main`` will now be bold in the sidebar indicating you've switched branches and it is active.
+1. Finish all steps in Typical Workflow (above), including the final step of Pushing your changes to the ``draft`` branch on GitHub.
+2. In Tower/GitHub Desktop/SourceTree, "check out"  to the ``main`` branch. You can do this by right-clicking ``main`` and choosing "Check out" or simply by double-clicking ``main`` in the sidebar. ``main`` will now be bold in the sidebar indicating you've switched branches and it is active. With ``main`` checked out, make sure do a pull to get anyone else's changes.
 3. With ``main`` still bold (active), right-click ``draft`` and choose "Merge into main". This will merge your edits in the ``draft`` branch into the active ``main`` branch. (Note: In Git, you're always working in the active branch. So if you want to update the ``main`` branch with new changes, it has to be active and then you merge changes from another branch into it.)
 4. Then you "push" those changes to GitHub (clicking on the Push button in the toolbar).
-5. Wait about 2-3 minutes for RTDs to automatically get the changes from GitHub. 
-6. Visit the documentation website to verify that the site updated and the changes are correct.  It is now the public site, so this is an important quality control step.
-7. Make ``draft`` active again.  This is just so, when you start your next round of edits, you don't start working on ``main`` accidentally. Double-click ``draft`` in the sidebar and make sure it becomes active (bold) again.
+5. RTD will start to build the documentation website. To speed the process along for En-ROADS and C-ROADS guides, you should manually log into https://readthedocs.org, click on `main-docs`, and then click on `Build Version`. Wait about 2-3 minutes for RTDs to automatically get the changes from GitHub.
+6. Visit the documentation website to verify that the site updated and the changes are correct. It is now the public site, so this is an important quality control step.
+7. Back in Tower/GitHub Desktop/SourceTree, make ``draft`` active again.  This is just so, when you start your next round of edits, you don't start working on ``main`` accidentally. Double-click ``draft`` in the sidebar and make sure it becomes active (bold) again.
 
 
 reStructuredText Guide
@@ -567,7 +567,7 @@ Other reST Tools
 Online editor with preview
 --------------------------------
 
-Below is an online tool that will render reStructuredText in a browser. The browser window contains a split view to the rst code is on left side with a preview on the right.   http://rst.ninjs.org
+Below is an online tool that will render reStructuredText in a browser. The browser window contains a split view to the rst code is on left side with a preview on the right. http://rst.ninjs.org
 
 reStructuredText Preview independent of a text editor
 ----------------------------------------------------------
@@ -586,7 +586,7 @@ If you're doing lots of reST editing, this might be a good app to have installed
     #!/bin/bash
 
     # Could $HOME be used here?
-    RST2HTML="/Users/travler/Library/Python/2.7/bin/rst2html.py"
+    RST2HTML="$HOME/.local/bin/rst2html.py"
 
     # echo $MARKED_EXT  # for debugging
     if [ $MARKED_EXT = "rst" ]; then
@@ -595,4 +595,8 @@ If you're doing lots of reST editing, this might be a good app to have installed
       echo "NOCUSTOM"
     fi
 
+Buildings from the Terminal
+----------------------------------------------------------
+
+In the repo, there is a command ``makedocs``. Simply executing this script will build the documentation website local for review.
 
