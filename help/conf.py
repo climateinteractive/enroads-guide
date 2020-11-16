@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Internal Documentation'
-copyright = u'2019, Climate Interactive'
+copyright = u'2021, Climate Interactive'
 author = u'Climate Interactive'
 
 # The short X.Y version
