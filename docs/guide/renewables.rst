@@ -47,8 +47,8 @@ The following table highlights the numerical ranges for the labelled input level
 ======================================= ================ ================ ============ =================
 \                                       taxed            status quo       subsidized   highly subsidized
 ======================================= ================ ================ ============ =================
-Change in price per kilowatt hour (kWh) +$0.03 to +$0.01 **+$0.01 to      -$0.01 to    -$0.03 to
-                                                         -$0.01**         -$0.03       -$0.07
+Change in price per kilowatt hour (kWh) +$0.02 to +$0.01 **+$0.01 to      -$0.01 to    -$0.02 to
+                                                         -$0.01**         -$0.02       -$0.03
 Cost increase or decrease               +30% to +10%     **+10% to -10%** -10% to -30% -30% to -60%
 ======================================= ================ ================ ============ =================
 
