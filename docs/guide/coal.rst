@@ -20,7 +20,7 @@ Big Messages
 Key Dynamics
 ------------
 
-*  When coal is discouraged, by taxing it, watch the brown line go down in the “Sources of Primary Energy” graph. It is one of the most sensitive energy supplies to any increase in cost. Unlike oil, it can often be substituted for natural gas and renewables.
+*  When coal is discouraged, by taxing it, watch the brown area of Coal go down in the “Sources of Primary Energy” graph. It is one of the most sensitive energy supplies to any increase in cost. Unlike oil, it can often be substituted for natural gas and renewables.
 
 *  Taxing coal also reduces energy demand (see graphs “Final Energy Consumption” and “Cost of Energy”). When energy prices are higher, people tend to use energy more efficiently and conserve energy. However, tax policies must be implemented with considerations for poor and working-class communities who can be harmfully impacted by high energy prices.
 
@@ -70,9 +70,7 @@ India: A one gigawatt increase in coal-fired capacity corresponds to a nearly 15
 
 FAQs
 -----------
-**In the second half of the century, why does the world burn so much coal in your Baseline future, while oil and gas usage slowly declines?** The abundant availability of coal in the world keeps coal prices relatively low through the century. While, in contrast, limited oil and gas resources push prices up and usage down after 2050. 
-
-**How can I directly force deeper reductions in coal use?** Consider selecting the “Stop building new coal infrastructure” switch in the advanced view, and changing the “% reduction in coal utilization” slider.  
+**How can I directly force deeper reductions in coal use?** Consider selecting the “Stop building new coal infrastructure” switch in the advanced view, and changing the “% Reduction in coal utilization” slider.  
 
 Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
 

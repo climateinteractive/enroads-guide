@@ -22,7 +22,7 @@ Big Message
 Key Dynamics 
 -------------
 
-* **Impact**. As you encourage renewables, watch Coal (brown line) and Natural Gas (blue line) both shift down in the “Global Sources of Primary Energy” graph. This shows the benefit of renewables for the climate – keeping coal, oil, and gas in the ground.
+* **Impact**. As you encourage renewables, watch the brown area of Coal and the dark blue area of Natural Gas both shift down in the “Global Sources of Primary Energy” graph. This shows the benefit of renewables for the climate – keeping coal, oil, and gas in the ground.
 
 * **Rebound effect.** Subsidies to renewables decrease energy costs, which increases energy demand over what it would have been otherwise (people use more energy when it is cheap). This rebound effect somewhat reduces the positive impact of encouraging renewable energy. View this dynamic with the graph “Final Energy Consumption\ *.”*
 

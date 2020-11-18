@@ -18,7 +18,7 @@ Big Message
 Key Dynamics
 ------------
 
-* When there is more efficient electrical systems powering building and industries, notice that Natural Gas (dark blue line) and Coal (brown line) move down in the “Global Sources of Primary Energy” graph.
+* When there is more efficient electrical systems powering building and industries, notice that Natural Gas (dark blue area) and Coal (brown area) move down in the “Global Sources of Primary Energy” graph.
 
 Potential Co-Benefits of Encouraging Electrification
 ------------------------------------------------------

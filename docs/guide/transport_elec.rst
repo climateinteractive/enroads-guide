@@ -27,7 +27,7 @@ Key Dynamics
 
   * Overall efficiency is greater for electrified transport than for internal combustion engines – in general, less fuel is used to power transport with electricity than oil.
 
-  * Oil, in the “Global Sources of Primary Energy” graph, goes down as we electrify transport. At the same time, increased electrical demand is powered by coal and, to a more limited extent, renewables (in the absence of a carbon price or other taxes).
+  * Oil, in the “Global Sources of Primary Energy” graph, goes down as we electrify transport. At the same time, primary energy demand for coal, renewables, and to a more limited extent, natural gas, all increase to power the rise in electrical demand. 
 
 Potential Co-Benefits of Encouraging Electrification
 -------------------------------------------------------

@@ -28,9 +28,9 @@ Big Message
 Key Dynamics
 ------------
 
-* As you subsidize nuclear, watch Nuclear (light blue line) move up, and Coal (brown line) and Natural Gas (dark blue line) move down in the “Global Sources of Primary Energy” graph. Nuclear displaces some fossil fuel sources, which keeps more carbon in the ground and helps reduce temperature modestly.
+* As you subsidize nuclear, watch Nuclear (light blue area) grow, and Coal (brown area) and Natural Gas (dark blue area) decrease in the “Global Sources of Primary Energy” graph. Nuclear displaces some fossil fuel sources, which keeps more carbon in the ground and helps reduce temperature modestly.
 
-* Nuclear competes with all energy sources available, so notice also what happens to Renewables (green line) when nuclear is incentivized —it goes down too. 
+* Nuclear competes with all energy sources available, so notice also what happens to Renewables (green area) when nuclear is incentivized —it decreases too. 
 
 Potential Co-Benefits of Discouraging Nuclear 
 ----------------------------------------------

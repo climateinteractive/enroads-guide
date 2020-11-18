@@ -15,7 +15,7 @@ Examples
 Key Dynamics
 ------------
 
-* Watch Oil (red line) bend down in the “Global Sources of Primary Energy” graph as the world increases the efficiency of its transport. Less oil is burned, and coal and gas fall as well as electrified transport becomes more efficient. 
+* Watch Oil (red area) decrease in the “Global Sources of Primary Energy” graph as the world increases the efficiency of its transport. Less oil is burned, and coal and gas fall as well as electrified transport becomes more efficient. 
 * View the “Final Energy Consumption” graph to see the fall in energy demand. 
 * To see another benefit, look at the “Cost of Energy” graph. Less demand for energy means prices are lower. 
 
