@@ -40,13 +40,11 @@ Slider Settings
 
 The slider reflects the 95% probability range of population deviating from the United Nation's medium population growth path. This input is indexed across the UN's scenarios, where -1 is the low end of the UN’s growth range, 0 is the medium growth scenario, and 1 is the high end of the range.
 
-================== ========================= =================== ================================ =================== ===============================
-\                  lowest growth             low growth          **status quo**                   high growth         highest growth
-================== ========================= =================== ================================ =================== ===============================
-UN Scenario        low end of UN's 95% range                     **middle of the UN's 95% range**                     high end of the UN's 95% range
-Units              -1 to -0.8                -0.8 to -0.2        **-0.2 to 0.2**                  0.2 to 0.8          0.8 to 1
-Population in 2050 9.3 to 9.4 billion        9.4 to 9.7 billion  **9.7 to 9.8 billion**           9.8 to 10.1 billion 10.1 to 10.2 billion
-================== ========================= =================== ================================ =================== ===============================
+================== ========================= =================== ================================ ==================== ===============================
+\                  lowest growth             low growth          **status quo**                   high growth          highest growth
+================== ========================= =================== ================================ ==================== ===============================
+Population in 2100 9.1 to 9.5 billion        9.5 to 10.5 billion  **10.5 to 11.4 billion**        11.4 to 12.8 billion 12.8 to 13.2 billion
+================== ========================= =================== ================================ ==================== ===============================
 
 Model Structure
 ---------------

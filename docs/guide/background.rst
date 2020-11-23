@@ -19,7 +19,7 @@ A challenge to limiting future warming in this simulation is the powerful growth
 •	“We’ve done a lot in energy efficiency and clean energy – why haven’t emissions reduced substantially enough?”
 
 
-*To illustrate this point*: See the Kaya Graphs view below for a low emissions scenario with increased energy efficiency and a transition to low carbon energy sources. Even though Energy Intensity of GDP improves, and the Carbon Intensity of Energy decreases as well, CO\ :sub:`2` Emissions from Energy doesn’t see as dramatic a drop as might be expected due to the continued growth in Global Population and GDP per person.
+*To illustrate this point*: See the Kaya Graphs view below for a low emissions scenario with increased energy efficiency and a transition to low carbon energy sources. Even though Energy Intensity of GDP improves, and the Carbon Intensity of Energy decreases as well, Global Population and GDP per person continue to grow.
 
 |image28|
 
@@ -31,7 +31,7 @@ Rising costs due to the scarcity of oil and gas supplies limits the pace of grow
 
 •	“Why do the curves for gas and oil level out?”
 
-*To illustrate this point*: See the “Global Sources of Primary Energy” graph post 2060 for oil and gas. Supplies of oil and gas are becoming scarce, pushing up their prices and curtailing investment in new capacity. You may also notice that the effect is not present with coal because there are more abundant supplies of coal reserves in the world.
+*To illustrate this point*: See the “Primary Energy Demand” graphs for Oil and Natural Gas. Supplies of oil and gas are becoming scarce, pushing up their prices and curtailing investment in new capacity. 
 
 |image26|
 
@@ -39,13 +39,13 @@ Assumptions for available reserves of coal, oil, and gas can be reviewed and adj
 
 **Non-CO2 Emissions Affect Temperature Significantly**
 
-Methane, N2O and the F-gases are controlled by the Methane & Other slider. Adjusting this has a large impact on temperature. This implies significant changes in livestock management and consumption, waste management, fertilizer use, and industry. These emissions make up around 26% of total greenhouse gas emissions.
+Methane, N\ :sub:`2`\O, and the F-gases are controlled by the Methane & Other slider. Adjusting this has a large impact on temperature. This implies significant changes in livestock management and consumption, waste management, fertilizer use, and industry. These emissions currently make up around 28% of total greenhouse gas emissions.
 
 *Addresses questions such as*:
 
 •	“We’ve done a lot in energy – why haven’t we solved the climate crisis?”
 
-*To illustrate this point*: See the “Greenhouse Gas Net Emissions by Gas – Area” graph and adjust the Methane & Other slider. See the scenario below – moderately reducing Methane & Other emissions achieves a large reduction in 2100 temperature.
+*To illustrate this point*: See the “Greenhouse Gas Net Emissions by Gas – Area” and "Greenhouse Gas Net Emissions" graphs and adjust the Methane & Other slider. See the scenario below – moderately reducing Methane & Other emissions achieves a large reduction in 2100 temperature.
 
 .. image:: ../images/media/image55.png
 
@@ -54,13 +54,11 @@ Methane, N2O and the F-gases are controlled by the Methane & Other slider. Adjus
 
 **Economies of Scale and Learning**
 
-Increasing the capacity and installation of new energy sources leads to a decrease in price, and therefore even greater capacity and installations. Costs of energy supplies such as renewables fall as cumulative experience is gained through a learning feedback loop, also known as “economies of scale.” Every doubling of cumulative installed capacity of renewables reduces costs by around 20%, creating a reinforcing loop (this is known as the “progress ratio”):
+Costs of energy supplies such as renewables fall as cumulative experience is gained through a learning feedback loop, also known as “economies of scale.” Every doubling of cumulative installed capacity of renewables reduces costs by around 20%, creating a reinforcing loop (this is known as the “progress ratio”). Increasing the capacity (1) and installation (2) of new energy sources leads to increased learning (3), a decrease in price (4), increasing the attractiveness of renewables (5) and therefore even greater capacity and installations: 
 
 .. image:: ../images/background_images/learningloop.png
    :scale: 50
    :align: center
-
-This reinforcing feedback loop explains the dynamic. As the price of renewables falls relative to other energy sources, the attractiveness of renewables grows. This leads to an even greater percentage of new capacity met by renewables, more installations of renewables, further learning, and prices falling even further.
 
 *This addresses questions such as*:
 
@@ -70,9 +68,11 @@ This reinforcing feedback loop explains the dynamic. As the price of renewables 
 
 •	“Aren’t the costs of renewables prohibitive?”
 
-*To illustrate this point*: Look at the “Renewables Primary Energy Demand” graph in a scenario in which Renewables are subsidized. It sparks exponential growth that is driven and sustained by the reinforcing learning loop figure shown above.
+*To illustrate this point*: Look at the “Renewables Primary Energy Demand” graph in a scenario in which Renewables are subsidized. It sparks an initial exponential growth that is driven and sustained by the reinforcing learning loop figure shown above.
 
-|image25|
+.. image:: ../images/media/image49.png
+   :scale: 40
+   :align: center
 
 **Delays and Capital Stock Turnover**
 
@@ -88,7 +88,7 @@ New energy sources (e.g., renewables and new zero carbon technology) take decade
 
 This dynamic is also relevant to increasing energy efficiency, however, energy-using capital such as vehicles, buildings, and industry, has an average lifetime that is much shorter (10-15 years). One can promote increases to energy efficiency of new cars immediately, for example, but the average energy efficiency of all the cars takes decades to improve since it takes time for all the old inefficient cars to be taken off the road.
 
-*To illustrate this point*: Move the New Zero Carbon slider to huge breakthrough. Examine the “Global Sources of Primary Energy” graph and notice that, even as low-carbon sources grow, it takes several decades before enough fossil fuel capacity retires away to make much of an impact. Notice, in the graph above, that coal, oil, and natural gas grow steadily through the 2020s and 2030s and greenhouse gas emissions do not depart from the Baseline until mid-century.
+*To illustrate this point*: Move the New Zero Carbon slider to huge breakthrough. Examine the “Global Sources of Primary Energy” graph and notice that, even as low-carbon sources grow, it takes several decades before enough fossil fuel capacity retires away to make much of an impact. Notice that coal, oil, and natural gas grow steadily through the 2020s and 2030s and it takes time for greenhouse gas emissions to depart from the Baseline scenario. 
 
 |image20|
 
@@ -96,36 +96,36 @@ This dynamic is also relevant to increasing energy efficiency, however, energy-u
 
 **Price and Demand Effects**
 
-Energy demand falls if energy prices rise, and demand increases if prices fall. The first dynamic is evident when carbon prices increase. The second, known as the rebound effect, is when zero-carbon energy such as renewables or new technology are either subsidized or experience a breakthrough in cost improvement. 
+Energy demand falls if energy prices rise, and demand increases if prices fall. The first dynamic is evident when carbon prices increase. The second, known as the rebound effect, is when zero-carbon energy such as renewables or a new technology are either subsidized or experience a breakthrough in cost improvement. 
 
 While subsidizing low carbon energy supplies such as Renewables, watch Final Energy Consumption increase. Inexpensive wind and solar spreading around the world decreases overall energy prices and boosts energy demand up:
 
 |image22|
 
 
-While increasing carbon price, watch Final Energy Consumption decrease. If you want to see an intermediate variable, look at the “Cost of Energy” graph – costs increase so demand decreases:
+On the other hand, implementing a carbon price causes energy costs to increase and consumptions to decrease:
 
 |image23|
 
 **Crowding Out or Squeezing the Balloon**
 
-Many assume that if the world promoted several long term zero-carbon energy sources such as nuclear, wind, and solar, their contribution to carbon mitigation would be additive. Instead, they would compete. More of one, less of the other.
+Many assume that if the world promoted several long term zero-carbon energy sources such as nuclear, wind, and solar, their contribution to carbon mitigation would be additive. Instead, they actually compete. More of one, less of the other.
 
 *This addresses questions such as*:
 
-•	“Why didn’t it help to add nuclear to this renewable-dominant scenario?”
+•	“Why didn’t it help to have a breakthrough in a new zero carbon energy supply in this renewable-dominant scenario?”
 
-*To illustrate this point*: See the “Global Sources of Primary Energy” graph in the three scenarios below. In the first graph, we subsidize renewables alone; in the second, new zero carbon is subsidized on its own; in the third graph, we subsidize both. 
+*To illustrate this point*: See the “Global Sources of Primary Energy” graph in the three scenarios below. In the first graph, we subsidize renewables alone; in the second, there is a breakthrough in new zero carbon technologies; in the third graph, we see both a renewables subsidy and a new zero carbon breakthrough. 
 
-In the following scenario, a Renewables subsidy leads to a 0.3 degrees Celsius reduction in temperature:
+In the following scenario, a high Renewables subsidy leads to a 0.1 degree Celsius reduction in temperature:
 
 .. image:: ../images/media/image52.png
 
-A huge breakthrough in New Zero Carbon also leads to the same 0.3 degree Celsius reduction on its own:
+A huge breakthrough in New Zero Carbon also leads to a 0.2 degrees Celsius reduction on its own:
 
 .. image:: ../images/media/image54.png
 
-When combined, instead of seeing an additive 0.6 degree Celsius reduction, we only see a 0.4 degree reduction in temperature due to the energy supplies competing with each other for market share:
+When combined, instead of seeing an additive 0.3 degree Celsius reduction, we only see a 0.2 degree reduction in temperature due to the energy supplies competing with each other for market share:
 
 .. image:: ../images/media/image53.png
 
@@ -221,7 +221,7 @@ Please visit `support.climateinteractive.org <https://support.climateinteractive
 .. |image19| image:: ../images/media/image39.jpg
    :scale: 40
 .. |image20| image:: ../images/media/image40.png
-   :scale: 30
+   :scale: 40
 .. |image21| image:: ../images/media/image42.jpg
    :scale: 75
 .. |image22| image:: ../images/media/image43.png
@@ -233,6 +233,7 @@ Please visit `support.climateinteractive.org <https://support.climateinteractive
    :height: 2.44307in
 .. |image25| image:: ../images/media/image49.png
    :scale: 30
+   :align: center
 .. |image26| image:: ../images/media/image50.png
    :scale: 30
 .. |image27| image:: ../images/media/image52.png
