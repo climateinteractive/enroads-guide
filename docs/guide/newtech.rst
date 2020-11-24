@@ -20,7 +20,7 @@ Key Dynamics
 
 * Watch the orange area of New Zero Carbon go up as a breakthrough in a new zero carbon energy supply occurs in the “Global Sources of Primary Energy” graph. Notice that temperature drops only modestly. There are two reasons why:
 
-   * First, notice it takes a long time for the new technology to grow and become a large part of the global energy mix. There is a long delay between discovery of the zero-carbon energy technology and its dominance in the market – 10 years to commercialize, several years to plan and build, and then growing only as existing coal and natural gas plants (which have a lifetime of 30 years) are retired. Watch how little Coal (brown area) and Natural Gas (dark blue area) go down before 2040. Because of this, very little carbon is kept underground during a critical period. 
+   * First, notice it takes a long time for the new technology to grow and become a large part of the global energy mix. There is a long delay between discovery of the zero-carbon energy technology and its dominance in the market – 10 years to commercialize, several years to plan and build, and then growing only as existing coal and natural gas plants (which have a lifetime of 30 years) are retired. Watch how little Coal (brown area) and Natural Gas (dark blue area) go down before 2040. Because of this, very little carbon is kept underground during this critical period. 
 
    * Second, look at the “Final Energy Consumption” graph. The reason the new zero-carbon technology grows quickly is that it is cheaper than all other energy supplies, so the abundance of inexpensive energy increases demand to higher than it would be otherwise.
 
@@ -31,7 +31,7 @@ Potential Co-Benefits of a Breakthrough in New Zero Carbon
 
 Equity Considerations 
 ----------------------
-- There are unknown consequences and risks associated with new energy sources.
+- There are unknown consequences and risks associated with new energy sources, and oftentimes these technologies can end up being located in vulnerable communities.  
 
 Slider Settings
 ---------------
