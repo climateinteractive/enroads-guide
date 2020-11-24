@@ -38,7 +38,7 @@ Equity Considerations
 Slider Settings
 ---------------
 
-The slider reflects the 95% probability range of population deviating from the United Nation's medium population growth path.
+The slider reflects the 95% probability range of population deviating from the United Nation's medium population growth path. The variable being changed reflects the global population by 2100, in billions of people. 
 
 ================== ========================= =================== ================================ ==================== ===============================
 \                  lowest growth             low growth          **status quo**                   high growth          highest growth
