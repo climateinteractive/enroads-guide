@@ -17,14 +17,14 @@ Examples
 Big Message
 -----------
 
-* Subsidizing renewable energy is a helpful way to keep coal and gas in the ground and reduce future temperature. However, it isn’t a silver bullet; that is, it isn't sufficient without other actions. 
+* Subsidizing renewable energy helps to limit coal and gas demand and reduce future temperature. Without other actions, however, it isn’t enough to keep fossil fuels in the ground. 
 
 Key Dynamics 
 -------------
 
-* **Impact**. As you encourage renewables, watch the brown area of Coal and the dark blue area of Natural Gas both shift down in the “Global Sources of Primary Energy” graph. This shows the benefit of renewables for the climate – keeping coal, oil, and gas in the ground.
+* **Impact**. As you encourage renewables, watch demand for Renewables (in green) grow and the demand for Coal (in brown) and Natural Gas (in blue) reduce in the “Global Sources of Primary Energy” graph. Renewable energy is already growing steadily in the Baseline scenario so the additional subsidies help reduce emissions but only so much.
 
-* **Rebound effect.** Subsidies to renewables decrease energy costs, which increases energy demand over what it would have been otherwise (people use more energy when it is cheap). This rebound effect somewhat reduces the positive impact of encouraging renewable energy. View this dynamic with the graph “Final Energy Consumption\ *.”*
+* **Rebound effect.** Additionally, subsidies to renewables decrease energy costs, which increase energy demand over what it would have been otherwise (people use more energy when it is cheap). This rebound effect somewhat reduces the positive impact of encouraging renewable energy. View this dynamic with the graph “Final Energy Consumption.”
 
 * **Delays.** It takes time for the subsidies and encouragement of renewables to show up in installed capacity. Subsidies are phased in over 10 years so note in the “Renewable Final Energy Consumption” graph that the Current Scenario does not immediately differ from the Baseline.
 
