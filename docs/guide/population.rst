@@ -43,6 +43,7 @@ The slider reflects the 95% probability range of population deviating from the U
 ================== ========================= =================== ================================ ==================== ===============================
 \                  lowest growth             low growth          **status quo**                   high growth          highest growth
 ================== ========================= =================== ================================ ==================== ===============================
+UN Scenario        low end of UN's 95% range                     **middle of of UN's 95% range**                       high end of UN's 95% range 
 Population in 2100 9.1 to 9.5 billion        9.5 to 10.5 billion **10.5 to 11.4 billion**         11.4 to 12.8 billion 12.8 to 13.2 billion
 ================== ========================= =================== ================================ ==================== ===============================
 
