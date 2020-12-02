@@ -47,7 +47,7 @@ The variable being changed is the percent reduction or increase of total maximum
 =============================================== ============== ================== ============== ============
 \                                               highly reduced moderately reduced **status quo** increased
 =============================================== ============== ================== ============== ============
-Percent reduction or increase of maximum action -100% to       -50% to -2%         **-2% to 0%** 0% to +10%
+Percent reduction or increase of maximum action -100% to       -50% to -2%        **-2% to 0%**  0% to +10%
                                                 -50%                             
 =============================================== ============== ================== ============== ============
 
