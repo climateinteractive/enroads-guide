@@ -15,7 +15,7 @@ Model Upgrade
 
 New
 ^^^^^
-- **Updated Baseline**: Several model additions related to renewable energy sources have lowered the baseline temperature in 2100 to 3.6°C/6.5°F. 
+- **Updated Baseline**: Several model adjustments related to renewable energy sources, pre-industrial temperature benchmarking, and modeling of non-greenhouse gas forcings have lowered the baseline temperature in 2100 to 3.6°C/6.5°F. 
 - Renewables are now disaggregated and explicitly modeled for solar, wind, geothermal, and other renewables.  
 - We also account for the historical subsidies for renewables and the “soft costs” associated with each renewable type. These soft costs have declined as experience was gained. 
 - The temperature change reported is now relative to the 19th century.
