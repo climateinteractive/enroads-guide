@@ -28,9 +28,9 @@ Big Message
 Key Dynamics
 ------------
 
-* As you subsidize nuclear, watch Nuclear (light blue line) move up, and Coal (brown line) and Natural Gas (dark blue line) move down in the “Global Sources of Primary Energy” graph. Nuclear displaces some fossil fuel sources, which keeps more carbon in the ground and helps reduce temperature modestly.
+* As you subsidize nuclear, watch Nuclear (light blue area) grow, and Coal (brown area) and Natural Gas (dark blue area) decrease in the “Global Sources of Primary Energy” graph. Nuclear displaces some fossil fuel sources, which keeps more carbon in the ground and helps reduce temperature modestly.
 
-* Nuclear competes with all energy sources available, so notice also what happens to Renewables (green line) when nuclear is incentivized —it goes down too. 
+* Nuclear competes with all energy sources available, so notice also what happens to Renewables (green area) when nuclear is incentivized —it decreases too. 
 
 Potential Co-Benefits of Discouraging Nuclear 
 ----------------------------------------------
@@ -51,8 +51,8 @@ The following table highlights the numerical ranges for the labelled input level
 ======================================= ================ ================ =========== ========== =================
 \                                       highly taxed     taxed            status quo  subsidized highly subsidized
 ======================================= ================ ================ =========== ========== =================
-Change in price per kilowatt hour (kWh) +$0.07 to +$0.04 +$0.04 to +$0.01 **+$0.01 to -$0.01 to  -$0.04 to
-                                                                          -$0.01**    -$0.04     -$0.07
+Change in price per kilowatt hour (kWh) +$0.07 to +$0.03 +$0.03 to +$0.01 **+$0.01 to -$0.01 to  -$0.03 to
+                                                                          -$0.01**    -$0.03     -$0.07
 Cost increase or decrease               +60% to +30%     +30% to +10%     **+10% to   -10% to    -30% to
                                                                           -10%**      -30%       -60%
 ======================================= ================ ================ =========== ========== =================

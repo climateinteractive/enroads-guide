@@ -13,12 +13,12 @@ Examples
 Big Message
 -----------
 
-* Pricing carbon is a high leverage strategy. It both reduces the carbon intensity of the energy supply and reduces the overall energy demand. That said, it is no silver bullet.
+* Pricing carbon is a high leverage strategy, as it both reduces the carbon intensity of the energy supply and reduces the overall energy demand.
 
 Key Dynamics
 ------------
 
-* When the carbon price is increased, notice that Coal (brown line) reduces the most in the “Global Sources of Primary Energy” graph. It is the most carbon intensive source of energy, which makes it the most sensitive to a carbon price. Natural Gas (dark blue line) moves down as well, although more modestly. Oil (red line) decreases only slightly, even though it is more carbon intensive than gas, because it is not easily substituted for other energy sources (e.g. can’t power a diesel truck with wind power). Renewables (green line) increases as the relative cost of wind and solar make them more attractive.
+* When the carbon price is increased, notice that Coal (brown area) reduces the most in the “Global Sources of Primary Energy” graph. It is the most carbon intensive source of energy, which makes it the most sensitive to a carbon price. Natural Gas (dark blue area) decreases as well, although more modestly. Oil (red area) decreases only slightly, even though it is more carbon intensive than gas, because it is not easily substituted for other energy sources (e.g. can’t power a diesel truck with wind power). Renewables (green area) increases as the relative cost of wind and solar make them more attractive.
 
 * Just like taxing coal, a significant carbon price increases energy costs, which reduces energy demand. View this in the “Final Energy Consumption” graph, noting that the high carbon price Current Scenario (blue line) is lower than Business as Usual (black line).
 

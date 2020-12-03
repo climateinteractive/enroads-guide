@@ -18,9 +18,7 @@ Big Message
 Key Dynamics
 ------------
 
-* If gas is subsidized, high-carbon coal and oil decrease slightly and natural gas goes up. Overall, there is no net benefit to emissions.
-
-* If gas is taxed, in absence of other policies, the opposite of the above is true; natural gas goes down, but high-carbon coal and oil increase, with no net benefit on emissions or temperature change. We call this the “squeeze the balloon” problem – depressing fossil fuel emissions in one area causes them to pop up in another. Adding a carbon price is a good solution to the “squeeze the balloon” problem, as it addresses all fossil fuels together. 
+* If gas is taxed, in absence of other policies, primary energy demand for natural gas decreases, but high-carbon coal and oil demand increases slightly. We call this the “squeeze the balloon” problem – depressing fossil fuel emissions in one area causes them to pop up in another. Adding a carbon price is a good solution to the “squeeze the balloon” problem, as it addresses all fossil fuels together. 
 
 Potential Co-Benefits of Discouraging Natural Gas
 ---------------------------------------------------
@@ -41,7 +39,7 @@ The following table highlights the numerical ranges for the labelled input level
 ============================================= ================= ================ ================ =========== ==========
 \                                             very highly taxed highly taxed     taxed            status quo  subsidized
 ============================================= ================= ================ ================ =========== ==========
-Change in price per thousand cubic feet (Mcf) +$6.00 to +$2.00  +$2.00 to +$1.00 +$1.00 to +$0.30 **+$0.30 to -$0.30 to
+Change in price per thousand cubic feet (Mcf) +$5.00 to +$2.00  +$2.00 to +$1.00 +$1.00 to +$0.30 **+$0.30 to -$0.30 to
                                                                                                   -$0.30**    -$1.00
 Cost increase or decrease                     +200% to +60%     +60% to +30%     +30% to +10%     **+10% to   -10% to
                                                                                                   -10%**      -30%
@@ -60,7 +58,7 @@ The cost of natural gas affects three significant decisions regarding energy inf
 
 FAQs
 ------
-**How can I directly force deeper reductions in natural gas use?** Consider selecting the “Stop building new natural gas infrastructure” switch in the advanced view, and changing the “% reduction in natural gas utilization” slider.
+**How can I directly force deeper reductions in natural gas use?** Consider selecting the “Stop building new natural gas infrastructure” switch in the advanced view, and changing the “% Reduction in gas utilization” slider.
 
 Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
 

@@ -9,10 +9,10 @@ A  simple way to think about the structure of En-ROADS is by considering the dri
 
 The concentration of greenhouse gases in the atmosphere is driven by four main sources:
 
-#.	**Energy CO2 emissions** from burning coal, oil, gas, and biomass. CO\ :sub:`2` emissions comprise 67.5% of greenhouse gas emissions.
-#.	**Land use CO2 emissions** such as forestry and land use change.
-#.	**Carbon Dioxide removal** approaches that pull carbon dioxide out of the atmosphere and store it in plants, soils, or underground leading to a decrease in CO\ :sub:`2` concentrations.
-#.	**Other greenhouse gas emissions** such as methane, N20, and F-gases, which comprise about 26% of total greenhouse gas emissions. 
+#.	**Energy CO2 Emissions** from burning coal, oil, gas, and biomass. CO\ :sub:`2` emissions from energy currently comprise about 65% of greenhouse gas emissions.
+#.	**Land Use CO2 Emissions** such as forestry and land use change. CO\ :sub:`2` emissions from land use currently comprise about 7% of greenhouse gas emissions. 
+#.	**Carbon Dioxide Removal** approaches that pull carbon dioxide out of the atmosphere and store it in plants, soils, or underground leading to a decrease in CO\ :sub:`2` concentrations.
+#.	**Other Greenhouse Gas Emissions** such as methane, N\ :sub:`2`\O, and F-gases. Non-CO\ :sub:`2` emissions currently comprise about 28% of total greenhouse gas emissions. 
 
 .. image:: ../images/background_images/causalstructure2.png
     :scale: 50 

@@ -1,7 +1,7 @@
 Kaya Graphs 
 ===============================
 
-This view shows the drivers of growth in carbon dioxide emissions, which reflects about two-thirds of all greenhouse gas emissions. 
+This view shows the drivers of growth in carbon dioxide emissions from energy, which reflects about two-thirds of all greenhouse gas emissions. 
 
 It is called the “Kaya” view because of the equation below, created by Yoichi Kaya:
 

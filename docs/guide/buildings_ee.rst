@@ -15,12 +15,13 @@ Examples
 Big Message
 -----------
 
-* Energy efficiency of buildings and industry is high leverage. It leads to less energy use, which leads to coal, oil, and gas being used. It also saves families, business, and communities money.
+* Energy efficiency of buildings and industry is high leverage. It leads to less overall energy use, which leads to less coal, oil, and gas being used. It also saves families, business, and communities money.
 
 Key Dynamics
 ------------
 
 * As less energy is used for buildings and industry, notice how all the energy sources decline in the “Global Sources of Primary Energy” graph - particularly coal and gas when they are the main sources of electricity. Less fossil fuels are burned so CO\ :sub:`2` emissions go down and global temperature change is lowered dramatically.
+
 * Improvements in energy intensity of new capital also reduce energy demand. Explore this in the “Final Energy Consumption” graph, where the Current Scenario (blue line) is lower than the Baseline (black line).
 
 Potential Co-Benefits of Encouraging Energy Efficiency

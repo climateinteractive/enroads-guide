@@ -20,19 +20,24 @@ E. **View larger graphs** – If you want to expand one of the graphs into a sep
 .. image:: ../images/tutorial_images/graphs.png
 
 
-
 Sliders/Actions
 -----------------
 
-There are 18 sliders representing actions you can test in the En-ROADS simulator. Click the three dots on the right of each slider to access detailed slider settings. Here is what you will find in the detailed slider view:  
+There are 18 sliders representing different actions you can test in the En-ROADS simulator. Click the title of the slider or the three dots on the right of each slider to access detailed slider settings: 
 
-A. Description of the slider
+.. image:: ../images/tutorial_images/advanced.png
+    :scale: 60
+    :align: center 
 
-B. In the left panel, on top you can have more control of the main slider. You can see the numeric values associated with points on the slider and directly input numeric values to set the slider level. Scroll down to change and explore the related sliders. Click on the triangle to the left of each slider title to see a brief description of the slider. 
+Here is what you will find in the detailed slider view:  
 
-C. In the right panel, you can see a graph relevant to the main slider for the group and selected among other Related Graphs. These are useful to reference in order to examine the changes that occur from moving the sliders in this view. Select from the dropdown list of Related Graphs on top.
+A. **A description of the overall slider** - This description provides further detail about the particular solution. 
 
-D. You can access more detailed information about the slider through the information button. This is the same information that is found for this topic here in the En-ROADS User Guide. 
+B. **More control of the main slider** - You'll see the units associated with the slider and the numeric values of points along the slider. You can directly input numeric values to set the slider level to a specific value of your choice (within range). Scroll down to change and explore the related sliders. Click on the triangle to the left of each slider title to see a brief description of the slider. 
+
+C. **Related graphs** - In the right panel, you'll see a graph relevant to the main slider as well as a choice of additional Related Graphs. These are useful to reference in order to examine the changes that occur from moving the sliders in this view. Select from the dropdown list of Related Graphs to view other graphs. You will still be able to see your slider moves impact the main graphs as well. 
+
+D. **Help** - You can access more detailed information about the slider through the information button. This is the same information that is found for this topic in the En-ROADS User Guide. 
 
 .. image:: ../images/tutorial_images/sliders.png
 
@@ -42,6 +47,8 @@ Top Toolbar Features
 ---------------------
 
 Many useful features are just a click away from the top toolbar on En-ROADS. Here are some of the features that you can access. 
+
+.. image:: ../images/tutorial_images/toolbar.png
 
 A. **Share Your Scenario** – You can share your unique scenario link to others. Others can open your En-ROADS scenario with all the settings you have chosen and the last main graphs you viewed. You can then share your scenario to social media channels. Grabbing the link from your browser’s URL bar will also work, however, your last viewed graphs will not be captured. 
 
@@ -55,7 +62,7 @@ E. **Actions and Outcomes** [under the “View” menu] – This list summarizes
 
 F.	**Related Examples** [under the “Help” menu] – This list shares common examples of topics and solutions related to each of the 18 sliders. This is helpful when you need to quickly pull up a list of examples which relate to each of the sliders.
 
-.. image:: ../images/tutorial_images/toolbar.png
+Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
 
 
 

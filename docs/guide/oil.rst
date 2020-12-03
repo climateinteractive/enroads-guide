@@ -20,11 +20,9 @@ Big Message
 Key Dynamics
 ------------
 
-* When oil is discouraged, by taxing it, watch the red line go down in the “Global Sources of Primary Energy” graph. 
+* When oil is discouraged, by taxing it, watch the red area of Oil go down in the “Global Sources of Primary Energy” graph. 
 
 * When oil is taxed, notice what happens to coal and gas in response. Unless there are restrictions on coal and gas, their demand will go up in response to expensive oil. We call this the “squeeze the balloon” problem – depressing fossil fuel emissions in one area causes them to pop up in another. Renewables are also boosted slightly, but the impact is negligible. Adding a carbon price is a good solution to the “squeeze the balloon” problem, as it addresses all fossil fuels together.
-
-* The net result of taxing oil is no change in overall greenhouse gas emissions and no reduction in future temperature. 
 
 * Notice that taxing oil results in an increase in electrification of the vehicle fleet as electric powered modes of transport become more affordable in the face of higher oil prices. See this demonstrated in the "Electric Share of Final Energy-Transport" graph. 
 
@@ -66,7 +64,7 @@ The cost of oil affects three significant decisions regarding energy infrastruct
 
 FAQs
 -------
-**How can I directly force deeper reductions in oil use?** Consider selecting the “Stop building new oil infrastructure” switch in the advanced view, and changing the “% reduction in oil utilization” slider.
+**How can I directly force deeper reductions in oil use?** Consider selecting the “Stop building new oil infrastructure” switch in the advanced view, and changing the “% Reduction in oil utilization” slider.
 
 Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
 
