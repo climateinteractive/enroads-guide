@@ -10,6 +10,10 @@ En-ROADS Model Version History
 December 2020 Release
 --------------------
 
+Read `more details <https://www.climateinteractive.org/project-news/en-roads-updated-with-new-baseline-scenario/>`_ about the update.
+
+Watch a `video overview <https://youtu.be/7yBmVysNEsI>`_ of the details of the update.
+
 Model Upgrade
 ~~~~~~~~~~~~~
 
