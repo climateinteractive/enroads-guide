@@ -33,10 +33,10 @@ Interface Changes
 
 New
 ^^^^^
-- **New default graphs**: Added several graphs related to renewable energy: Low Carbon Average Cost of Electricity Production by Source; Low Carbon Marginal Cost of Electricity Production by Source; Renewables Capacity — Area.
+- **New default graphs**: Changed the default graphs from "Global Sources of Primary Energy" and "Temperature Change" to "Global Sources of Primary Energy — Area" and "Greenhouse Gas Net Emissions".
+- Added several graphs related to renewable energy: "Low Carbon Average Cost of Electricity Production by Source", "Low Carbon Marginal Cost of Electricity Production by Source", and "Renewables Capacity — Area".
 - Changed the phrase "Business as usual" and "BAU" to "Baseline" across the interface, graphs, legends and descriptions. 
 - Renamed "New Technology" Energy Supply to "New Zero Carbon" Energy Supply throughout En-ROADS interface.
-- Changed the default graphs from "Global Sources of Primary Energy" and "Temperature Change" to "Global Sources of Primary Energy — Area" and "Greenhouse Gas Net Emissions"
 - Changed the population input slider to display "billion people in 2100" instead of the -1 to +1 index range.
 - Expanded the inputs for Economic Growth from a single input to now include "Long-term economic growth", "Near-term economic growth" and a "Transition time" for the "Near-term economic growth" to converge on the "Long-term economic growth" rate.
 
