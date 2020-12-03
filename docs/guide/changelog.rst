@@ -15,12 +15,12 @@ Model Upgrade
 
 New
 ^^^^^
-- **Update Baseline**: Several model additions related to renewable energy sources have lowered the baseline temperature in 2100 to 3.6°C/6.5°F. 
+- **Updated Baseline**: Several model additions related to renewable energy sources have lowered the baseline temperature in 2100 to 3.6°C/6.5°F. 
 - Renewables are now disaggregated and explicitly modeled for solar, wind, geothermal, and other renewables.  
 - We also account for the historical subsidies for renewables and the “soft costs” associated with each renewable type. These soft costs have declined as experience was gained. 
 - The temperature change reported is now relative to the 19th century.
 - Initial heat is now calculated from historic temperature change in 1990, taken from temperature anomaly relative to 19th century from GISS (2020) and Hadley (2020) and adjusted to be relative to 18th century mean.
-- Other forcings taken from Meinshausen (2011) to reflect those relative to 18th century.  Natural forcings easier to subtract to obtain anthropogenic forcings for Equivalent CO2 concentration.
+- Other forcings taken from Meinshausen (2011) to reflect those relative to 18th century.  Natural forcings easier to subtract to obtain anthropogenic forcings for Equivalent CO\ :sub:`2` concentration.
 - Initial CO\ :sub:`2`\, CH\ :sub:`4`\, and N\ :sub:`2`\O updated to reflect actual data from GISS instead of C-ROADS 1990 values.
 - Decrease in extraction overheating sensitivity and profitability effects on retirement rates of supply sources to dampen rapid changes in bioenergy demand.
 
@@ -33,11 +33,11 @@ Interface Changes
 
 New
 ^^^^^
-- **New default graphs**: Added several graphs related to renewable energy: Low Carbon Average Cost of Electricity Production by Source; Low Carbon Marginal Cost of Electricity Production by Source; Renewables Capacity— Area.
+- **New default graphs**: Added several graphs related to renewable energy: Low Carbon Average Cost of Electricity Production by Source; Low Carbon Marginal Cost of Electricity Production by Source; Renewables Capacity — Area.
 - Changed the phrase "Business as usual" and "BAU" to "Baseline" across the interface, graphs, legends and descriptions. 
 - Renamed "New Technology" Energy Supply to "New Zero Carbon" Energy Supply throughout En-ROADS interface.
 - Changed the default graphs from "Global Sources of Primary Energy" and "Temperature Change" to "Global Sources of Primary Energy — Area" and "Greenhouse Gas Net Emissions"
-- Changed the population input slider to display "billion people in 2100" instead of the +1 to -1 index range.
+- Changed the population input slider to display "billion people in 2100" instead of the -1 to +1 index range.
 - Expanded the inputs for Economic Growth from a single input to now include "Long-term economic growth", "Near-term economic growth" and a "Transition time" for the "Near-term economic growth" to converge on the "Long-term economic growth" rate.
 
 Fixed
