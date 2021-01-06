@@ -18,7 +18,7 @@ New
 
 - **Translation into Turkish**: We have a new translation into Turkish this release. Check it out under the Language menu.
 
-- **New graphs**: Added a new graph, "% Electricity Consumption from Low-Carbon Sources". Find it under "Final Energy Consumption Types" under the Graphs menu.
+- **New graph**: Added a new graph, "% Electricity Consumption from Low-Carbon Sources". Find it under "Final Energy Consumption Types" under the Graphs menu.
 
 - Corrected all references to Purchasing Power Parity to $US 2017. Other various text edits.
 
