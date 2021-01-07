@@ -20,7 +20,7 @@ Key Dynamics
 
 * As bioenergy is subsidized or taxed, notice that the temperature changes very little. Changes in bioenergy shift the amount of other energy sources, which can mean things like more coal if bioenergy is taxed or less renewables if bioenergy is subsidized.
 
-* Bioenergy is only zero carbon if the feedstock is regrown to account for the carbon emitted. In some areas, trees are being used for bioenergy, which will take decades to regrow to make up for the carbon released when burned.
+* Bioenergy is only zero-carbon if the feedstock is regrown to account for the carbon emitted. In some areas, trees are being used for bioenergy, which will take decades to regrow to make up for the carbon released when burned.
 
 Potential Co-Benefits of Discouraging Bioenergy
 -------------------------------------------------
