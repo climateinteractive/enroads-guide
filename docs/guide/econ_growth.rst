@@ -22,6 +22,8 @@ Key Dynamics
 
 * Watch all the sources of energy change as you change economic growth.
 
+* As you increase the economic damage caused by climate change, notice how this reduces the emissions, but cannot halt the temperature increase even under extreme assumptions where the world's GDP plummets. 
+
 Potential Co-Benefits of Lower Growth
 --------------------------------------
 •	Focus may be shifted to alternative measures of prosperity that enhance people’s wellbeing, such as gross national happiness. 
@@ -35,16 +37,36 @@ Equity Considerations
 Slider Settings
 ---------------
 
+*Economic Growth*
+
 ============================= ============ ================ ============
 \                             low growth   **status quo**   high growth
 ============================= ============ ================ ============
-Long-term GDP growth per year 0.5% to 1.2% **1.2% to 1.9%** 1.9% to 2.5%
+Long-term economic growth     0.5% to 1.2% **1.2% to 1.9%** 1.9% to 2.5%
+
+Near-term economic growth     1.7% to 2.1% **2.2% to 2.9%** 3.0% to 3.7%
 ============================= ============ ================ ============
+
+The “Long-term economic growth” slider is the main slider that is used for controlling economic growth, however, more precise assumptions about economic growth can be set by also adjusting the “Near-term economic growth” slider. This slider sets the initial global average growth in GDP per person. The slider “Transition time” is available to change the amount of time it takes for the “Near-term economic growth” level to reach the “long-term economic growth” level. 
+
+*Reduction in GDP from Climate*
+
+The two sliders “Reduction in GDP at 2°C” and “Maximum reduction in GDP” enable the user to explore the strength of the feedback between climate impacts and economic growth. These two sliders are displayed on a single line since they are related to each other. *Maximum reduction in GDP* cannot be smaller than *Reduction in GDP at 2°C*, hence they move together if a user tries to move them pass each other. To see the dynamics as you adjust these sliders view the graph “Reduction in GDP vs Temperature.“ 
+
+Climate change is expected to have multiple adverse effects on the economy, such as decreased investment in goods and services due to the cost of responding to changes in extreme weather events, sea level rise, desertification, crop yield decreases, flooding, and resulting migration. Several economists formulated this impact, known as the “damage function,” as a percentage reduction on global GDP, and estimated it as a function of temperature change. The four main functions in the literature are from Nordhaus (2017), Weitzman (2012), Dietz & Stern (2015) and Burke et al (2015). You can see their estimates for economic damage in the “Reduction in GDP vs Temperature” graph, and replicate them by entering the following values for the two sliders covering in reduction in GDP from climate impacts. 
+
+============================= ============ ================ ============== ========
+En-ROADS Slider               Nordhaus     Weitzman         Dietz & Stern  Burke                
+============================= ============ ================ ============== ========
+Reduction in GDP at 2ºC       0.9%         1.3%             2.6%           13%
+Maximum reduction in GDP      22%          97%              98%            20%
+============================= ============ ================ ============== ========
+
 
 Model Structure
 ---------------
 
-Whereas, in the real world, there would be feedbacks to economic growth from energy prices, various taxes, and the impacts of climate change, the model does not include these effects. The user could explore such feedbacks by changing this input manually.
+In the real world, there would be multiple feedbacks to economic growth from energy prices, and various taxes, however, the model only features the feedback from climate impacts to GDP. The user can explore the other feedbacks by changing economic growth projections with the sliders manually.
 
 Please visit `support.climateinteractive.org <https://support.climateinteractive.org>`_ for additional inquires and support.
 
