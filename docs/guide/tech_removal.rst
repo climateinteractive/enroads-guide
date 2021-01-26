@@ -21,6 +21,8 @@ Key Dynamics
 
 * View the graph “Land for Carbon Dioxide Removal” and note the total amount of land area that all the approaches might require.
 
+* View the graph “Bulk Material for Mineralization” to see the scale of industrial production these approaches entail. 
+
 Potential Co-Benefits of CDR Growth
 -------------------------------------
 •	Nature-based carbon removal approaches like agricultural soil sequestration can help improve land holder and farmer profits in some cases.
