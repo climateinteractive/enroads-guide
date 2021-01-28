@@ -7,6 +7,37 @@ En-ROADS Model Version History
    H2 = ~~~~~~   For main areas
    H3 = ^^^^^^   For sub areas
 
+February 2021 Release
+---------------------
+
+Model Upgrade
+~~~~~~~~~~~~~
+
+New
+^^^^^
+- Update of historical data sources in the model. 
+- ???Anything new?
+
+Updated
+^^^^^^^
+- En-ROADS model to version 2.7.35???
+
+Interface Changes
+~~~~~~~~~~~~~~~~~
+
+New
+^^^^^
+
+- **Four new translations**: Traditional Chinese, Simplified Chinese, German and Bulgarian. More languages on the way in March!
+- **New graphs**: Added three graphs related to enhanced weathering/mineralization process: Land for Farming with CO\ :sub:`2` Removal, Land for Farming with CO\ :sub:`2` Removal—Acres and Bulk Material for Mineralization 
+- Language icon
+- Changes to editing & translation process for references to make translation of more streamlined and simpler in future updates.
+
+Fixed
+^^^^^
+- Terminology change from "mid-19th century" to 1850. 
+- Adjust some graph and slider labels for better fit in translations.
+
 January 2021 Release
 --------------------
 
