@@ -28,9 +28,9 @@ Interface Changes
 New
 ^^^^^
 
-- **Four new translations**: Traditional Chinese, Simplified Chinese, German and Bulgarian. More languages on the way in March!
-- **New graphs**: Added three graphs related to enhanced weathering/mineralization process: Land for Farming with CO\ :sub:`2` Removal, Land for Farming with CO\ :sub:`2` Removal—Acres and Bulk Material for Mineralization 
-- Language icon
+- **Four new translations**: We have new translations into traditional Chinese, simplified Chinese, German and Bulgarian. More languages on the way in March!
+- **New graphs**: Added three graphs related to enhanced weathering/mineralization process: "Land for Farming with CO\ :sub:`2` Removal," "Land for Farming with CO\ :sub:`2` Removal" and "Bulk Material for Mineralization" 
+- Relocate the Language menu to the first menu position and include a globe icon as an indicator for the menu
 - Changes to editing & translation process for references to make translation of more streamlined and simpler in future updates.
 
 Fixed
